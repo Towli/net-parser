@@ -1,0 +1,76 @@
+
+1491400802
+traceroute to 94.228.132.139 (94.228.132.139), 30 hops max, 60 byte packets
+ 1  139.222.0.1 (139.222.0.1)  1.075 ms  1.467 ms  1.824 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  0.601 ms  1.342 ms  0.282 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  0.940 ms  0.915 ms  0.931 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  1.233 ms  1.356 ms  1.045 ms
+ 5  xe-9-0-1.londpg-ban1.ja.net (146.97.41.209)  7.551 ms  7.691 ms  7.708 ms
+ 6  ae26.londpg-sbr2.ja.net (146.97.35.233)  7.689 ms  7.595 ms  7.800 ms
+ 7  ae29.londhx-sbr1.ja.net (146.97.33.1)  6.908 ms  6.934 ms  6.876 ms
+ 8  ae0.londhx-ban2.ja.net (146.97.35.198)  6.875 ms  6.898 ms  6.876 ms
+ 9  * * *
+10  be3356.ccr21.lon01.atlas.cogentco.com (130.117.14.133)  7.720 ms Cogent-level3-100G.London2.Level3.net (4.68.72.186)  7.708 ms be3356.ccr21.lon01.atlas.cogentco.com (130.117.14.133)  7.317 ms
+11  be2868.ccr41.lon13.atlas.cogentco.com (154.54.57.153)  7.460 ms be2870.ccr41.lon13.atlas.cogentco.com (154.54.58.173)  7.474 ms be2868.ccr41.lon13.atlas.cogentco.com (154.54.57.153)  7.806 ms
+12  be12488.ccr42.ams03.atlas.cogentco.com (130.117.51.42)  14.224 ms  14.665 ms be12194.ccr41.ams03.atlas.cogentco.com (154.54.56.94)  14.538 ms
+13  be2434.agr21.ams03.atlas.cogentco.com (130.117.2.241)  14.594 ms be2440.agr21.ams03.atlas.cogentco.com (130.117.50.6)  14.438 ms be2434.agr21.ams03.atlas.cogentco.com (130.117.2.241)  14.475 ms
+14  149.14.82.26 (149.14.82.26)  199.507 ms  199.384 ms  195.351 ms
+15  rc10-xe-0-0-1.core.as41887.net (94.228.128.214)  14.382 ms  14.403 ms  14.301 ms
+16  94.228.132.139 (94.228.132.139)  14.259 ms  14.312 ms  14.339 ms
+
+1491422402
+traceroute to 94.228.132.139 (94.228.132.139), 30 hops max, 60 byte packets
+ 1  139.222.0.1 (139.222.0.1)  1.270 ms  1.579 ms  1.974 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  0.390 ms  0.642 ms  0.636 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  1.143 ms  0.945 ms  1.104 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  1.387 ms  1.071 ms  1.219 ms
+ 5  xe-9-0-1.londpg-ban1.ja.net (146.97.41.209)  7.749 ms  7.737 ms  7.560 ms
+ 6  ae26.londpg-sbr2.ja.net (146.97.35.233)  7.693 ms  7.812 ms  7.743 ms
+ 7  ae29.londhx-sbr1.ja.net (146.97.33.1)  40.247 ms  38.721 ms  6.743 ms
+ 8  ae0.londhx-ban2.ja.net (146.97.35.198)  6.788 ms  6.823 ms  6.753 ms
+ 9  * * *
+10  be3356.ccr21.lon01.atlas.cogentco.com (130.117.14.133)  7.257 ms  7.621 ms Cogent-level3-100G.London2.Level3.net (4.68.72.186)  7.777 ms
+11  be2869.ccr42.lon13.atlas.cogentco.com (154.54.57.161)  7.528 ms be2870.ccr41.lon13.atlas.cogentco.com (154.54.58.173)  7.639 ms be2871.ccr42.lon13.atlas.cogentco.com (154.54.58.185)  7.445 ms
+12  be12488.ccr42.ams03.atlas.cogentco.com (130.117.51.42)  14.422 ms  14.559 ms  14.491 ms
+13  be2434.agr21.ams03.atlas.cogentco.com (130.117.2.241)  14.510 ms be2440.agr21.ams03.atlas.cogentco.com (130.117.50.6)  14.385 ms be2434.agr21.ams03.atlas.cogentco.com (130.117.2.241)  14.455 ms
+14  149.14.82.26 (149.14.82.26)  30.880 ms  30.909 ms  30.851 ms
+15  rc10-xe-0-0-1.core.as41887.net (94.228.128.214)  14.328 ms  14.220 ms  14.314 ms
+16  94.228.132.139 (94.228.132.139)  14.223 ms  14.481 ms  14.466 ms
+
+1491444003
+traceroute to 94.228.132.139 (94.228.132.139), 30 hops max, 60 byte packets
+ 1  139.222.0.1 (139.222.0.1)  1.160 ms  1.587 ms  2.016 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  0.508 ms  0.474 ms  0.758 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  1.004 ms  1.058 ms  0.965 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  1.462 ms  1.130 ms  1.310 ms
+ 5  xe-9-0-1.londpg-ban1.ja.net (146.97.41.209)  7.746 ms  7.811 ms  7.789 ms
+ 6  ae26.londpg-sbr2.ja.net (146.97.35.233)  7.771 ms  8.058 ms  7.952 ms
+ 7  ae29.londhx-sbr1.ja.net (146.97.33.1)  7.149 ms  7.070 ms  7.115 ms
+ 8  ae0.londhx-ban2.ja.net (146.97.35.198)  7.037 ms  7.076 ms  7.066 ms
+ 9  * * *
+10  Cogent-level3-100G.London2.Level3.net (4.68.72.186)  7.808 ms  7.891 ms be3356.ccr21.lon01.atlas.cogentco.com (130.117.14.133)  7.522 ms
+11  be2868.ccr41.lon13.atlas.cogentco.com (154.54.57.153)  7.749 ms be2870.ccr41.lon13.atlas.cogentco.com (154.54.58.173)  7.980 ms be2868.ccr41.lon13.atlas.cogentco.com (154.54.57.153)  7.671 ms
+12  be12194.ccr41.ams03.atlas.cogentco.com (154.54.56.94)  14.875 ms be12488.ccr42.ams03.atlas.cogentco.com (130.117.51.42)  14.619 ms  14.515 ms
+13  be2440.agr21.ams03.atlas.cogentco.com (130.117.50.6)  14.726 ms be2434.agr21.ams03.atlas.cogentco.com (130.117.2.241)  14.857 ms  14.736 ms
+14  149.14.82.26 (149.14.82.26)  14.367 ms  14.320 ms  14.253 ms
+15  rc10-xe-0-0-1.core.as41887.net (94.228.128.214)  14.689 ms  14.702 ms  14.670 ms
+16  94.228.132.139 (94.228.132.139)  14.497 ms  14.702 ms  14.682 ms
+
+1491465601
+traceroute to 94.228.132.139 (94.228.132.139), 30 hops max, 60 byte packets
+ 1  139.222.0.1 (139.222.0.1)  1.187 ms  1.554 ms  1.948 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  0.309 ms  0.617 ms  0.607 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  0.968 ms  0.862 ms  0.920 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  1.345 ms  1.048 ms  1.158 ms
+ 5  xe-9-0-1.londpg-ban1.ja.net (146.97.41.209)  9.846 ms  7.632 ms  7.607 ms
+ 6  ae26.londpg-sbr2.ja.net (146.97.35.233)  7.654 ms  7.896 ms  7.881 ms
+ 7  ae29.londhx-sbr1.ja.net (146.97.33.1)  6.954 ms  6.935 ms  6.926 ms
+ 8  ae0.londhx-ban2.ja.net (146.97.35.198)  8.111 ms  8.136 ms  8.122 ms
+ 9  * * *
+10  Cogent-level3-100G.London2.Level3.net (4.68.72.186)  7.546 ms  7.343 ms be3356.ccr21.lon01.atlas.cogentco.com (130.117.14.133)  7.392 ms
+11  be2871.ccr42.lon13.atlas.cogentco.com (154.54.58.185)  7.447 ms be2868.ccr41.lon13.atlas.cogentco.com (154.54.57.153)  7.495 ms  7.605 ms
+12  be12194.ccr41.ams03.atlas.cogentco.com (154.54.56.94)  14.497 ms  14.254 ms  14.721 ms
+13  be2434.agr21.ams03.atlas.cogentco.com (130.117.2.241)  14.504 ms  14.689 ms  14.711 ms
+14  149.14.82.26 (149.14.82.26)  14.046 ms  14.122 ms  14.027 ms
+15  rc10-xe-0-0-1.core.as41887.net (94.228.128.214)  25.235 ms  25.237 ms  25.177 ms
+16  94.228.132.139 (94.228.132.139)  14.269 ms  14.368 ms  14.351 ms

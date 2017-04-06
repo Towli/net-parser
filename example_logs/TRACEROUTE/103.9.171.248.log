@@ -1,0 +1,106 @@
+
+1491400802
+traceroute to 103.9.171.248 (103.9.171.248), 30 hops max, 60 byte packets
+ 1  139.222.0.1 (139.222.0.1)  0.976 ms  1.255 ms  1.643 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  0.360 ms  0.350 ms  0.275 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  0.904 ms  0.969 ms  0.938 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  1.280 ms  1.113 ms  1.343 ms
+ 5  xe-9-0-1.londpg-ban1.ja.net (146.97.41.209)  7.678 ms  7.637 ms  7.846 ms
+ 6  ae26.londpg-sbr2.ja.net (146.97.35.233)  7.791 ms  7.931 ms  7.908 ms
+ 7  ae29.londhx-sbr1.ja.net (146.97.33.1)  40.877 ms  6.937 ms  40.920 ms
+ 8  ae0.londhx-ban2.ja.net (146.97.35.198)  7.164 ms  7.055 ms  7.130 ms
+ 9  ldn-b3-link.telia.net (62.115.148.158)  7.032 ms  7.097 ms  7.079 ms
+10  ldn-bb2-link.telia.net (62.115.119.144)  6.978 ms ldn-bb3-link.telia.net (62.115.134.134)  7.384 ms ldn-bb2-link.telia.net (62.115.141.196)  7.252 ms
+11  ash-bb3-link.telia.net (62.115.124.130)  85.853 ms nyk-bb4-link.telia.net (62.115.124.166)  82.555 ms ash-bb4-link.telia.net (213.248.65.210)  96.298 ms
+12  ash-bb4-link.telia.net (62.115.137.108)  81.849 ms sjo-b21-link.telia.net (213.155.130.213)  153.001 ms sjo-b21-link.telia.net (62.115.138.51)  154.313 ms
+13  vocus-ic-324265-sjo-b21.c.telia.net (62.115.154.13)  152.756 ms  154.576 ms  154.461 ms
+14  bundle-150.cor01.sjc01.ca.vocus.net (49.255.255.18)  309.118 ms  308.944 ms  311.228 ms
+15  bundle-150.cor01.sjc01.ca.vocus.net (49.255.255.18)  309.999 ms 100g-0-0-0-0.cor01.lax01.ca.vocus.net (49.255.255.1)  310.280 ms bundle-150.cor01.sjc01.ca.vocus.net (49.255.255.18)  311.841 ms
+16  ash-bb4-link.telia.net (62.115.136.201)  85.526 ms bundle-200.cor01.alb01.akl.vocus.net.nz (114.31.202.44)  314.025 ms 100g-0-0-0-0.cor01.lax01.ca.vocus.net (49.255.255.1)  312.054 ms
+17  bundle-200.cor01.alb01.akl.vocus.net.nz (114.31.202.44)  313.701 ms ten-0-2-1-0.cor03.syd03.nsw.vocus.net.au (114.31.202.36)  317.158 ms  315.082 ms
+18  ten-1-0-0.bdr03.syd04.nsw.VOCUS.net.au (175.45.72.73)  309.747 ms vocus-ic-324265-sjo-b21.c.telia.net (62.115.154.13)  153.503 ms ten-1-0-0.bdr03.syd04.nsw.VOCUS.net.au (175.45.72.73)  309.716 ms
+19  ten-1-0-0.bdr03.syd04.nsw.VOCUS.net.au (175.45.72.73)  309.946 ms *  310.231 ms
+20  10ge-agg01.syd01.as45638.net.au (103.252.152.253)  309.695 ms  309.855 ms 100g-0-0-0-0.cor01.lax01.ca.vocus.net (49.255.255.1)  311.027 ms
+21  10ge-gw01.syd01.ventraip.net.au (103.252.152.129)  310.718 ms  311.909 ms *
+22  ten-0-2-1-0.cor03.syd03.nsw.vocus.net.au (114.31.202.36)  315.935 ms * *
+23  * * *
+24  * * *
+25  * * *
+26  * * 10ge-gw01.syd01.ventraip.net.au (103.252.152.129)  312.786 ms
+27  * b2s2-1b-syd.hosting-services.net.au (103.9.171.248)  309.934 ms *
+
+1491422402
+traceroute to 103.9.171.248 (103.9.171.248), 30 hops max, 60 byte packets
+ 1  139.222.0.1 (139.222.0.1)  1.106 ms  1.597 ms  1.880 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  0.479 ms  0.466 ms  0.455 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  1.056 ms  1.030 ms  1.012 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  1.431 ms  1.532 ms  1.391 ms
+ 5  xe-9-0-1.londpg-ban1.ja.net (146.97.41.209)  7.740 ms  7.719 ms  7.703 ms
+ 6  ae26.londpg-sbr2.ja.net (146.97.35.233)  14.436 ms  12.461 ms  12.437 ms
+ 7  ae29.londhx-sbr1.ja.net (146.97.33.1)  6.782 ms  6.970 ms  6.854 ms
+ 8  ae0.londhx-ban2.ja.net (146.97.35.198)  6.944 ms  6.927 ms  6.910 ms
+ 9  ldn-b3-link.telia.net (62.115.148.158)  7.179 ms  7.236 ms  7.223 ms
+10  ldn-bb3-link.telia.net (62.115.121.60)  6.889 ms ldn-bb2-link.telia.net (62.115.124.200)  81.115 ms ldn-bb3-link.telia.net (62.115.134.134)  6.851 ms
+11  ash-bb3-link.telia.net (213.155.134.233)  81.450 ms ash-bb3-link.telia.net (62.115.124.126)  85.496 ms prs-bb3-link.telia.net (62.115.122.249)  95.718 ms
+12  ldn-bb3-link.telia.net (80.91.246.144)  7.287 ms sjo-b21-link.telia.net (213.155.130.213)  152.757 ms sjo-b21-link.telia.net (80.91.252.46)  155.456 ms
+13  vocus-ic-324265-sjo-b21.c.telia.net (62.115.154.13)  152.252 ms nyk-bb3-link.telia.net (80.91.249.249)  77.184 ms nyk-bb3-link.telia.net (62.115.135.98)  76.966 ms
+14  bundle-150.cor01.sjc01.ca.vocus.net (49.255.255.18)  309.824 ms vocus-ic-324265-sjo-b21.c.telia.net (62.115.154.13)  151.746 ms bundle-150.cor01.sjc01.ca.vocus.net (49.255.255.18)  307.845 ms
+15  100g-0-0-0-0.cor01.lax01.ca.vocus.net (49.255.255.1)  309.154 ms  310.961 ms  310.926 ms
+16  100g-0-0-0-0.cor01.lax01.ca.vocus.net (49.255.255.1)  309.820 ms bundle-200.cor01.alb01.akl.vocus.net.nz (114.31.202.44)  311.606 ms 100g-0-0-0-0.cor01.lax01.ca.vocus.net (49.255.255.1)  309.762 ms
+17  bundle-200.cor01.alb01.akl.vocus.net.nz (114.31.202.44)  311.539 ms  311.715 ms sjo-b21-link.telia.net (213.155.130.213)  153.417 ms
+18  ten-1-0-0.bdr03.syd04.nsw.VOCUS.net.au (175.45.72.73)  308.278 ms  310.445 ms  307.373 ms
+19  bundle-150.cor01.sjc01.ca.vocus.net (49.255.255.18)  309.019 ms ten-1-0-0.bdr03.syd04.nsw.VOCUS.net.au (175.45.72.73)  308.804 ms *
+20  10ge-agg01.syd01.as45638.net.au (103.252.152.253)  308.524 ms  308.561 ms *
+21  10ge-gw01.syd01.ventraip.net.au (103.252.152.129)  310.833 ms  311.019 ms  310.938 ms
+22  10ge-gw01.syd01.ventraip.net.au (103.252.152.129)  322.885 ms * b2s2-1b-syd.hosting-services.net.au (103.9.171.248)  308.059 ms
+
+1491444003
+traceroute to 103.9.171.248 (103.9.171.248), 30 hops max, 60 byte packets
+ 1  139.222.0.1 (139.222.0.1)  1.190 ms  1.515 ms  1.906 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  0.464 ms  0.448 ms  0.426 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  1.014 ms  0.979 ms  0.951 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  1.335 ms  1.884 ms  1.966 ms
+ 5  xe-9-0-1.londpg-ban1.ja.net (146.97.41.209)  8.605 ms  8.579 ms  8.550 ms
+ 6  ae26.londpg-sbr2.ja.net (146.97.35.233)  8.444 ms  7.829 ms  7.853 ms
+ 7  ae29.londhx-sbr1.ja.net (146.97.33.1)  6.845 ms  7.057 ms  7.029 ms
+ 8  ae0.londhx-ban2.ja.net (146.97.35.198)  7.107 ms  7.084 ms  6.785 ms
+ 9  ldn-b3-link.telia.net (62.115.148.158)  6.912 ms  7.649 ms  7.559 ms
+10  ldn-bb3-link.telia.net (62.115.124.202)  7.511 ms ldn-bb2-link.telia.net (62.115.119.144)  6.857 ms ldn-bb2-link.telia.net (62.115.124.200)  7.089 ms
+11  nyk-bb4-link.telia.net (213.155.135.67)  84.784 ms ash-bb3-link.telia.net (62.115.124.126)  87.494 ms ash-bb3-link.telia.net (80.91.249.101)  85.112 ms
+12  sjo-b21-link.telia.net (62.115.138.15)  154.764 ms sjo-b21-link.telia.net (80.91.253.68)  156.240 ms  165.177 ms
+13  nyk-bb3-link.telia.net (62.115.135.96)  78.124 ms sjo-b21-link.telia.net (80.91.245.71)  154.608 ms vocus-ic-324265-sjo-b21.c.telia.net (62.115.154.13)  153.664 ms
+14  bundle-150.cor01.sjc01.ca.vocus.net (49.255.255.18)  313.849 ms nyk-b5-link.telia.net (62.115.133.245)  78.395 ms bundle-150.cor01.sjc01.ca.vocus.net (49.255.255.18)  316.137 ms
+15  100g-0-0-0-0.cor01.lax01.ca.vocus.net (49.255.255.1)  314.974 ms  315.405 ms  317.404 ms
+16  100g-0-0-0-0.cor01.lax01.ca.vocus.net (49.255.255.1)  326.833 ms ash-bb4-link.telia.net (62.115.137.108)  92.845 ms bundle-200.cor01.alb01.akl.vocus.net.nz (114.31.202.44)  322.235 ms
+17  ten-0-2-1-0.cor03.syd03.nsw.vocus.net.au (114.31.202.36)  322.561 ms ten-0-3-0-2.cor03.syd03.nsw.vocus.net.au (114.31.202.85)  317.438 ms  315.510 ms
+18  ten-0-3-0-2.cor03.syd03.nsw.vocus.net.au (114.31.202.85)  315.850 ms ten-1-0-0.bdr03.syd04.nsw.VOCUS.net.au (175.45.72.73)  314.324 ms  314.241 ms
+19  * * ten-1-0-0.bdr03.syd04.nsw.VOCUS.net.au (175.45.72.73)  314.733 ms
+20  10ge-agg01.syd01.as45638.net.au (103.252.152.253)  316.074 ms  314.492 ms 100g-0-0-0-0.cor01.lax01.ca.vocus.net (49.255.255.1)  316.661 ms
+21  10ge-gw01.syd01.ventraip.net.au (103.252.152.129)  318.681 ms 10ge-agg01.syd01.as45638.net.au (103.252.152.253)  314.350 ms bundle-200.cor01.alb01.akl.vocus.net.nz (114.31.202.44)  318.179 ms
+22  10ge-gw01.syd01.ventraip.net.au (103.252.152.129)  317.384 ms ten-0-3-0-2.cor03.syd03.nsw.vocus.net.au (114.31.202.85)  321.749 ms  317.612 ms
+23  b2s2-1b-syd.hosting-services.net.au (103.9.171.248)  314.230 ms  316.798 ms *
+
+1491465601
+traceroute to 103.9.171.248 (103.9.171.248), 30 hops max, 60 byte packets
+ 1  139.222.0.1 (139.222.0.1)  1.100 ms  1.477 ms  2.000 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  0.463 ms  0.664 ms  0.651 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  1.028 ms  0.990 ms  0.997 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  1.446 ms  1.161 ms  1.288 ms
+ 5  xe-9-0-1.londpg-ban1.ja.net (146.97.41.209)  15.215 ms  15.198 ms  15.147 ms
+ 6  ae26.londpg-sbr2.ja.net (146.97.35.233)  7.657 ms  7.731 ms  7.718 ms
+ 7  ae29.londhx-sbr1.ja.net (146.97.33.1)  6.734 ms  6.772 ms  6.759 ms
+ 8  ae0.londhx-ban2.ja.net (146.97.35.198)  6.778 ms  6.730 ms  7.375 ms
+ 9  ldn-b3-link.telia.net (62.115.148.158)  7.362 ms  7.346 ms  7.334 ms
+10  ldn-bb2-link.telia.net (62.115.124.200)  119.281 ms ldn-bb3-link.telia.net (62.115.134.134)  6.842 ms ldn-bb2-link.telia.net (62.115.141.196)  174.788 ms
+11  ash-bb3-link.telia.net (80.91.246.66)  83.882 ms nyk-bb4-link.telia.net (62.115.124.164)  82.347 ms ash-bb3-link.telia.net (213.155.134.235)  84.667 ms
+12  sjo-b21-link.telia.net (80.91.253.68)  154.809 ms sjo-b21-link.telia.net (62.115.138.51)  155.021 ms ldn-bb3-link.telia.net (213.155.136.74)  7.836 ms
+13  vocus-ic-324265-sjo-b21.c.telia.net (62.115.154.13)  152.958 ms nyk-bb3-link.telia.net (80.91.249.249)  77.632 ms vocus-ic-324265-sjo-b21.c.telia.net (62.115.154.13)  153.072 ms
+14  bundle-150.cor01.sjc01.ca.vocus.net (49.255.255.18)  309.845 ms  310.136 ms  309.558 ms
+15  ash-b1-link.telia.net (80.91.248.157)  83.329 ms 100g-0-0-0-0.cor01.lax01.ca.vocus.net (49.255.255.1)  311.219 ms  311.145 ms
+16  100g-0-0-0-0.cor01.lax01.ca.vocus.net (49.255.255.1)  311.735 ms bundle-200.cor01.alb01.akl.vocus.net.nz (114.31.202.44)  312.701 ms  313.507 ms
+17  ten-0-3-0-2.cor03.syd03.nsw.vocus.net.au (114.31.202.85)  313.848 ms sjo-b21-link.telia.net (213.155.135.157)  155.408 ms ten-0-2-1-0.cor03.syd03.nsw.vocus.net.au (114.31.202.36)  315.921 ms
+18  ten-1-0-0.bdr03.syd04.nsw.VOCUS.net.au (175.45.72.73)  310.340 ms  310.357 ms ten-0-3-0-2.cor03.syd03.nsw.vocus.net.au (114.31.202.85)  323.780 ms
+19  * ten-1-0-0.bdr03.syd04.nsw.VOCUS.net.au (175.45.72.73)  310.958 ms  310.607 ms
+20  * * *
+21  10ge-agg01.syd01.as45638.net.au (103.252.152.253)  310.941 ms 10ge-gw01.syd01.ventraip.net.au (103.252.152.129)  313.710 ms 10ge-agg01.syd01.as45638.net.au (103.252.152.253)  310.681 ms
+22  b2s2-1b-syd.hosting-services.net.au (103.9.171.248)  312.570 ms  314.842 ms  313.265 ms

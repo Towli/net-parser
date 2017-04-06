@@ -1,0 +1,68 @@
+
+1491400802
+traceroute to 220.243.233.15 (220.243.233.15), 30 hops max, 60 byte packets
+ 1  139.222.0.1 (139.222.0.1)  1.085 ms  1.503 ms  1.867 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  0.263 ms  0.745 ms  0.631 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  7.352 ms  0.880 ms  0.805 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  1.004 ms  1.131 ms  6.369 ms
+ 5  xe-9-0-1.londpg-ban1.ja.net (146.97.41.209)  12.938 ms  7.610 ms  7.634 ms
+ 6  ae26.londpg-sbr2.ja.net (146.97.35.233)  12.860 ms  7.729 ms  7.743 ms
+ 7  ae29.londhx-sbr1.ja.net (146.97.33.1)  29.593 ms  6.750 ms  29.443 ms
+ 8  ae0.londhx-ban2.ja.net (146.97.35.198)  6.849 ms  6.809 ms  6.814 ms
+ 9  ldn-b3-link.telia.net (62.115.148.158)  8.174 ms  8.194 ms  6.905 ms
+10  ldn-bb2-link.telia.net (62.115.119.144)  6.766 ms ldn-bb3-link.telia.net (62.115.134.134)  6.909 ms ldn-bb2-link.telia.net (62.115.134.138)  73.037 ms
+11  nyk-bb3-link.telia.net (80.91.249.249)  89.442 ms nyk-bb3-link.telia.net (213.155.133.149)  88.246 ms nyk-bb4-link.telia.net (80.91.248.254)  76.879 ms
+12  dls-b21-link.telia.net (213.155.137.29)  122.282 ms dls-b21-link.telia.net (213.155.130.67)  121.744 ms dls-b21-link.telia.net (62.115.137.49)  122.631 ms
+13  mileweb-ic-310411-dls-b21.c.telia.net (213.248.104.142)  121.570 ms  121.583 ms  121.540 ms
+14  220.243.233.15 (220.243.233.15)  122.278 ms  122.048 ms  122.992 ms
+
+1491422402
+traceroute to 220.243.233.15 (220.243.233.15), 30 hops max, 60 byte packets
+ 1  139.222.0.1 (139.222.0.1)  0.874 ms  1.271 ms  1.663 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  0.245 ms  0.495 ms  0.487 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  1.317 ms  1.298 ms  1.241 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  1.110 ms  1.207 ms  1.308 ms
+ 5  xe-9-0-1.londpg-ban1.ja.net (146.97.41.209)  7.588 ms  7.571 ms  7.642 ms
+ 6  ae26.londpg-sbr2.ja.net (146.97.35.233)  9.331 ms  12.942 ms  12.883 ms
+ 7  ae29.londhx-sbr1.ja.net (146.97.33.1)  6.981 ms  64.467 ms  6.918 ms
+ 8  ae0.londhx-ban2.ja.net (146.97.35.198)  6.775 ms  6.891 ms  6.919 ms
+ 9  * ldn-b3-link.telia.net (62.115.148.158)  7.253 ms  7.266 ms
+10  ldn-bb3-link.telia.net (62.115.124.202)  7.814 ms ldn-bb2-link.telia.net (62.115.124.200)  6.862 ms  94.582 ms
+11  nyk-bb4-link.telia.net (213.155.133.7)  76.370 ms  76.496 ms nyk-bb4-link.telia.net (62.115.124.166)  76.495 ms
+12  dls-b21-link.telia.net (213.155.130.65)  120.870 ms dls-b21-link.telia.net (213.155.130.209)  120.782 ms dls-b21-link.telia.net (213.155.130.67)  121.100 ms
+13  mileweb-ic-310411-dls-b21.c.telia.net (213.248.104.142)  131.401 ms  131.326 ms  131.313 ms
+14  220.243.233.15 (220.243.233.15)  121.252 ms  121.455 ms  121.859 ms
+
+1491444003
+traceroute to 220.243.233.15 (220.243.233.15), 30 hops max, 60 byte packets
+ 1  139.222.0.1 (139.222.0.1)  1.398 ms  1.746 ms  2.239 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  0.471 ms  0.447 ms  0.424 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  1.220 ms  1.464 ms  1.428 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  1.411 ms  1.457 ms  1.354 ms
+ 5  xe-9-0-1.londpg-ban1.ja.net (146.97.41.209)  7.763 ms  7.836 ms  7.804 ms
+ 6  ae26.londpg-sbr2.ja.net (146.97.35.233)  7.840 ms  7.970 ms  7.934 ms
+ 7  ae29.londhx-sbr1.ja.net (146.97.33.1)  7.008 ms  7.049 ms  15.026 ms
+ 8  ae0.londhx-ban2.ja.net (146.97.35.198)  7.084 ms  7.075 ms  7.013 ms
+ 9  ldn-b3-link.telia.net (62.115.148.158)  7.196 ms  7.179 ms  7.138 ms
+10  ldn-bb3-link.telia.net (62.115.121.60)  32.360 ms ldn-bb3-link.telia.net (62.115.134.134)  7.029 ms ldn-bb2-link.telia.net (62.115.134.138)  96.507 ms
+11  * * *
+12  dls-b21-link.telia.net (213.155.130.65)  123.637 ms dls-b21-link.telia.net (213.155.137.29)  124.425 ms dls-b21-link.telia.net (213.155.134.255)  123.549 ms
+13  mileweb-ic-310411-dls-b21.c.telia.net (213.248.104.142)  124.010 ms  124.096 ms  123.901 ms
+14  220.243.233.15 (220.243.233.15)  124.681 ms  124.670 ms  124.651 ms
+
+1491465601
+traceroute to 220.243.233.15 (220.243.233.15), 30 hops max, 60 byte packets
+ 1  139.222.0.1 (139.222.0.1)  1.092 ms  1.619 ms  1.878 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  1.961 ms  2.030 ms  2.069 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  1.988 ms  1.975 ms  1.961 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  1.238 ms  1.429 ms  1.405 ms
+ 5  xe-9-0-1.londpg-ban1.ja.net (146.97.41.209)  7.744 ms  7.718 ms  7.669 ms
+ 6  ae26.londpg-sbr2.ja.net (146.97.35.233)  7.688 ms  7.730 ms  7.741 ms
+ 7  ae29.londhx-sbr1.ja.net (146.97.33.1)  6.805 ms  6.793 ms  6.774 ms
+ 8  ae0.londhx-ban2.ja.net (146.97.35.198)  6.920 ms  6.901 ms  7.037 ms
+ 9  ldn-b3-link.telia.net (62.115.148.158)  7.024 ms * *
+10  ldn-bb3-link.telia.net (62.115.121.60)  6.976 ms  6.861 ms ldn-bb2-link.telia.net (62.115.141.196)  6.776 ms
+11  nyk-bb4-link.telia.net (213.155.133.7)  76.810 ms nyk-bb3-link.telia.net (213.155.135.65)  77.151 ms nyk-bb4-link.telia.net (213.155.135.71)  77.162 ms
+12  dls-b21-link.telia.net (213.155.130.67)  122.910 ms  121.658 ms dls-b21-link.telia.net (213.155.134.255)  121.786 ms
+13  mileweb-ic-310411-dls-b21.c.telia.net (213.248.104.142)  121.767 ms  121.277 ms  121.528 ms
+14  220.243.233.15 (220.243.233.15)  122.082 ms  122.070 ms  122.052 ms

@@ -1,0 +1,100 @@
+
+1491400802
+traceroute to 211.125.123.69 (211.125.123.69), 30 hops max, 60 byte packets
+ 1  139.222.0.1 (139.222.0.1)  1.081 ms  1.531 ms  1.881 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  0.310 ms  0.284 ms  0.268 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  0.844 ms  0.934 ms  0.912 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  1.346 ms  1.112 ms  1.315 ms
+ 5  xe-9-0-1.londpg-ban1.ja.net (146.97.41.209)  7.538 ms  7.785 ms  7.855 ms
+ 6  ae26.londpg-sbr2.ja.net (146.97.35.233)  11.217 ms  11.157 ms  11.241 ms
+ 7  ae29.londhx-sbr1.ja.net (146.97.33.1)  6.710 ms  6.782 ms  6.905 ms
+ 8  ae0.londhx-ban3.ja.net (146.97.35.166)  6.925 ms  6.880 ms  6.869 ms
+ 9  195.66.236.166 (195.66.236.166)  8.572 ms  7.218 ms  7.264 ms
+10  i-0-4-0-11.ulco-core02.bi.telstraglobal.net (202.40.148.37)  9.847 ms  10.798 ms  9.787 ms
+11  i-0-4-0-6.ny8a-core01.bx.telstraglobal.net (202.84.143.57)  75.743 ms i-0-4-0-4.ny8a-core01.bx.telstraglobal.net (202.84.143.233)  75.695 ms  73.912 ms
+12  i-0-1-0-7.eqnx-core01.bi.telstraglobal.net (202.84.136.182)  146.362 ms  146.443 ms unknown.telstraglobal.net (202.84.137.86)  153.340 ms
+13  unknown.telstraglobal.net (202.84.137.186)  244.741 ms unknown.telstraglobal.net (202.84.137.114)  248.956 ms unknown.telstraglobal.net (202.84.137.117)  273.648 ms
+14  i-0-1-0-34.sydp-core04.bx.telstraglobal.net (202.84.140.85)  287.207 ms i-0-1-0-16.sydp-core04.bx.telstraglobal.net (202.84.140.73)  239.274 ms i-0-1-0-34.sydp-core04.bx.telstraglobal.net (202.84.140.85)  264.177 ms
+15  unknown.telstraglobal.net (202.127.69.98)  259.587 ms  259.129 ms  258.418 ms
+16  p038.net061211176.broadline.ne.jp (61.211.176.38)  279.161 ms p054.net061211176.broadline.ne.jp (61.211.176.54)  261.287 ms p038.net061211176.broadline.ne.jp (61.211.176.38)  271.100 ms
+17  p122.net180233108.tokai.or.jp (180.233.108.122)  246.583 ms  241.323 ms  254.110 ms
+18  p014.net180233109.tokai.or.jp (180.233.109.14)  263.032 ms  253.776 ms  247.755 ms
+19  211.125.116.106 (211.125.116.106)  280.144 ms  274.011 ms  282.813 ms
+20  r202.tr9.kct.ne.jp (211.125.119.202)  250.299 ms  266.313 ms  250.449 ms
+21  l214.tr4.kct.ne.jp (211.125.114.214)  289.808 ms  267.550 ms  280.898 ms
+22  neo.069.woo.ne.jp (211.125.123.69)  264.624 ms !X  274.516 ms !X  267.182 ms !X
+
+1491422402
+traceroute to 211.125.123.69 (211.125.123.69), 30 hops max, 60 byte packets
+ 1  139.222.0.1 (139.222.0.1)  1.023 ms  1.403 ms  1.747 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  0.373 ms  0.364 ms  0.347 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  0.874 ms  1.025 ms  1.008 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  0.979 ms  1.096 ms  1.186 ms
+ 5  xe-9-0-1.londpg-ban1.ja.net (146.97.41.209)  7.591 ms  7.573 ms  7.584 ms
+ 6  ae26.londpg-sbr2.ja.net (146.97.35.233)  7.566 ms  7.770 ms  7.751 ms
+ 7  ae29.londhx-sbr1.ja.net (146.97.33.1)  6.770 ms  6.786 ms  6.770 ms
+ 8  ae0.londhx-ban3.ja.net (146.97.35.166)  7.032 ms  7.051 ms  7.040 ms
+ 9  195.66.236.166 (195.66.236.166)  7.336 ms  7.348 ms  7.194 ms
+10  i-0-4-0-10.ulco-core02.bi.telstraglobal.net (202.40.148.33)  8.181 ms i-0-4-0-13.ulco-core02.bi.telstraglobal.net (202.40.148.49)  7.503 ms 202.84.178.149 (202.84.178.149)  7.487 ms
+11  i-0-4-0-13.ny8a-core01.bx.telstraglobal.net (202.84.252.157)  83.269 ms i-0-4-0-4.ny8a-core01.bx.telstraglobal.net (202.84.143.233)  74.897 ms i-0-4-0-13.ny8a-core01.bx.telstraglobal.net (202.84.252.157)  83.232 ms
+12  i-0-1-0-7.eqnx-core01.bi.telstraglobal.net (202.84.136.182)  148.868 ms i-0-2-0-9.eqnx-core01.bi.telstraglobal.net (202.40.149.170)  149.433 ms unknown.telstraglobal.net (202.84.137.86)  153.389 ms
+13  unknown.telstraglobal.net (202.84.137.182)  266.571 ms unknown.telstraglobal.net (202.84.137.117)  262.152 ms unknown.telstraglobal.net (202.84.137.182)  266.548 ms
+14  i-0-1-0-34.sydp-core04.bx.telstraglobal.net (202.84.140.85)  260.217 ms i-0-0-0-0.jtha01.bi.telstraglobal.net (202.47.216.145)  263.634 ms i-0-1-0-33.sydp-core04.bx.telstraglobal.net (202.84.140.81)  242.108 ms
+15  unknown.telstraglobal.net (202.127.69.98)  271.024 ms  257.327 ms  266.126 ms
+16  p054.net061211176.broadline.ne.jp (61.211.176.54)  262.507 ms p038.net061211176.broadline.ne.jp (61.211.176.38)  275.717 ms p054.net061211176.broadline.ne.jp (61.211.176.54)  271.073 ms
+17  p122.net180233108.tokai.or.jp (180.233.108.122)  253.311 ms  255.563 ms  243.130 ms
+18  p014.net180233109.tokai.or.jp (180.233.109.14)  247.901 ms  247.172 ms  247.265 ms
+19  211.125.116.106 (211.125.116.106)  266.733 ms  273.180 ms  278.654 ms
+20  r202.tr9.kct.ne.jp (211.125.119.202)  250.427 ms  253.527 ms  261.971 ms
+21  l214.tr4.kct.ne.jp (211.125.114.214)  285.126 ms  285.340 ms  283.960 ms
+22  neo.069.woo.ne.jp (211.125.123.69)  278.198 ms !X  263.787 ms !X  267.721 ms !X
+
+1491444003
+traceroute to 211.125.123.69 (211.125.123.69), 30 hops max, 60 byte packets
+ 1  139.222.0.1 (139.222.0.1)  1.152 ms  1.530 ms  1.943 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  0.471 ms  0.652 ms  0.648 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  1.209 ms  1.201 ms  1.180 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  1.506 ms  1.365 ms  1.183 ms
+ 5  xe-9-0-1.londpg-ban1.ja.net (146.97.41.209)  7.820 ms  7.800 ms  7.817 ms
+ 6  ae26.londpg-sbr2.ja.net (146.97.35.233)  7.795 ms  7.913 ms  7.793 ms
+ 7  ae29.londhx-sbr1.ja.net (146.97.33.1)  6.812 ms  39.438 ms  39.412 ms
+ 8  ae0.londhx-ban3.ja.net (146.97.35.166)  6.894 ms  6.876 ms  6.870 ms
+ 9  195.66.236.166 (195.66.236.166)  7.424 ms  7.333 ms  7.648 ms
+10  i-0-4-0-10.ulco-core02.bi.telstraglobal.net (202.40.148.33)  8.985 ms 202.84.178.145 (202.84.178.145)  8.984 ms i-0-4-0-13.ulco-core02.bi.telstraglobal.net (202.40.148.49)  8.941 ms
+11  i-0-4-0-13.ny8a-core01.bx.telstraglobal.net (202.84.252.157)  83.229 ms i-0-4-0-6.ny8a-core01.bx.telstraglobal.net (202.84.143.57)  74.716 ms  74.685 ms
+12  i-0-6-0-1.eqnx-core01.bi.telstraglobal.net (202.84.136.178)  158.288 ms i-0-1-0-5.eqnx-core01.bi.telstraglobal.net (202.84.136.94)  156.038 ms  155.799 ms
+13  unknown.telstraglobal.net (202.84.137.117)  265.137 ms i-0-5-0-1.siko-core03.bx.telstraglobal.net (202.84.141.174)  262.962 ms unknown.telstraglobal.net (202.84.137.117)  264.659 ms
+14  unknown.telstraglobal.net (202.84.140.93)  244.528 ms i-0-1-0-34.sydp-core04.bx.telstraglobal.net (202.84.140.85)  278.713 ms unknown.telstraglobal.net (202.84.140.93)  257.156 ms
+15  unknown.telstraglobal.net (202.127.69.98)  275.776 ms  269.333 ms  279.184 ms
+16  p054.net061211176.broadline.ne.jp (61.211.176.54)  278.551 ms p038.net061211176.broadline.ne.jp (61.211.176.38)  282.861 ms p054.net061211176.broadline.ne.jp (61.211.176.54)  264.192 ms
+17  p122.net180233108.tokai.or.jp (180.233.108.122)  261.864 ms  262.450 ms  242.952 ms
+18  p014.net180233109.tokai.or.jp (180.233.109.14)  252.055 ms  248.068 ms  262.575 ms
+19  211.125.116.106 (211.125.116.106)  272.280 ms  271.921 ms  279.702 ms
+20  r202.tr9.kct.ne.jp (211.125.119.202)  252.973 ms  254.551 ms  255.729 ms
+21  l214.tr4.kct.ne.jp (211.125.114.214)  283.370 ms  285.593 ms  270.517 ms
+22  neo.069.woo.ne.jp (211.125.123.69)  286.344 ms !X  271.552 ms !X  286.974 ms !X
+
+1491465601
+traceroute to 211.125.123.69 (211.125.123.69), 30 hops max, 60 byte packets
+ 1  139.222.0.1 (139.222.0.1)  1.047 ms  1.417 ms  1.837 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  0.410 ms  0.573 ms  0.565 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  1.005 ms  0.992 ms  0.944 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  1.437 ms  1.158 ms  1.272 ms
+ 5  xe-9-0-1.londpg-ban1.ja.net (146.97.41.209)  7.703 ms  7.687 ms  7.624 ms
+ 6  ae26.londpg-sbr2.ja.net (146.97.35.233)  7.675 ms  7.697 ms  7.592 ms
+ 7  ae29.londhx-sbr1.ja.net (146.97.33.1)  6.717 ms  6.778 ms  6.872 ms
+ 8  ae0.londhx-ban3.ja.net (146.97.35.166)  6.862 ms  6.847 ms  6.823 ms
+ 9  195.66.236.166 (195.66.236.166)  9.442 ms  9.273 ms  9.346 ms
+10  i-0-4-0-12.ulco-core02.bi.telstraglobal.net (202.40.148.45)  7.277 ms i-0-4-0-10.ulco-core02.bi.telstraglobal.net (202.40.148.33)  10.464 ms i-0-4-0-13.ulco-core02.bi.telstraglobal.net (202.40.148.49)  10.358 ms
+11  i-0-4-0-13.ny8a-core01.bx.telstraglobal.net (202.84.252.157)  83.723 ms i-0-4-0-4.ny8a-core01.bx.telstraglobal.net (202.84.143.233)  75.314 ms  75.296 ms
+12  i-0-6-0-1.eqnx-core01.bi.telstraglobal.net (202.84.136.178)  158.848 ms unknown.telstraglobal.net (202.84.137.86)  152.173 ms i-0-6-0-1.eqnx-core01.bi.telstraglobal.net (202.84.136.178)  158.346 ms
+13  i-0-5-0-5.siko-core03.bx.telstraglobal.net (202.84.143.166)  277.545 ms unknown.telstraglobal.net (202.84.137.114)  251.568 ms i-0-4-2-0.siko-core03.bx.telstraglobal.net (202.84.136.86)  272.876 ms
+14  unknown.telstraglobal.net (202.84.140.93)  253.348 ms i-0-1-0-34.sydp-core04.bx.telstraglobal.net (202.84.140.85)  265.059 ms  278.298 ms
+15  unknown.telstraglobal.net (202.127.69.98)  262.863 ms  256.745 ms  271.930 ms
+16  p054.net061211176.broadline.ne.jp (61.211.176.54)  263.677 ms  263.487 ms  275.305 ms
+17  p122.net180233108.tokai.or.jp (180.233.108.122)  252.333 ms  255.983 ms  256.222 ms
+18  p014.net180233109.tokai.or.jp (180.233.109.14)  254.242 ms  249.642 ms  260.461 ms
+19  211.125.116.106 (211.125.116.106)  271.510 ms  273.355 ms  273.549 ms
+20  r202.tr9.kct.ne.jp (211.125.119.202)  262.813 ms  251.665 ms  250.826 ms
+21  l214.tr4.kct.ne.jp (211.125.114.214)  284.150 ms  269.591 ms  282.117 ms
+22  neo.069.woo.ne.jp (211.125.123.69)  264.386 ms !X  267.132 ms !X  268.199 ms !X

@@ -1,0 +1,76 @@
+
+1491404401
+--2017-04-05 16:00:08--  ftp://ftp.acc.umu.se/mirror/cdimage.ubuntu.com/releases/yakkety/release/ubuntu-16.10-server-s390x.jigdo
+           => ‘/dev/null’
+Resolving ftp.acc.umu.se (ftp.acc.umu.se)... 194.71.11.165, 2001:6b0:19::165
+Connecting to ftp.acc.umu.se (ftp.acc.umu.se)|194.71.11.165|:21... connected.
+Logging in as anonymous ... Logged in!
+==> SYST ... done.    ==> PWD ... done.
+==> TYPE I ... done.  ==> CWD (1) /mirror/cdimage.ubuntu.com/releases/yakkety/release ... done.
+==> SIZE ubuntu-16.10-server-s390x.jigdo ... 131479
+==> PASV ... done.    ==> RETR ubuntu-16.10-server-s390x.jigdo ... done.
+Length: 131479 (128K) (unauthoritative)
+
+     0K .......... .......... .......... .......... .......... 38%  505K 0s
+    50K .......... .......... .......... .......... .......... 77% 1.02M 0s
+   100K .......... .......... ........                        100% 78.1M=0.1s
+
+2017-04-05 16:00:09 (872 KB/s) - ‘/dev/null’ saved [131479]
+
+
+1491426002
+--2017-04-05 22:00:14--  ftp://ftp.acc.umu.se/mirror/cdimage.ubuntu.com/releases/yakkety/release/ubuntu-16.10-server-s390x.jigdo
+           => ‘/dev/null’
+Resolving ftp.acc.umu.se (ftp.acc.umu.se)... 194.71.11.165, 2001:6b0:19::165
+Connecting to ftp.acc.umu.se (ftp.acc.umu.se)|194.71.11.165|:21... connected.
+Logging in as anonymous ... Logged in!
+==> SYST ... done.    ==> PWD ... done.
+==> TYPE I ... done.  ==> CWD (1) /mirror/cdimage.ubuntu.com/releases/yakkety/release ... done.
+==> SIZE ubuntu-16.10-server-s390x.jigdo ... 131479
+==> PASV ... done.    ==> RETR ubuntu-16.10-server-s390x.jigdo ... done.
+Length: 131479 (128K) (unauthoritative)
+
+     0K .......... .......... .......... .......... .......... 38%  421K 0s
+    50K .......... .......... .......... .......... .......... 77% 1.07M 0s
+   100K .......... .......... ........                        100% 82.4M=0.2s
+
+2017-04-05 22:00:23 (780 KB/s) - ‘/dev/null’ saved [131479]
+
+
+1491447601
+--2017-04-06 04:00:06--  ftp://ftp.acc.umu.se/mirror/cdimage.ubuntu.com/releases/yakkety/release/ubuntu-16.10-server-s390x.jigdo
+           => ‘/dev/null’
+Resolving ftp.acc.umu.se (ftp.acc.umu.se)... 194.71.11.165, 2001:6b0:19::165
+Connecting to ftp.acc.umu.se (ftp.acc.umu.se)|194.71.11.165|:21... connected.
+Logging in as anonymous ... Logged in!
+==> SYST ... done.    ==> PWD ... done.
+==> TYPE I ... done.  ==> CWD (1) /mirror/cdimage.ubuntu.com/releases/yakkety/release ... done.
+==> SIZE ubuntu-16.10-server-s390x.jigdo ... 131479
+==> PASV ... done.    ==> RETR ubuntu-16.10-server-s390x.jigdo ... done.
+Length: 131479 (128K) (unauthoritative)
+
+     0K .......... .......... .......... .......... .......... 38%  486K 0s
+    50K .......... .......... .......... .......... .......... 77% 1005K 0s
+   100K .......... .......... ........                        100% 79.2M=0.2s
+
+2017-04-06 04:00:08 (840 KB/s) - ‘/dev/null’ saved [131479]
+
+
+1491469202
+--2017-04-06 10:00:08--  ftp://ftp.acc.umu.se/mirror/cdimage.ubuntu.com/releases/yakkety/release/ubuntu-16.10-server-s390x.jigdo
+           => ‘/dev/null’
+Resolving ftp.acc.umu.se (ftp.acc.umu.se)... 194.71.11.165, 2001:6b0:19::165
+Connecting to ftp.acc.umu.se (ftp.acc.umu.se)|194.71.11.165|:21... connected.
+Logging in as anonymous ... Logged in!
+==> SYST ... done.    ==> PWD ... done.
+==> TYPE I ... done.  ==> CWD (1) /mirror/cdimage.ubuntu.com/releases/yakkety/release ... done.
+==> SIZE ubuntu-16.10-server-s390x.jigdo ... 131479
+==> PASV ... done.    ==> RETR ubuntu-16.10-server-s390x.jigdo ... done.
+Length: 131479 (128K) (unauthoritative)
+
+     0K .......... .......... .......... .......... .......... 38%  462K 0s
+    50K .......... .......... .......... .......... .......... 77% 1.02M 0s
+   100K .......... .......... ........                        100% 48.0M=0.2s
+
+2017-04-06 10:00:10 (819 KB/s) - ‘/dev/null’ saved [131479]
+
