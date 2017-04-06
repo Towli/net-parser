@@ -1,6 +1,8 @@
 # net-parser
 A parser for scraping interesting information from logs of common network analysis tools.
 
+
+Example crontab:
 ```bash
 SERVERS="103.9.171.248 211.125.123.69 104.16.62.3 198.27.76.27 94.228.132.139 220.243.233.15 202.181.132.41"
 
