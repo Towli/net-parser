@@ -4,11 +4,8 @@ var regex = "";
 
 fs.readFile('./test.txt', 'utf8', function(err, data) {
 	if (err) throw err;
-	console.log(data);
+	var ParserFactory = new Parser.Factory();
+	var PingParser = ParserFactory.createParser('ping');
+	var output = PingParser.parse(data);
+	console.log(output);
 });
-
-var ParserFactory = new Parser.Factory();
-
-ParserFactory.createParser('ping');
-ParserFactory.createParser('wget');
-ParserFactory.createParser('traceroute');
