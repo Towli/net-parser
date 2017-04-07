@@ -16,3 +16,10 @@ fs.readFile('./traceroute_test.txt', 'utf8', function(err, data) {
   var output = TracerouteParser.parse(data);
   console.log(output);
 });
+
+fs.readFile('./wget_test.txt', 'utf8', function(err, data) {
+  if (err) throw err;
+  var WGETParser = ParserFactory.createParser('wget');
+  var output = WGETParser.parse(data);
+  console.log(output);
+});

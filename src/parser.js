@@ -94,7 +94,7 @@ class TracerouteParser extends Parser {
     return {
       IPAddress: this.getIPAddress(data),
       timestamp: this.getTimestamp(data),
-      maxHops: "WGET's default is 30 (change through Parser API)",
+      maxHops: "Traceroutes's default is 30 (change through Parser API)",
       hopStats: this.getHopStats(data)
     }
   }
@@ -104,6 +104,30 @@ class WGETParser extends Parser {
   constructor() {
     super()
     console.log('IAMA WGETParser.');
+  }
+  getIPAddress(data) {
+    var regex = /\b\d{1,3}\.\d{1,3}\.\d{1,3}\.\d{1,3}\b/gi;
+    return data.match(regex)[0];
+  }
+  getTimestamp(data) {
+    var regex = /[0-9]{10}/gi;
+    return data.match(regex);
+  }
+  getSize(data) {
+    var regex = /Length: [0-9]+/gi;
+    return data.match(regex);
+  }
+  getSpeed(data) {
+    var regex = /\(([0-9]+) ([^\s]+)\)/gi;
+    return data.match(regex);
+  }
+  parse(data) {
+    return {
+      IPAddress: this.getIPAddress(data),
+      timestamp: this.getTimestamp(data),
+      size: this.getSize(data),
+      speed: this.getSpeed(data)
+    }
   }
 }
 
