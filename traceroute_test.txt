@@ -1,0 +1,28 @@
+1491422402
+traceroute to 103.9.171.248 (103.9.171.248), 30 hops max, 60 byte packets
+ 1  139.222.0.1 (139.222.0.1)  1.073 ms  1.646 ms  1.835 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  0.344 ms  0.323 ms  0.455 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  0.916 ms  0.887 ms  0.867 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  1.111 ms  1.365 ms  1.319 ms
+ 5  xe-9-0-1.londpg-ban1.ja.net (146.97.41.209)  7.749 ms  7.702 ms  7.676 ms
+ 6  ae26.londpg-sbr2.ja.net (146.97.35.233)  7.758 ms  7.870 ms  7.850 ms
+ 7  ae29.londhx-sbr1.ja.net (146.97.33.1)  6.965 ms  6.956 ms  6.932 ms
+ 8  ae0.londhx-ban2.ja.net (146.97.35.198)  6.917 ms  6.885 ms  6.873 ms
+ 9  ldn-b3-link.telia.net (62.115.148.158)  6.967 ms  6.980 ms  7.001 ms
+10  ldn-bb3-link.telia.net (62.115.136.42)  22.198 ms ldn-bb3-link.telia.net (62.115.134.134)  6.915 ms  6.897 ms
+11  prs-bb3-link.telia.net (62.115.122.249)  93.939 ms ash-bb3-link.telia.net (80.91.249.101)  83.455 ms ash-bb4-link.telia.net (80.91.251.207)  86.783 ms
+12  ash-bb3-link.telia.net (62.115.121.34)  96.329 ms ldn-bb3-link.telia.net (213.155.132.194)  7.328 ms ldn-bb3-link.telia.net (213.155.136.74)  7.311 ms
+13  vocus-ic-324265-sjo-b21.c.telia.net (62.115.154.13)  152.109 ms  152.145 ms  154.094 ms
+14  ash-bb3-link.telia.net (62.115.141.244)  82.751 ms nyk-b5-link.telia.net (62.115.133.243)  77.840 ms bundle-150.cor01.sjc01.ca.vocus.net (49.255.255.18)  309.862 ms
+15  100g-0-0-0-0.cor01.lax01.ca.vocus.net (49.255.255.1)  308.647 ms  309.772 ms  308.722 ms
+16  ash-bb4-link.telia.net (62.115.136.201)  82.987 ms ash-bb4-link.telia.net (62.115.137.108)  82.443 ms 100g-0-0-0-0.cor01.lax01.ca.vocus.net (49.255.255.1)  309.056 ms
+17  bundle-200.cor01.alb01.akl.vocus.net.nz (114.31.202.44)  311.439 ms ten-0-3-0-2.cor03.syd03.nsw.vocus.net.au (114.31.202.85)  309.649 ms bundle-200.cor01.alb01.akl.vocus.net.nz (114.31.202.44)  310.396 ms
+18  ten-0-2-1-0.cor03.syd03.nsw.vocus.net.au (114.31.202.36)  313.489 ms  314.538 ms ten-1-0-0.bdr03.syd04.nsw.VOCUS.net.au (175.45.72.73)  308.227 ms
+19  * * bundle-150.cor01.sjc01.ca.vocus.net (49.255.255.18)  308.996 ms
+20  * 10ge-agg01.syd01.as45638.net.au (103.252.152.253)  308.294 ms  308.086 ms
+21  10ge-gw01.syd01.ventraip.net.au (103.252.152.129)  312.836 ms 10ge-agg01.syd01.as45638.net.au (103.252.152.253)  308.670 ms *
+22  * ten-0-2-1-0.cor03.syd03.nsw.vocus.net.au (114.31.202.36)  314.616 ms 10ge-gw01.syd01.ventraip.net.au (103.252.152.129)  310.829 ms
+23  * * *
+24  * * *
+25  * * *
+26  * * b2s2-1b-syd.hosting-services.net.au (103.9.171.248)  308.501 ms
