@@ -24,7 +24,7 @@ class PingParser extends Parser {
     return data.match(regex)[0];
   }
   getRoundTripStats(data) {
-    var regex = /(round-trip|rtt.*)$/gi;
+    var regex = /(round-trip|rtt.*)/gi;
     var RTStats = data.match(regex);
     RTStats = RTStats.toString().match(/\d+.\d+/gi);
     var min = RTStats[0];

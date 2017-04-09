@@ -18,7 +18,7 @@ else
 
 
 function parsePing() {
-  fs.readFile('./ping_test.txt', 'utf8', function(err, data) {
+  fs.readFile('./example_logs/PING/103.9.171.248.log', 'utf8', function(err, data) {
     if (err) throw err;
     var PingParser = ParserFactory.createParser('ping');
     var output = PingParser.parse(data);
@@ -27,7 +27,7 @@ function parsePing() {
 }
 
 function parseTraceroute() {
-  fs.readFile('./traceroute_test.txt', 'utf8', function(err, data) {
+  fs.readFile('./example_logs/TRACEROUTE/103.9.171.248.log', 'utf8', function(err, data) {
     if (err) throw err;
     var TracerouteParser = ParserFactory.createParser('traceroute');
     var output = TracerouteParser.parse(data);
@@ -36,7 +36,7 @@ function parseTraceroute() {
 }
 
 function parseWGET() {
-  fs.readFile('./wget_test.txt', 'utf8', function(err, data) {
+  fs.readFile('./example_logs/WGET/igdo.log', 'utf8', function(err, data) {
     if (err) throw err;
     var WGETParser = ParserFactory.createParser('wget');
     var output = WGETParser.parse(data);
