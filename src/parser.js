@@ -26,16 +26,8 @@ class PingParser extends Parser {
   getRoundTripStats(data) {
     var regex = /(round-trip|rtt.*)/gi;
     var RTStats = data.match(regex);
-    RTStats = RTStats.toString().match(/\d+.\d+/gi);
-    var min = RTStats[0];
-    var avg = RTStats[1];
-    var max = RTStats[2];
-    var stdDev = RTStats[3];
     return {
-      min: min,
-      avg: avg,
-      max: max,
-      stdDev: stdDev
+      RTStats: RTStats
     }
   }
   parse(data) {
@@ -59,19 +51,22 @@ class TracerouteParser extends Parser {
       return data.match(regex);
     }
     this.getRoundTripStats = function(data) {
-      var regex = /(\d+.\d+.\d+.\d+)|(\d+.\d+ ms)/gi;
-      var RTStats = data.match(regex);
-      var validStats = (RTStats);
-      if (validStats) {
+      var IPregex = /(\d+.\d+.\d+.\d+)/gi;
+      var RTTregex = /(\d+.\d+ ms)/gi;
+      var hopIPs = data.match(IPregex);
+      var RTStats = data.match(RTTregex);
+      if (hopIPs != null) {
+        if (hopIPs.length > 1) {
+          return {
+            IP: hopIPs[0],
+            RTStats: RTStats[0]
+          }
+        }
         return {
-          IP: RTStats[0],
-          RTT1: RTStats[2],
-          RTT2: RTStats[3],
-          RTT3: RTStats[4]
+          IP: hopIPs[0],
+          RTStats: JSON.stringify(RTStats)
         }
       }
-      else
-        return;
     }
   }
   getTimestamp(data) {
