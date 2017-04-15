@@ -113,7 +113,7 @@ class WGETParser extends Parser {
     return data.match(regex);
   }
   getSpeed(data) {
-    var regex = /\(([0-9]+) ([^\s]+)\)/gi;
+    var regex = /\(([0-9]+\.?[0-9]*) ([^\s]+)\)/gi;
     return data.match(regex);
   }
   parse(data) {

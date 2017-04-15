@@ -36,10 +36,10 @@ function parseTraceroute() {
 }
 
 function parseWGET() {
-  fs.readFile('./example_logs/WGET/igdo.log', 'utf8', function(err, data) {
+  fs.readFile('../WGET/sync.log', 'utf8', function(err, data) {
     if (err) throw err;
     var WGETParser = ParserFactory.createParser('wget');
     var output = WGETParser.parse(data);
     console.log(output);
-  }); 
+  });
 }
