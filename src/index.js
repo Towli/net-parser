@@ -27,11 +27,11 @@ function parsePing() {
 }
 
 function parseTraceroute() {
-  fs.readFile('./example_logs/TRACEROUTE/103.9.171.248.log', 'utf8', function(err, data) {
+  fs.readFile('../TRACEROUTE/220.243.233.15.log', 'utf8', function(err, data) {
     if (err) throw err;
     var TracerouteParser = ParserFactory.createParser('traceroute');
     var output = TracerouteParser.parse(data);
-    console.log(output);
+    fs.writeFile("220.txt", JSON.stringify(output, null, 4));
   });
 }
 
