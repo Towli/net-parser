@@ -4,12 +4,12 @@ mkdir -p "SIM"
 
 TIMESTAMP="$(date +%s)"
 
-for i in {1.."$1"}; do
+for i in {1..5}; do
 
-    HOST="$2"
+    HOST="$1"
     HOST_LOG="$i.$(echo $HOST | tail -c 5).log"
 
     printf "\n$TIMESTAMP\n" >> "SIM/$HOST_LOG"
-    wget -O "/dev/null" -a "SIM/$HOST_LOG" "$HOST"
+    wget -O "/dev/null" -a "SIM/$HOST_LOG" "$HOST" &
 
 done
