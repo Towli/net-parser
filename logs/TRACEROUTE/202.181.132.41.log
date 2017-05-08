@@ -1,0 +1,2853 @@
+
+1491400802
+traceroute to 202.181.132.41 (202.181.132.41), 30 hops max, 60 byte packets
+ 1  139.222.0.1 (139.222.0.1)  1.334 ms  1.433 ms  1.841 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  0.417 ms  0.396 ms  1.133 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  1.151 ms  1.126 ms  1.095 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  1.086 ms  1.225 ms  1.113 ms
+ 5  xe-9-0-1.londpg-ban1.ja.net (146.97.41.209)  12.729 ms  7.681 ms  7.578 ms
+ 6  ae26.londpg-sbr2.ja.net (146.97.35.233)  7.667 ms  8.021 ms  7.970 ms
+ 7  ae30.londtw-sbr2.ja.net (146.97.33.6)  7.111 ms  7.199 ms  7.045 ms
+ 8  ae29.londtn-sbr1.ja.net (146.97.33.10)  7.180 ms  7.164 ms  7.155 ms
+ 9  ae0.londtn-ban3.ja.net (146.97.35.170)  6.983 ms  7.114 ms  7.082 ms
+10  40ge1-3.core1.lon2.he.net (195.66.224.21)  7.295 ms  7.271 ms  7.107 ms
+11  100ge1-1.core1.nyc4.he.net (72.52.92.166)  76.677 ms  76.766 ms  86.715 ms
+12  100ge5-1.core1.chi1.he.net (184.105.223.161)  103.297 ms  103.503 ms  103.577 ms
+13  100ge14-1.core2.chi1.he.net (184.105.81.97)  93.267 ms  93.377 ms  93.237 ms
+14  100ge14-2.core1.msp1.he.net (184.105.223.178)  101.812 ms  110.831 ms  110.788 ms
+15  100ge4-1.core1.sea1.he.net (184.105.223.193)  134.035 ms  133.958 ms  134.090 ms
+16  100ge8-1.core1.tyo1.he.net (184.105.213.118)  240.390 ms  232.679 ms  232.601 ms
+17  100ge6-1.core1.hkg1.he.net (184.105.64.129)  260.272 ms  255.748 ms  255.594 ms
+18  * * *
+19  * * *
+20  * * 202.181.132.41 (202.181.132.41)  257.470 ms
+
+1491422402
+traceroute to 202.181.132.41 (202.181.132.41), 30 hops max, 60 byte packets
+ 1  139.222.0.1 (139.222.0.1)  1.242 ms  1.447 ms  1.834 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  0.373 ms  0.364 ms  0.752 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  1.023 ms  0.993 ms  0.981 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  1.279 ms  1.336 ms  1.125 ms
+ 5  xe-9-0-1.londpg-ban1.ja.net (146.97.41.209)  7.624 ms  7.642 ms  7.716 ms
+ 6  ae26.londpg-sbr2.ja.net (146.97.35.233)  9.060 ms  7.652 ms  7.635 ms
+ 7  ae30.londtw-sbr2.ja.net (146.97.33.6)  6.775 ms  6.793 ms  6.780 ms
+ 8  ae29.londtn-sbr1.ja.net (146.97.33.10)  6.868 ms  6.744 ms  6.816 ms
+ 9  ae0.londtn-ban3.ja.net (146.97.35.170)  6.778 ms  6.786 ms  6.896 ms
+10  40ge1-3.core1.lon2.he.net (195.66.224.21)  14.595 ms  12.057 ms  12.075 ms
+11  100ge1-1.core1.nyc4.he.net (72.52.92.166)  76.304 ms  76.480 ms  76.513 ms
+12  100ge5-1.core1.chi1.he.net (184.105.223.161)  92.845 ms  92.828 ms  93.028 ms
+13  100ge14-1.core2.chi1.he.net (184.105.81.97)  93.008 ms  92.909 ms  92.982 ms
+14  100ge14-2.core1.msp1.he.net (184.105.223.178)  118.569 ms  100.850 ms  116.947 ms
+15  100ge4-1.core1.sea1.he.net (184.105.223.193)  133.189 ms  143.133 ms  142.623 ms
+16  100ge8-1.core1.tyo1.he.net (184.105.213.118)  232.015 ms  241.323 ms  240.408 ms
+17  100ge6-1.core1.hkg1.he.net (184.105.64.129)  255.216 ms  262.327 ms  262.511 ms
+18  * * *
+19  * * *
+20  * * *
+21  * * 202.181.132.41 (202.181.132.41)  255.934 ms
+
+1491444003
+traceroute to 202.181.132.41 (202.181.132.41), 30 hops max, 60 byte packets
+ 1  139.222.0.1 (139.222.0.1)  1.144 ms  1.500 ms  1.953 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  0.492 ms  0.481 ms  0.464 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  1.008 ms  0.980 ms  0.954 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  1.082 ms  1.349 ms  1.189 ms
+ 5  xe-9-0-1.londpg-ban1.ja.net (146.97.41.209)  7.827 ms  7.948 ms  7.774 ms
+ 6  ae26.londpg-sbr2.ja.net (146.97.35.233)  10.035 ms  8.754 ms  8.662 ms
+ 7  ae30.londtw-sbr2.ja.net (146.97.33.6)  7.103 ms  7.090 ms  7.036 ms
+ 8  ae29.londtn-sbr1.ja.net (146.97.33.10)  7.141 ms  7.122 ms  7.118 ms
+ 9  ae0.londtn-ban3.ja.net (146.97.35.170)  7.087 ms  7.084 ms  7.055 ms
+10  40ge1-3.core1.lon2.he.net (195.66.224.21)  7.127 ms  7.314 ms  7.210 ms
+11  100ge1-1.core1.nyc4.he.net (72.52.92.166)  78.704 ms  78.669 ms  78.785 ms
+12  100ge5-1.core1.chi1.he.net (184.105.223.161)  95.451 ms  95.438 ms  144.872 ms
+13  100ge14-1.core2.chi1.he.net (184.105.81.97)  95.597 ms  95.644 ms  100.743 ms
+14  100ge14-2.core1.msp1.he.net (184.105.223.178)  110.073 ms  110.124 ms  113.922 ms
+15  100ge4-1.core1.sea1.he.net (184.105.223.193)  137.175 ms  137.074 ms  136.691 ms
+16  100ge8-1.core1.tyo1.he.net (184.105.213.118)  242.235 ms  246.688 ms  246.597 ms
+17  100ge6-1.core1.hkg1.he.net (184.105.64.129)  261.319 ms  260.218 ms  260.377 ms
+18  * * *
+19  * * *
+20  202.181.132.41 (202.181.132.41)  261.860 ms  261.881 ms *
+
+1491465601
+traceroute to 202.181.132.41 (202.181.132.41), 30 hops max, 60 byte packets
+ 1  139.222.0.1 (139.222.0.1)  1.026 ms  1.431 ms  1.833 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  0.387 ms  0.537 ms  0.523 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  0.992 ms  0.977 ms  0.952 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  1.158 ms  1.435 ms  1.265 ms
+ 5  xe-9-0-1.londpg-ban1.ja.net (146.97.41.209)  7.881 ms  7.857 ms  7.841 ms
+ 6  ae26.londpg-sbr2.ja.net (146.97.35.233)  7.681 ms  7.666 ms  7.645 ms
+ 7  ae30.londtw-sbr2.ja.net (146.97.33.6)  6.766 ms  6.963 ms  6.944 ms
+ 8  ae29.londtn-sbr1.ja.net (146.97.33.10)  6.851 ms  6.913 ms  7.797 ms
+ 9  ae0.londtn-ban3.ja.net (146.97.35.170)  6.815 ms  6.833 ms  6.819 ms
+10  40ge1-3.core1.lon2.he.net (195.66.224.21)  7.088 ms  7.068 ms  7.214 ms
+11  100ge1-1.core1.nyc4.he.net (72.52.92.166)  82.564 ms  82.550 ms  82.624 ms
+12  100ge5-1.core1.chi1.he.net (184.105.223.161)  93.666 ms  93.734 ms  93.124 ms
+13  100ge14-1.core2.chi1.he.net (184.105.81.97)  104.230 ms  102.850 ms  103.863 ms
+14  100ge14-2.core1.msp1.he.net (184.105.223.178)  101.333 ms  125.095 ms  125.009 ms
+15  100ge4-1.core1.sea1.he.net (184.105.223.193)  144.093 ms  142.747 ms  141.112 ms
+16  100ge8-1.core1.tyo1.he.net (184.105.213.118)  232.599 ms  232.495 ms  232.661 ms
+17  100ge6-1.core1.hkg1.he.net (184.105.64.129)  262.213 ms  255.701 ms  255.621 ms
+18  * * *
+19  * * *
+20  202.181.132.41 (202.181.132.41)  257.280 ms * *
+
+1491487202
+traceroute to 202.181.132.41 (202.181.132.41), 30 hops max, 60 byte packets
+ 1  139.222.0.1 (139.222.0.1)  1.107 ms  1.450 ms  1.851 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  0.479 ms  0.474 ms  0.457 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  0.953 ms  1.029 ms  1.011 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  1.273 ms  1.194 ms  1.410 ms
+ 5  xe-9-0-1.londpg-ban1.ja.net (146.97.41.209)  7.788 ms  7.581 ms  7.748 ms
+ 6  ae26.londpg-sbr2.ja.net (146.97.35.233)  8.009 ms  7.897 ms  7.797 ms
+ 7  ae30.londtw-sbr2.ja.net (146.97.33.6)  6.899 ms  6.818 ms  6.947 ms
+ 8  ae29.londtn-sbr1.ja.net (146.97.33.10)  6.862 ms  6.893 ms  6.823 ms
+ 9  ae0.londtn-ban3.ja.net (146.97.35.170)  6.876 ms  6.858 ms  6.846 ms
+10  40ge1-3.core1.lon2.he.net (195.66.224.21)  14.481 ms  11.599 ms  11.556 ms
+11  100ge1-1.core1.nyc4.he.net (72.52.92.166)  80.152 ms  79.596 ms  78.701 ms
+12  100ge5-1.core1.chi1.he.net (184.105.223.161)  92.592 ms  92.656 ms  92.644 ms
+13  100ge14-1.core2.chi1.he.net (184.105.81.97)  114.704 ms  112.993 ms  97.652 ms
+14  100ge14-2.core1.msp1.he.net (184.105.223.178)  112.865 ms  112.849 ms  100.861 ms
+15  100ge4-1.core1.sea1.he.net (184.105.223.193)  133.559 ms  133.201 ms  133.099 ms
+16  100ge8-1.core1.tyo1.he.net (184.105.213.118)  238.237 ms  231.491 ms  231.448 ms
+17  100ge6-1.core1.hkg1.he.net (184.105.64.129)  254.368 ms  255.108 ms  255.390 ms
+18  * * *
+19  * * *
+20  202.181.132.41 (202.181.132.41)  256.179 ms * *
+
+1491508801
+traceroute to 202.181.132.41 (202.181.132.41), 30 hops max, 60 byte packets
+ 1  139.222.0.1 (139.222.0.1)  1.077 ms  1.430 ms  1.849 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  0.424 ms  0.411 ms  0.391 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  2.782 ms  2.750 ms  2.692 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  1.141 ms  1.267 ms  1.304 ms
+ 5  xe-9-0-1.londpg-ban1.ja.net (146.97.41.209)  8.177 ms  7.807 ms  7.774 ms
+ 6  ae26.londpg-sbr2.ja.net (146.97.35.233)  7.915 ms  7.909 ms  7.893 ms
+ 7  ae30.londtw-sbr2.ja.net (146.97.33.6)  6.955 ms  7.132 ms  6.922 ms
+ 8  ae29.londtn-sbr1.ja.net (146.97.33.10)  78.520 ms  6.892 ms  7.016 ms
+ 9  ae0.londtn-ban3.ja.net (146.97.35.170)  6.965 ms  6.951 ms  6.938 ms
+10  40ge1-3.core1.lon2.he.net (195.66.224.21)  17.172 ms  13.698 ms  13.250 ms
+11  100ge1-1.core1.nyc4.he.net (72.52.92.166)  76.012 ms  77.387 ms  76.076 ms
+12  100ge5-1.core1.chi1.he.net (184.105.223.161)  129.534 ms  129.338 ms  129.346 ms
+13  100ge14-1.core2.chi1.he.net (184.105.81.97)  95.745 ms  97.998 ms  95.682 ms
+14  100ge14-2.core1.msp1.he.net (184.105.223.178)  103.009 ms  107.752 ms  102.977 ms
+15  100ge4-1.core1.sea1.he.net (184.105.223.193)  135.776 ms  133.849 ms  135.841 ms
+16  100ge8-1.core1.tyo1.he.net (184.105.213.118)  241.760 ms  239.616 ms  238.816 ms
+17  100ge6-1.core1.hkg1.he.net (184.105.64.129)  257.188 ms  257.370 ms  259.032 ms
+18  * * *
+19  * * *
+20  202.181.132.41 (202.181.132.41)  260.859 ms  259.055 ms *
+
+1491530402
+traceroute to 202.181.132.41 (202.181.132.41), 30 hops max, 60 byte packets
+ 1  139.222.0.1 (139.222.0.1)  1.105 ms  1.419 ms  1.830 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  0.362 ms  0.664 ms  0.649 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  0.951 ms  0.926 ms  0.901 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  3.736 ms  3.838 ms  3.483 ms
+ 5  xe-9-0-1.londpg-ban1.ja.net (146.97.41.209)  7.611 ms  7.675 ms  7.642 ms
+ 6  ae26.londpg-sbr2.ja.net (146.97.35.233)  7.628 ms  7.625 ms  7.628 ms
+ 7  ae30.londtw-sbr2.ja.net (146.97.33.6)  6.778 ms  6.791 ms  6.772 ms
+ 8  ae29.londtn-sbr1.ja.net (146.97.33.10)  7.819 ms  6.740 ms  7.756 ms
+ 9  ae0.londtn-ban3.ja.net (146.97.35.170)  6.883 ms  6.712 ms  6.768 ms
+10  40ge1-3.core1.lon2.he.net (195.66.224.21)  7.176 ms  17.173 ms  17.117 ms
+11  100ge1-1.core1.nyc4.he.net (72.52.92.166)  90.116 ms  74.744 ms  74.900 ms
+12  100ge5-1.core1.chi1.he.net (184.105.223.161)  91.635 ms  91.527 ms  93.233 ms
+13  100ge14-1.core2.chi1.he.net (184.105.81.97)  91.577 ms  91.625 ms  89.826 ms
+14  100ge14-2.core1.msp1.he.net (184.105.223.178)  111.922 ms  111.989 ms  99.582 ms
+15  100ge4-1.core1.sea1.he.net (184.105.223.193)  134.032 ms  138.008 ms  137.161 ms
+16  100ge8-1.core1.tyo1.he.net (184.105.213.118)  232.806 ms  205.522 ms  206.909 ms
+17  100ge6-1.core1.hkg1.he.net (184.105.64.129)  230.903 ms  229.349 ms  231.750 ms
+18  * * *
+19  * * *
+20  * * 202.181.132.41 (202.181.132.41)  229.867 ms
+
+1491552002
+traceroute to 202.181.132.41 (202.181.132.41), 30 hops max, 60 byte packets
+ 1  139.222.0.1 (139.222.0.1)  1.080 ms  1.356 ms  1.753 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  0.327 ms  0.321 ms  0.444 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  0.917 ms  0.898 ms  0.881 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  1.096 ms  1.215 ms  1.205 ms
+ 5  xe-9-0-1.londpg-ban1.ja.net (146.97.41.209)  7.567 ms  7.590 ms  7.656 ms
+ 6  ae26.londpg-sbr2.ja.net (146.97.35.233)  8.292 ms  7.856 ms  7.922 ms
+ 7  ae30.londtw-sbr2.ja.net (146.97.33.6)  6.937 ms  6.919 ms  6.756 ms
+ 8  ae29.londtn-sbr1.ja.net (146.97.33.10)  6.737 ms  6.720 ms  6.708 ms
+ 9  ae0.londtn-ban3.ja.net (146.97.35.170)  6.849 ms  6.836 ms  6.814 ms
+10  40ge1-3.core1.lon2.he.net (195.66.224.21)  15.083 ms  11.464 ms  10.818 ms
+11  100ge1-1.core1.nyc4.he.net (72.52.92.166)  75.061 ms  73.751 ms  73.661 ms
+12  100ge5-1.core1.chi1.he.net (184.105.223.161)  92.837 ms  92.829 ms  92.727 ms
+13  100ge14-1.core2.chi1.he.net (184.105.81.97)  90.986 ms  92.377 ms  89.294 ms
+14  100ge14-2.core1.msp1.he.net (184.105.223.178)  98.938 ms  98.923 ms  98.952 ms
+15  100ge4-1.core1.sea1.he.net (184.105.223.193)  172.220 ms  165.728 ms  165.637 ms
+16  100ge8-1.core1.tyo1.he.net (184.105.213.118)  229.817 ms  232.358 ms  232.205 ms
+17  100ge6-1.core1.hkg1.he.net (184.105.64.129)  258.874 ms  257.747 ms  256.298 ms
+18  * * *
+19  * * *
+20  202.181.132.41 (202.181.132.41)  254.201 ms  256.004 ms *
+
+1491573601
+traceroute to 202.181.132.41 (202.181.132.41), 30 hops max, 60 byte packets
+ 1  139.222.0.1 (139.222.0.1)  1.120 ms  1.457 ms  1.877 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  0.524 ms  0.498 ms  0.469 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  1.166 ms  1.087 ms  1.127 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  1.431 ms  1.136 ms  1.262 ms
+ 5  xe-9-0-1.londpg-ban1.ja.net (146.97.41.209)  7.748 ms  7.711 ms  8.056 ms
+ 6  ae26.londpg-sbr2.ja.net (146.97.35.233)  8.042 ms  7.922 ms  7.856 ms
+ 7  ae30.londtw-sbr2.ja.net (146.97.33.6)  6.938 ms  6.925 ms  6.912 ms
+ 8  ae29.londtn-sbr1.ja.net (146.97.33.10)  6.932 ms  6.972 ms  7.007 ms
+ 9  ae0.londtn-ban3.ja.net (146.97.35.170)  6.970 ms  7.003 ms  6.967 ms
+10  40ge1-3.core1.lon2.he.net (195.66.224.21)  11.776 ms  17.696 ms  17.560 ms
+11  100ge1-1.core1.nyc4.he.net (72.52.92.166)  74.042 ms  74.026 ms  73.954 ms
+12  100ge5-1.core1.chi1.he.net (184.105.223.161)  92.497 ms  94.303 ms  92.506 ms
+13  100ge14-1.core2.chi1.he.net (184.105.81.97)  91.056 ms  101.222 ms  101.091 ms
+14  100ge14-2.core1.msp1.he.net (184.105.223.178)  102.595 ms  102.496 ms  111.472 ms
+15  100ge4-1.core1.sea1.he.net (184.105.223.193)  137.534 ms  135.297 ms  135.278 ms
+16  100ge8-1.core1.tyo1.he.net (184.105.213.118)  235.776 ms  239.678 ms  239.810 ms
+17  100ge6-1.core1.hkg1.he.net (184.105.64.129)  268.754 ms  258.000 ms  258.010 ms
+18  * * *
+19  * * *
+20  202.181.132.41 (202.181.132.41)  259.813 ms * *
+
+1491595202
+traceroute to 202.181.132.41 (202.181.132.41), 30 hops max, 60 byte packets
+ 1  139.222.0.1 (139.222.0.1)  1.084 ms  1.512 ms  1.833 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  0.336 ms  0.594 ms  0.564 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  0.958 ms  0.920 ms  0.902 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  1.050 ms  1.282 ms  1.240 ms
+ 5  xe-9-0-1.londpg-ban1.ja.net (146.97.41.209)  7.571 ms  7.549 ms  7.598 ms
+ 6  ae26.londpg-sbr2.ja.net (146.97.35.233)  7.724 ms  7.888 ms  7.771 ms
+ 7  ae30.londtw-sbr2.ja.net (146.97.33.6)  6.874 ms  6.931 ms  6.865 ms
+ 8  ae29.londtn-sbr1.ja.net (146.97.33.10)  6.928 ms  6.785 ms  6.900 ms
+ 9  ae0.londtn-ban3.ja.net (146.97.35.170)  6.915 ms  6.998 ms  6.930 ms
+10  40ge1-3.core1.lon2.he.net (195.66.224.21)  33.247 ms  23.705 ms  23.711 ms
+11  100ge1-1.core1.nyc4.he.net (72.52.92.166)  75.461 ms  82.174 ms  75.735 ms
+12  100ge5-1.core1.chi1.he.net (184.105.223.161)  115.761 ms  116.190 ms  115.855 ms
+13  100ge14-1.core2.chi1.he.net (184.105.81.97)  91.504 ms  91.160 ms  89.580 ms
+14  100ge14-2.core1.msp1.he.net (184.105.223.178)  103.685 ms  113.220 ms  103.724 ms
+15  100ge4-1.core1.sea1.he.net (184.105.223.193)  131.472 ms  133.156 ms  133.260 ms
+16  100ge8-1.core1.tyo1.he.net (184.105.213.118)  233.777 ms  231.517 ms  229.889 ms
+17  100ge6-1.core1.hkg1.he.net (184.105.64.129)  252.533 ms  257.063 ms  257.005 ms
+18  * * *
+19  * * *
+20  * * *
+21  * 202.181.132.41 (202.181.132.41)  256.217 ms  256.120 ms
+
+1491616803
+traceroute to 202.181.132.41 (202.181.132.41), 30 hops max, 60 byte packets
+ 1  139.222.0.1 (139.222.0.1)  1.116 ms  1.453 ms  1.887 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  0.361 ms  0.336 ms  0.316 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  1.007 ms  0.981 ms  0.965 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  1.140 ms  1.270 ms  1.355 ms
+ 5  xe-9-0-1.londpg-ban1.ja.net (146.97.41.209)  7.823 ms  7.788 ms  7.788 ms
+ 6  ae26.londpg-sbr2.ja.net (146.97.35.233)  7.868 ms  8.179 ms  8.158 ms
+ 7  ae30.londtw-sbr2.ja.net (146.97.33.6)  7.289 ms  7.224 ms  7.258 ms
+ 8  ae29.londtn-sbr1.ja.net (146.97.33.10)  7.238 ms  7.087 ms  7.155 ms
+ 9  ae0.londtn-ban3.ja.net (146.97.35.170)  7.199 ms  7.127 ms  7.163 ms
+10  40ge1-3.core1.lon2.he.net (195.66.224.21)  36.220 ms  32.608 ms  32.285 ms
+11  100ge1-1.core1.nyc4.he.net (72.52.92.166)  75.478 ms  77.331 ms  77.413 ms
+12  100ge5-1.core1.chi1.he.net (184.105.223.161)  94.534 ms  94.516 ms  106.808 ms
+13  100ge14-1.core2.chi1.he.net (184.105.81.97)  106.698 ms  106.680 ms  106.669 ms
+14  100ge14-2.core1.msp1.he.net (184.105.223.178)  114.208 ms  114.191 ms  112.563 ms
+15  100ge4-1.core1.sea1.he.net (184.105.223.193)  149.345 ms  146.872 ms  146.816 ms
+16  100ge8-1.core1.tyo1.he.net (184.105.213.118)  252.493 ms  241.600 ms  240.357 ms
+17  100ge6-1.core1.hkg1.he.net (184.105.64.129)  273.673 ms  264.671 ms  263.555 ms
+18  * * *
+19  * * *
+20  * 202.181.132.41 (202.181.132.41)  264.419 ms  264.016 ms
+
+1491638402
+traceroute to 202.181.132.41 (202.181.132.41), 30 hops max, 60 byte packets
+ 1  139.222.0.1 (139.222.0.1)  1.067 ms  1.412 ms  1.807 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  0.514 ms  0.502 ms  0.486 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  0.919 ms  0.962 ms  0.881 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  1.150 ms  1.334 ms  1.464 ms
+ 5  xe-9-0-1.londpg-ban1.ja.net (146.97.41.209)  7.838 ms  7.807 ms  7.927 ms
+ 6  ae26.londpg-sbr2.ja.net (146.97.35.233)  7.911 ms  8.062 ms  8.009 ms
+ 7  ae30.londtw-sbr2.ja.net (146.97.33.6)  7.216 ms  7.082 ms  7.180 ms
+ 8  ae29.londtn-sbr1.ja.net (146.97.33.10)  7.170 ms  7.148 ms  8.741 ms
+ 9  ae0.londtn-ban3.ja.net (146.97.35.170)  7.134 ms  7.124 ms  7.093 ms
+10  40ge1-3.core1.lon2.he.net (195.66.224.21)  7.517 ms  7.578 ms  7.587 ms
+11  100ge1-1.core1.nyc4.he.net (72.52.92.166)  76.297 ms  76.341 ms  84.384 ms
+12  100ge5-1.core1.chi1.he.net (184.105.223.161)  95.088 ms  95.073 ms  95.044 ms
+13  100ge14-1.core2.chi1.he.net (184.105.81.97)  100.282 ms  100.314 ms  93.317 ms
+14  100ge14-2.core1.msp1.he.net (184.105.223.178)  103.236 ms  101.369 ms  103.405 ms
+15  100ge4-1.core1.sea1.he.net (184.105.223.193)  141.784 ms  140.611 ms  140.563 ms
+16  100ge8-1.core1.tyo1.he.net (184.105.213.118)  237.115 ms  245.490 ms  245.583 ms
+17  100ge6-1.core1.hkg1.he.net (184.105.64.129)  301.127 ms  292.571 ms  290.061 ms
+18  * * *
+19  * * *
+20  * 202.181.132.41 (202.181.132.41)  262.244 ms  262.223 ms
+
+1491660003
+traceroute to 202.181.132.41 (202.181.132.41), 30 hops max, 60 byte packets
+ 1  139.222.0.1 (139.222.0.1)  1.069 ms  1.440 ms  1.841 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  0.385 ms  0.616 ms  0.602 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  1.110 ms  1.092 ms  1.072 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  1.213 ms  1.452 ms  1.305 ms
+ 5  xe-9-0-1.londpg-ban1.ja.net (146.97.41.209)  12.815 ms  12.795 ms  12.068 ms
+ 6  ae26.londpg-sbr2.ja.net (146.97.35.233)  7.712 ms  7.713 ms  7.694 ms
+ 7  ae30.londtw-sbr2.ja.net (146.97.33.6)  6.868 ms  6.854 ms  6.841 ms
+ 8  ae29.londtn-sbr1.ja.net (146.97.33.10)  6.884 ms  6.897 ms  6.801 ms
+ 9  ae0.londtn-ban3.ja.net (146.97.35.170)  6.952 ms  6.933 ms  6.916 ms
+10  40ge1-3.core1.lon2.he.net (195.66.224.21)  16.919 ms  12.965 ms  12.008 ms
+11  100ge1-1.core1.nyc4.he.net (72.52.92.166)  72.903 ms  74.572 ms  72.977 ms
+12  100ge5-1.core1.chi1.he.net (184.105.223.161)  97.152 ms  97.395 ms  97.095 ms
+13  100ge14-1.core2.chi1.he.net (184.105.81.97)  91.412 ms  91.426 ms  89.636 ms
+14  100ge14-2.core1.msp1.he.net (184.105.223.178)  101.221 ms  100.704 ms  100.790 ms
+15  100ge4-1.core1.sea1.he.net (184.105.223.193)  148.177 ms  142.012 ms  141.678 ms
+16  100ge8-1.core1.tyo1.he.net (184.105.213.118)  234.864 ms  240.335 ms  240.353 ms
+17  100ge6-1.core1.hkg1.he.net (184.105.64.129)  252.471 ms  252.384 ms  262.323 ms
+18  * * *
+19  * * *
+20  202.181.132.41 (202.181.132.41)  255.989 ms *  255.995 ms
+
+1491681602
+traceroute to 202.181.132.41 (202.181.132.41), 30 hops max, 60 byte packets
+ 1  139.222.0.1 (139.222.0.1)  1.088 ms  1.453 ms  1.859 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  0.512 ms  0.495 ms  0.476 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  1.075 ms  1.063 ms  1.045 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  1.345 ms  1.144 ms  1.497 ms
+ 5  xe-9-0-1.londpg-ban1.ja.net (146.97.41.209)  7.938 ms  7.914 ms  7.871 ms
+ 6  ae26.londpg-sbr2.ja.net (146.97.35.233)  7.903 ms  8.074 ms  8.155 ms
+ 7  ae30.londtw-sbr2.ja.net (146.97.33.6)  7.085 ms  7.235 ms  7.137 ms
+ 8  ae29.londtn-sbr1.ja.net (146.97.33.10)  7.195 ms  7.140 ms  7.125 ms
+ 9  ae0.londtn-ban3.ja.net (146.97.35.170)  7.165 ms  7.147 ms  7.141 ms
+10  40ge1-3.core1.lon2.he.net (195.66.224.21)  16.691 ms  12.767 ms  12.711 ms
+11  100ge1-1.core1.nyc4.he.net (72.52.92.166)  77.242 ms  77.262 ms  77.266 ms
+12  100ge5-1.core1.chi1.he.net (184.105.223.161)  97.203 ms  96.452 ms  96.304 ms
+13  100ge14-1.core2.chi1.he.net (184.105.81.97)  102.532 ms  102.487 ms  103.520 ms
+14  100ge14-2.core1.msp1.he.net (184.105.223.178)  169.905 ms  154.879 ms  169.413 ms
+15  100ge4-1.core1.sea1.he.net (184.105.223.193)  149.194 ms  141.450 ms  141.126 ms
+16  100ge8-1.core1.tyo1.he.net (184.105.213.118)  240.438 ms  238.159 ms  239.689 ms
+17  100ge6-1.core1.hkg1.he.net (184.105.64.129)  261.679 ms  261.874 ms  261.725 ms
+18  * * *
+19  * * *
+20  202.181.132.41 (202.181.132.41)  263.576 ms  263.459 ms  265.461 ms
+
+1491703201
+traceroute to 202.181.132.41 (202.181.132.41), 30 hops max, 60 byte packets
+ 1  139.222.0.1 (139.222.0.1)  1.225 ms  1.498 ms  1.904 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  0.436 ms  0.418 ms  0.812 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  1.527 ms  1.504 ms  1.478 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  1.200 ms  1.438 ms  1.294 ms
+ 5  xe-9-0-1.londpg-ban1.ja.net (146.97.41.209)  7.785 ms  7.747 ms  7.758 ms
+ 6  ae26.londpg-sbr2.ja.net (146.97.35.233)  12.975 ms  9.684 ms  9.664 ms
+ 7  ae30.londtw-sbr2.ja.net (146.97.33.6)  7.711 ms  7.661 ms  7.514 ms
+ 8  ae29.londtn-sbr1.ja.net (146.97.33.10)  6.844 ms  6.913 ms  6.899 ms
+ 9  ae0.londtn-ban3.ja.net (146.97.35.170)  6.885 ms  6.902 ms  6.891 ms
+10  40ge1-3.core1.lon2.he.net (195.66.224.21)  7.279 ms  41.041 ms  41.206 ms
+11  100ge1-1.core1.nyc4.he.net (72.52.92.166)  82.369 ms  76.756 ms  76.737 ms
+12  100ge5-1.core1.chi1.he.net (184.105.223.161)  101.275 ms  101.124 ms  100.980 ms
+13  100ge14-1.core2.chi1.he.net (184.105.81.97)  98.999 ms  99.004 ms  92.333 ms
+14  100ge14-2.core1.msp1.he.net (184.105.223.178)  110.458 ms  110.066 ms  102.706 ms
+15  100ge4-1.core1.sea1.he.net (184.105.223.193)  135.525 ms  133.804 ms  134.137 ms
+16  100ge8-1.core1.tyo1.he.net (184.105.213.118)  244.354 ms  236.748 ms  235.270 ms
+17  100ge6-1.core1.hkg1.he.net (184.105.64.129)  267.454 ms  258.667 ms  258.836 ms
+18  * * *
+19  * * *
+20  * 202.181.132.41 (202.181.132.41)  258.851 ms *
+
+1491724803
+traceroute to 202.181.132.41 (202.181.132.41), 30 hops max, 60 byte packets
+ 1  139.222.0.1 (139.222.0.1)  1.118 ms  1.410 ms  1.842 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  0.441 ms  0.437 ms  0.677 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  1.257 ms  1.235 ms  1.137 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  1.209 ms  1.312 ms  1.403 ms
+ 5  xe-9-0-1.londpg-ban1.ja.net (146.97.41.209)  11.774 ms  11.753 ms  11.743 ms
+ 6  ae26.londpg-sbr2.ja.net (146.97.35.233)  7.707 ms  7.723 ms  7.708 ms
+ 7  ae30.londtw-sbr2.ja.net (146.97.33.6)  6.882 ms  6.865 ms  6.848 ms
+ 8  ae29.londtn-sbr1.ja.net (146.97.33.10)  39.279 ms  7.487 ms  6.679 ms
+ 9  ae0.londtn-ban3.ja.net (146.97.35.170)  9.234 ms  9.131 ms  9.158 ms
+10  40ge1-3.core1.lon2.he.net (195.66.224.21)  7.049 ms  16.326 ms  13.900 ms
+11  100ge1-1.core1.nyc4.he.net (72.52.92.166)  78.497 ms  78.340 ms  82.939 ms
+12  100ge5-1.core1.chi1.he.net (184.105.223.161)  101.223 ms  101.458 ms  101.142 ms
+13  100ge14-1.core2.chi1.he.net (184.105.81.97)  89.484 ms  94.979 ms  91.212 ms
+14  100ge14-2.core1.msp1.he.net (184.105.223.178)  108.481 ms  110.370 ms  108.396 ms
+15  100ge4-1.core1.sea1.he.net (184.105.223.193)  147.212 ms  137.116 ms  137.288 ms
+16  100ge8-1.core1.tyo1.he.net (184.105.213.118)  240.752 ms  231.377 ms  229.877 ms
+17  100ge6-1.core1.hkg1.he.net (184.105.64.129)  260.616 ms  254.110 ms  252.582 ms
+18  * * *
+19  * * *
+20  202.181.132.41 (202.181.132.41)  256.116 ms  255.896 ms  255.999 ms
+
+1491746403
+traceroute to 202.181.132.41 (202.181.132.41), 30 hops max, 60 byte packets
+ 1  139.222.0.1 (139.222.0.1)  1.359 ms  1.549 ms  1.962 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  0.518 ms  0.509 ms  0.725 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  1.200 ms  1.196 ms  1.172 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  1.487 ms  1.652 ms  1.259 ms
+ 5  xe-9-0-1.londpg-ban1.ja.net (146.97.41.209)  8.130 ms  8.064 ms  8.082 ms
+ 6  ae26.londpg-sbr2.ja.net (146.97.35.233)  7.920 ms  8.097 ms  7.956 ms
+ 7  ae30.londtw-sbr2.ja.net (146.97.33.6)  7.017 ms  14.537 ms  14.561 ms
+ 8  ae29.londtn-sbr1.ja.net (146.97.33.10)  17.061 ms  17.049 ms  7.092 ms
+ 9  ae0.londtn-ban3.ja.net (146.97.35.170)  7.064 ms  7.055 ms  7.071 ms
+10  40ge1-3.core1.lon2.he.net (195.66.224.21)  7.414 ms  7.418 ms  7.901 ms
+11  100ge1-1.core1.nyc4.he.net (72.52.92.166)  94.462 ms  94.443 ms  82.823 ms
+12  100ge5-1.core1.chi1.he.net (184.105.223.161)  94.420 ms  101.241 ms  99.375 ms
+13  100ge14-1.core2.chi1.he.net (184.105.81.97)  98.171 ms  98.995 ms  99.037 ms
+14  100ge14-2.core1.msp1.he.net (184.105.223.178)  107.262 ms  102.963 ms  115.365 ms
+15  100ge4-1.core1.sea1.he.net (184.105.223.193)  146.411 ms  146.307 ms  142.744 ms
+16  100ge8-1.core1.tyo1.he.net (184.105.213.118)  239.736 ms  248.601 ms  238.145 ms
+17  100ge6-1.core1.hkg1.he.net (184.105.64.129)  263.524 ms  268.687 ms  267.491 ms
+18  * * *
+19  * * *
+20  * * 202.181.132.41 (202.181.132.41)  265.229 ms
+
+1491768003
+traceroute to 202.181.132.41 (202.181.132.41), 30 hops max, 60 byte packets
+ 1  139.222.0.1 (139.222.0.1)  1.589 ms  1.765 ms  2.173 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  0.527 ms  0.514 ms  0.746 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  1.190 ms  1.178 ms  1.162 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  1.538 ms  1.392 ms  1.375 ms
+ 5  xe-9-0-1.londpg-ban1.ja.net (146.97.41.209)  7.827 ms  7.814 ms  7.795 ms
+ 6  ae26.londpg-sbr2.ja.net (146.97.35.233)  9.876 ms  8.226 ms  8.208 ms
+ 7  ae30.londtw-sbr2.ja.net (146.97.33.6)  6.821 ms  6.962 ms  6.910 ms
+ 8  ae29.londtn-sbr1.ja.net (146.97.33.10)  6.943 ms  6.928 ms  6.910 ms
+ 9  ae0.londtn-ban3.ja.net (146.97.35.170)  6.971 ms  6.883 ms  6.943 ms
+10  40ge1-3.core1.lon2.he.net (195.66.224.21)  11.102 ms  19.670 ms  19.657 ms
+11  100ge1-1.core1.nyc4.he.net (72.52.92.166)  -1.984 ms  4.322 ms  -2.000 ms
+12  100ge5-1.core1.chi1.he.net (184.105.223.161)  16.215 ms  16.272 ms  16.326 ms
+13  100ge14-1.core2.chi1.he.net (184.105.81.97)  12.891 ms  14.457 ms  15.886 ms
+14  100ge14-2.core1.msp1.he.net (184.105.223.178)  24.782 ms  24.804 ms  24.043 ms
+15  100ge4-1.core1.sea1.he.net (184.105.223.193)  56.789 ms  56.516 ms  65.472 ms
+16  100ge8-1.core1.tyo1.he.net (184.105.213.118)  154.673 ms  231.528 ms  231.283 ms
+17  100ge6-1.core1.hkg1.he.net (184.105.64.129)  258.135 ms  254.401 ms  254.337 ms
+18  * * *
+19  * * *
+20  * * 202.181.132.41 (202.181.132.41)  255.920 ms
+
+1491789603
+traceroute to 202.181.132.41 (202.181.132.41), 30 hops max, 60 byte packets
+ 1  139.222.0.1 (139.222.0.1)  1.214 ms  1.588 ms  1.991 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  0.250 ms  0.228 ms  0.633 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  1.294 ms  1.292 ms  1.272 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  1.164 ms  1.160 ms  1.130 ms
+ 5  xe-9-0-1.londpg-ban1.ja.net (146.97.41.209)  7.617 ms  7.660 ms  7.674 ms
+ 6  ae26.londpg-sbr2.ja.net (146.97.35.233)  7.725 ms  7.810 ms  7.795 ms
+ 7  ae30.londtw-sbr2.ja.net (146.97.33.6)  6.923 ms  6.906 ms  7.465 ms
+ 8  ae29.londtn-sbr1.ja.net (146.97.33.10)  7.573 ms  7.555 ms  6.771 ms
+ 9  ae0.londtn-ban3.ja.net (146.97.35.170)  7.528 ms  7.515 ms  7.502 ms
+10  40ge1-3.core1.lon2.he.net (195.66.224.21)  13.588 ms  9.822 ms  9.564 ms
+11  100ge1-1.core1.nyc4.he.net (72.52.92.166)  72.748 ms  72.756 ms  75.263 ms
+12  100ge5-1.core1.chi1.he.net (184.105.223.161)  96.253 ms  96.241 ms  94.926 ms
+13  100ge14-1.core2.chi1.he.net (184.105.81.97)  91.079 ms  91.134 ms  90.993 ms
+14  100ge14-2.core1.msp1.he.net (184.105.223.178)  109.228 ms  109.538 ms  110.975 ms
+15  100ge4-1.core1.sea1.he.net (184.105.223.193)  180.656 ms  169.049 ms  169.116 ms
+16  100ge8-1.core1.tyo1.he.net (184.105.213.118)  235.598 ms  231.971 ms  231.770 ms
+17  100ge6-1.core1.hkg1.he.net (184.105.64.129)  260.299 ms  252.682 ms  264.588 ms
+18  * * *
+19  * * *
+20  202.181.132.41 (202.181.132.41)  256.160 ms *  254.281 ms
+
+1491811203
+traceroute to 202.181.132.41 (202.181.132.41), 30 hops max, 60 byte packets
+ 1  139.222.0.1 (139.222.0.1)  1.170 ms  1.460 ms  1.874 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  0.331 ms  0.674 ms  0.670 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  1.193 ms  1.174 ms  1.159 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  1.182 ms  1.332 ms  1.428 ms
+ 5  xe-9-0-1.londpg-ban1.ja.net (146.97.41.209)  7.983 ms  8.002 ms  7.942 ms
+ 6  ae26.londpg-sbr2.ja.net (146.97.35.233)  7.988 ms  8.094 ms  8.141 ms
+ 7  ae30.londtw-sbr2.ja.net (146.97.33.6)  8.245 ms  8.250 ms  8.237 ms
+ 8  ae29.londtn-sbr1.ja.net (146.97.33.10)  7.332 ms  7.320 ms  7.335 ms
+ 9  ae0.londtn-ban3.ja.net (146.97.35.170)  7.190 ms  7.229 ms  7.249 ms
+10  40ge1-3.core1.lon2.he.net (195.66.224.21)  15.292 ms  11.700 ms  11.711 ms
+11  100ge1-1.core1.nyc4.he.net (72.52.92.166)  99.255 ms  86.084 ms  98.383 ms
+12  100ge5-1.core1.chi1.he.net (184.105.223.161)  102.909 ms  102.677 ms  102.781 ms
+13  100ge14-1.core2.chi1.he.net (184.105.81.97)  96.266 ms  96.280 ms  95.409 ms
+14  100ge14-2.core1.msp1.he.net (184.105.223.178)  105.942 ms  112.524 ms  105.755 ms
+15  100ge4-1.core1.sea1.he.net (184.105.223.193)  140.116 ms  137.872 ms  150.517 ms
+16  100ge8-1.core1.tyo1.he.net (184.105.213.118)  248.030 ms  240.455 ms  247.949 ms
+17  100ge6-1.core1.hkg1.he.net (184.105.64.129)  272.839 ms  273.006 ms  272.973 ms
+18  * * *
+19  * * *
+20  202.181.132.41 (202.181.132.41)  266.246 ms  267.912 ms *
+
+1491832802
+traceroute to 202.181.132.41 (202.181.132.41), 30 hops max, 60 byte packets
+ 1  139.222.0.1 (139.222.0.1)  1.677 ms  1.734 ms  2.126 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  0.386 ms  0.368 ms  0.441 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  1.121 ms  1.095 ms  1.059 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  1.444 ms  1.365 ms  1.338 ms
+ 5  xe-9-0-1.londpg-ban1.ja.net (146.97.41.209)  7.744 ms  7.680 ms  7.934 ms
+ 6  ae26.londpg-sbr2.ja.net (146.97.35.233)  10.378 ms  9.510 ms  9.491 ms
+ 7  ae30.londtw-sbr2.ja.net (146.97.33.6)  11.263 ms  9.853 ms  9.651 ms
+ 8  ae29.londtn-sbr1.ja.net (146.97.33.10)  6.944 ms  6.926 ms  6.817 ms
+ 9  ae0.londtn-ban3.ja.net (146.97.35.170)  6.934 ms  6.919 ms  6.857 ms
+10  40ge1-3.core1.lon2.he.net (195.66.224.21)  7.186 ms  7.278 ms  7.363 ms
+11  100ge1-1.core1.nyc4.he.net (72.52.92.166)  73.803 ms  75.737 ms  75.764 ms
+12  100ge5-1.core1.chi1.he.net (184.105.223.161)  92.323 ms  93.872 ms  92.353 ms
+13  100ge14-1.core2.chi1.he.net (184.105.81.97)  129.601 ms  128.252 ms  104.998 ms
+14  100ge14-2.core1.msp1.he.net (184.105.223.178)  102.186 ms  100.347 ms  105.056 ms
+15  100ge4-1.core1.sea1.he.net (184.105.223.193)  156.407 ms  156.300 ms  156.254 ms
+16  100ge8-1.core1.tyo1.he.net (184.105.213.118)  234.467 ms  234.394 ms  234.443 ms
+17  100ge6-1.core1.hkg1.he.net (184.105.64.129)  256.012 ms  255.918 ms  260.838 ms
+18  * * *
+19  * * *
+20  202.181.132.41 (202.181.132.41)  257.774 ms *  259.520 ms
+
+1491854403
+traceroute to 202.181.132.41 (202.181.132.41), 30 hops max, 60 byte packets
+ 1  139.222.0.1 (139.222.0.1)  0.986 ms  1.266 ms  1.723 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  0.301 ms  0.867 ms  0.857 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  0.981 ms  0.995 ms  0.929 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  1.130 ms  1.191 ms  1.276 ms
+ 5  xe-9-0-1.londpg-ban1.ja.net (146.97.41.209)  7.647 ms  7.590 ms  7.637 ms
+ 6  ae26.londpg-sbr2.ja.net (146.97.35.233)  7.623 ms  7.809 ms  7.918 ms
+ 7  ae30.londtw-sbr2.ja.net (146.97.33.6)  7.025 ms  7.016 ms  7.001 ms
+ 8  ae29.londtn-sbr1.ja.net (146.97.33.10)  28.792 ms  28.850 ms  28.825 ms
+ 9  ae0.londtn-ban3.ja.net (146.97.35.170)  6.930 ms  7.007 ms  6.968 ms
+10  40ge1-3.core1.lon2.he.net (195.66.224.21)  7.300 ms  7.261 ms  7.155 ms
+11  100ge1-1.core1.nyc4.he.net (72.52.92.166)  72.846 ms  76.321 ms  72.782 ms
+12  100ge5-1.core1.chi1.he.net (184.105.223.161)  91.149 ms  92.874 ms  90.980 ms
+13  100ge14-1.core2.chi1.he.net (184.105.81.97)  92.399 ms  101.551 ms  92.348 ms
+14  100ge14-2.core1.msp1.he.net (184.105.223.178)  98.990 ms  99.211 ms  108.198 ms
+15  100ge4-1.core1.sea1.he.net (184.105.223.193)  133.254 ms  134.482 ms  134.469 ms
+16  100ge8-1.core1.tyo1.he.net (184.105.213.118)  231.565 ms  227.615 ms  227.591 ms
+17  100ge6-1.core1.hkg1.he.net (184.105.64.129)  247.468 ms  245.888 ms  252.034 ms
+18  * * *
+19  * * *
+20  202.181.132.41 (202.181.132.41)  247.591 ms  247.465 ms *
+
+1491876001
+traceroute to 202.181.132.41 (202.181.132.41), 30 hops max, 60 byte packets
+ 1  139.222.0.1 (139.222.0.1)  1.511 ms  1.837 ms  2.259 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  0.324 ms  0.599 ms  0.575 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  1.323 ms  1.316 ms  1.291 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  1.408 ms  1.240 ms  3.138 ms
+ 5  xe-9-0-1.londpg-ban1.ja.net (146.97.41.209)  8.485 ms  8.454 ms  7.987 ms
+ 6  ae26.londpg-sbr2.ja.net (146.97.35.233)  8.978 ms  8.202 ms  8.203 ms
+ 7  ae30.londtw-sbr2.ja.net (146.97.33.6)  7.001 ms  7.289 ms  7.244 ms
+ 8  ae29.londtn-sbr1.ja.net (146.97.33.10)  7.253 ms  7.290 ms  7.154 ms
+ 9  ae0.londtn-ban3.ja.net (146.97.35.170)  7.262 ms  7.243 ms  7.050 ms
+10  40ge1-3.core1.lon2.he.net (195.66.224.21)  7.348 ms  16.291 ms  16.302 ms
+11  100ge1-1.core1.nyc4.he.net (72.52.92.166)  76.036 ms  76.098 ms  77.801 ms
+12  100ge5-1.core1.chi1.he.net (184.105.223.161)  96.785 ms  96.881 ms  97.035 ms
+13  100ge14-1.core2.chi1.he.net (184.105.81.97)  96.423 ms  115.378 ms  96.420 ms
+14  100ge14-2.core1.msp1.he.net (184.105.223.178)  150.763 ms  119.024 ms  150.734 ms
+15  100ge4-1.core1.sea1.he.net (184.105.223.193)  152.798 ms  155.019 ms  153.948 ms
+16  100ge8-1.core1.tyo1.he.net (184.105.213.118)  262.849 ms  253.789 ms  253.858 ms
+17  100ge6-1.core1.hkg1.he.net (184.105.64.129)  333.559 ms  314.164 ms  314.363 ms
+18  * * *
+19  * * *
+20  * * *
+21  202.181.132.41 (202.181.132.41)  277.944 ms *  277.062 ms
+
+1491897602
+traceroute to 202.181.132.41 (202.181.132.41), 30 hops max, 60 byte packets
+ 1  139.222.0.1 (139.222.0.1)  1.150 ms  1.464 ms  1.885 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  0.442 ms  0.476 ms  0.459 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  1.125 ms  1.101 ms  1.089 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  1.501 ms  1.212 ms  1.353 ms
+ 5  xe-9-0-1.londpg-ban1.ja.net (146.97.41.209)  8.535 ms  8.396 ms  8.494 ms
+ 6  ae26.londpg-sbr2.ja.net (146.97.35.233)  14.864 ms  12.174 ms  12.161 ms
+ 7  ae30.londtw-sbr2.ja.net (146.97.33.6)  6.988 ms  7.011 ms  6.833 ms
+ 8  ae29.londtn-sbr1.ja.net (146.97.33.10)  6.956 ms  6.944 ms  6.867 ms
+ 9  ae0.londtn-ban3.ja.net (146.97.35.170)  6.918 ms  6.933 ms  6.836 ms
+10  40ge1-3.core1.lon2.he.net (195.66.224.21)  17.524 ms  13.376 ms  13.278 ms
+11  100ge1-1.core1.nyc4.he.net (72.52.92.166)  73.664 ms  73.665 ms  75.875 ms
+12  100ge5-1.core1.chi1.he.net (184.105.223.161)  92.259 ms  94.276 ms  92.406 ms
+13  100ge14-1.core2.chi1.he.net (184.105.81.97)  96.199 ms  96.184 ms  96.069 ms
+14  100ge14-2.core1.msp1.he.net (184.105.223.178)  100.175 ms  121.687 ms  121.570 ms
+15  100ge4-1.core1.sea1.he.net (184.105.223.193)  144.638 ms  139.599 ms  139.711 ms
+16  100ge8-1.core1.tyo1.he.net (184.105.213.118)  235.811 ms  232.863 ms  232.699 ms
+17  100ge6-1.core1.hkg1.he.net (184.105.64.129)  257.363 ms  256.127 ms  257.587 ms
+18  * * *
+19  * * *
+20  * * *
+21  202.181.132.41 (202.181.132.41)  259.203 ms *  257.775 ms
+
+1491919202
+traceroute to 202.181.132.41 (202.181.132.41), 30 hops max, 60 byte packets
+ 1  139.222.0.1 (139.222.0.1)  0.884 ms  1.251 ms  1.659 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  0.292 ms  0.267 ms  0.240 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  0.926 ms  0.908 ms  0.941 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  1.273 ms  1.055 ms  1.327 ms
+ 5  xe-9-0-1.londpg-ban1.ja.net (146.97.41.209)  7.788 ms  8.703 ms  9.413 ms
+ 6  ae26.londpg-sbr2.ja.net (146.97.35.233)  7.657 ms  7.714 ms  7.698 ms
+ 7  ae30.londtw-sbr2.ja.net (146.97.33.6)  6.783 ms  6.794 ms  6.835 ms
+ 8  ae29.londtn-sbr1.ja.net (146.97.33.10)  20.924 ms  20.878 ms  6.721 ms
+ 9  ae0.londtn-ban3.ja.net (146.97.35.170)  6.820 ms  6.768 ms  6.778 ms
+10  40ge1-3.core1.lon2.he.net (195.66.224.21)  17.061 ms  13.643 ms  13.237 ms
+11  100ge1-1.core1.nyc4.he.net (72.52.92.166)  74.521 ms  72.915 ms  74.547 ms
+12  100ge5-1.core1.chi1.he.net (184.105.223.161)  93.328 ms  93.344 ms  93.335 ms
+13  100ge14-2.core1.msp1.he.net (184.105.223.178)  100.612 ms  116.082 ms  116.071 ms
+14  100ge4-1.core1.sea1.he.net (184.105.223.193)  135.836 ms  135.971 ms  131.345 ms
+15  100ge8-1.core1.tyo1.he.net (184.105.213.118)  235.015 ms  235.265 ms  230.936 ms
+16  100ge6-1.core1.hkg1.he.net (184.105.64.129)  284.117 ms  283.962 ms  282.455 ms
+17  * * *
+18  * * *
+19  202.181.132.41 (202.181.132.41)  284.193 ms  284.011 ms  283.992 ms
+
+1491940803
+traceroute to 202.181.132.41 (202.181.132.41), 30 hops max, 60 byte packets
+ 1  139.222.0.1 (139.222.0.1)  0.955 ms  1.336 ms  1.711 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  0.258 ms  0.436 ms  0.422 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  1.177 ms  1.191 ms  1.900 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  2.052 ms  1.106 ms  1.335 ms
+ 5  xe-9-0-1.londpg-ban1.ja.net (146.97.41.209)  8.072 ms  8.222 ms  8.205 ms
+ 6  ae26.londpg-sbr2.ja.net (146.97.35.233)  8.028 ms  8.130 ms  8.016 ms
+ 7  ae30.londtw-sbr2.ja.net (146.97.33.6)  7.106 ms  7.095 ms  7.058 ms
+ 8  ae29.londtn-sbr1.ja.net (146.97.33.10)  7.154 ms  7.138 ms  7.129 ms
+ 9  ae0.londtn-ban3.ja.net (146.97.35.170)  7.163 ms  7.153 ms  7.089 ms
+10  40ge1-3.core1.lon2.he.net (195.66.224.21)  7.344 ms  15.956 ms  16.192 ms
+11  100ge1-1.core1.nyc4.he.net (72.52.92.166)  74.966 ms  74.822 ms  74.923 ms
+12  100ge5-1.core1.chi1.he.net (184.105.223.161)  136.281 ms  134.726 ms  134.883 ms
+13  100ge14-2.core1.msp1.he.net (184.105.223.178)  102.010 ms  103.590 ms  103.410 ms
+14  100ge4-1.core1.sea1.he.net (184.105.223.193)  138.470 ms  138.639 ms  138.624 ms
+15  100ge8-1.core1.tyo1.he.net (184.105.213.118)  241.251 ms  241.320 ms  241.269 ms
+16  100ge6-1.core1.hkg1.he.net (184.105.64.129)  305.672 ms  284.620 ms  286.029 ms
+17  * * *
+18  * * *
+19  * 202.181.132.41 (202.181.132.41)  287.728 ms  287.680 ms
+
+1491962402
+traceroute to 202.181.132.41 (202.181.132.41), 30 hops max, 60 byte packets
+ 1  139.222.0.1 (139.222.0.1)  1.050 ms  1.421 ms  1.843 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  0.342 ms  0.540 ms  0.522 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  1.149 ms  1.129 ms  1.148 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  1.231 ms  1.277 ms  1.101 ms
+ 5  xe-9-0-1.londpg-ban1.ja.net (146.97.41.209)  7.693 ms  7.644 ms  7.649 ms
+ 6  ae26.londpg-sbr2.ja.net (146.97.35.233)  7.921 ms  9.256 ms  9.289 ms
+ 7  ae30.londtw-sbr2.ja.net (146.97.33.6)  9.045 ms  8.954 ms  8.960 ms
+ 8  ae29.londtn-sbr1.ja.net (146.97.33.10)  6.940 ms  6.933 ms  6.915 ms
+ 9  ae0.londtn-ban3.ja.net (146.97.35.170)  6.903 ms  6.881 ms  6.851 ms
+10  40ge1-3.core1.lon2.he.net (195.66.224.21)  9.776 ms  7.220 ms  7.135 ms
+11  100ge1-1.core1.nyc4.he.net (72.52.92.166)  75.198 ms  77.469 ms  76.770 ms
+12  100ge5-1.core1.chi1.he.net (184.105.223.161)  97.502 ms  97.207 ms  97.477 ms
+13  100ge14-2.core1.msp1.he.net (184.105.223.178)  100.717 ms  101.878 ms  100.016 ms
+14  100ge4-1.core1.sea1.he.net (184.105.223.193)  75.792 ms  64.029 ms  74.489 ms
+15  100ge8-1.core1.tyo1.he.net (184.105.213.118)  172.318 ms  164.119 ms  164.191 ms
+16  100ge6-1.core1.hkg1.he.net (184.105.64.129)  214.848 ms  217.559 ms  211.062 ms
+17  * * *
+18  * * *
+19  202.181.132.41 (202.181.132.41)  218.630 ms *  286.776 ms
+
+1491984003
+traceroute to 202.181.132.41 (202.181.132.41), 30 hops max, 60 byte packets
+ 1  139.222.0.1 (139.222.0.1)  1.009 ms  1.370 ms  1.779 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  0.382 ms  0.361 ms  0.599 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  1.154 ms  1.108 ms  1.114 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  1.162 ms  1.394 ms  1.224 ms
+ 5  xe-9-0-1.londpg-ban1.ja.net (146.97.41.209)  7.582 ms  7.697 ms  7.625 ms
+ 6  ae26.londpg-sbr2.ja.net (146.97.35.233)  7.641 ms  7.869 ms  7.955 ms
+ 7  ae30.londtw-sbr2.ja.net (146.97.33.6)  6.768 ms  6.883 ms  6.944 ms
+ 8  ae29.londtn-sbr1.ja.net (146.97.33.10)  27.638 ms  6.939 ms  6.925 ms
+ 9  ae0.londtn-ban3.ja.net (146.97.35.170)  6.946 ms  6.897 ms  6.925 ms
+10  40ge1-3.core1.lon2.he.net (195.66.224.21)  16.414 ms  12.438 ms  12.449 ms
+11  100ge1-1.core1.nyc4.he.net (72.52.92.166)  84.623 ms  72.890 ms  72.983 ms
+12  100ge5-1.core1.chi1.he.net (184.105.223.161)  89.330 ms  89.317 ms  89.261 ms
+13  100ge14-2.core1.msp1.he.net (184.105.223.178)  97.500 ms  103.737 ms  97.394 ms
+14  100ge4-1.core1.sea1.he.net (184.105.223.193)  137.412 ms  137.513 ms  137.612 ms
+15  100ge8-1.core1.tyo1.he.net (184.105.213.118)  227.988 ms  227.955 ms  227.777 ms
+16  100ge6-1.core1.hkg1.he.net (184.105.64.129)  277.879 ms  277.832 ms  276.386 ms
+17  * * *
+18  * * *
+19  202.181.132.41 (202.181.132.41)  281.344 ms *  281.365 ms
+
+1492005601
+traceroute to 202.181.132.41 (202.181.132.41), 30 hops max, 60 byte packets
+ 1  139.222.0.1 (139.222.0.1)  1.330 ms  1.700 ms  2.092 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  0.546 ms  0.518 ms  0.775 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  0.953 ms  0.928 ms  1.017 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  1.260 ms  1.401 ms  1.373 ms
+ 5  xe-9-0-1.londpg-ban1.ja.net (146.97.41.209)  7.807 ms  7.895 ms  7.873 ms
+ 6  ae26.londpg-sbr2.ja.net (146.97.35.233)  7.850 ms  7.895 ms  7.902 ms
+ 7  ae30.londtw-sbr2.ja.net (146.97.33.6)  11.563 ms  11.541 ms  11.491 ms
+ 8  ae29.londtn-sbr1.ja.net (146.97.33.10)  6.877 ms  6.951 ms  6.926 ms
+ 9  ae0.londtn-ban3.ja.net (146.97.35.170)  7.096 ms  7.037 ms  7.048 ms
+10  40ge1-3.core1.lon2.he.net (195.66.224.21)  67.433 ms  64.344 ms  64.205 ms
+11  100ge1-1.core1.nyc4.he.net (72.52.92.166)  76.299 ms  74.567 ms  74.509 ms
+12  100ge9-1.core2.chi1.he.net (184.105.223.161)  98.304 ms  97.936 ms  98.004 ms
+13  100ge14-2.core1.msp1.he.net (184.105.223.178)  99.547 ms  105.744 ms  99.486 ms
+14  100ge4-1.core1.sea1.he.net (184.105.223.193)  179.344 ms  174.747 ms  174.598 ms
+15  100ge8-1.core1.tyo1.he.net (184.105.213.118)  245.124 ms  239.602 ms  239.635 ms
+16  100ge6-1.core1.hkg1.he.net (184.105.64.129)  307.785 ms  297.677 ms  286.336 ms
+17  * * *
+18  * * *
+19  * * 202.181.132.41 (202.181.132.41)  290.982 ms
+
+1492027202
+traceroute to 202.181.132.41 (202.181.132.41), 30 hops max, 60 byte packets
+ 1  139.222.0.1 (139.222.0.1)  1.068 ms  1.369 ms  1.819 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  0.312 ms  0.591 ms  0.576 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  1.105 ms  1.076 ms  1.061 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  1.049 ms  1.093 ms  1.199 ms
+ 5  xe-9-0-1.londpg-ban1.ja.net (146.97.41.209)  7.677 ms  8.389 ms  7.727 ms
+ 6  ae26.londpg-sbr2.ja.net (146.97.35.233)  7.777 ms  7.765 ms  7.703 ms
+ 7  ae30.londtw-sbr2.ja.net (146.97.33.6)  6.860 ms  6.843 ms  6.832 ms
+ 8  ae29.londtn-sbr1.ja.net (146.97.33.10)  10.426 ms  6.794 ms  10.372 ms
+ 9  ae0.londtn-ban3.ja.net (146.97.35.170)  6.815 ms  6.801 ms  6.843 ms
+10  40ge1-3.core1.lon2.he.net (195.66.224.21)  7.133 ms  7.094 ms  7.127 ms
+11  100ge5-1.core1.par2.he.net (184.105.223.254)  37.727 ms  37.653 ms  37.178 ms
+12  100ge6-1.core2.mrs1.he.net (184.105.222.22)  36.152 ms  36.253 ms  36.240 ms
+13  184.105.65.13 (184.105.65.13)  197.718 ms  197.819 ms  197.691 ms
+14  100ge3-1.core1.hkg1.he.net (184.105.222.101)  197.810 ms  197.824 ms  197.783 ms
+15  * * *
+16  * * *
+17  * 202.181.132.41 (202.181.132.41)  199.555 ms  199.544 ms
+
+1492048802
+traceroute to 202.181.132.41 (202.181.132.41), 30 hops max, 60 byte packets
+ 1  139.222.0.1 (139.222.0.1)  1.133 ms  1.473 ms  1.862 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  0.439 ms  0.502 ms  0.497 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  1.130 ms  1.077 ms  1.100 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  1.314 ms  1.568 ms  1.425 ms
+ 5  xe-9-0-1.londpg-ban1.ja.net (146.97.41.209)  7.776 ms  7.750 ms  7.733 ms
+ 6  ae26.londpg-sbr2.ja.net (146.97.35.233)  7.679 ms  7.651 ms  7.691 ms
+ 7  ae30.londtw-sbr2.ja.net (146.97.33.6)  6.772 ms  6.856 ms  6.876 ms
+ 8  ae29.londtn-sbr1.ja.net (146.97.33.10)  6.892 ms  6.924 ms  6.913 ms
+ 9  ae0.londtn-ban3.ja.net (146.97.35.170)  6.901 ms  6.841 ms  6.870 ms
+10  40ge1-3.core1.lon2.he.net (195.66.224.21)  43.713 ms  40.099 ms  40.054 ms
+11  100ge5-1.core1.par2.he.net (184.105.223.254)  26.952 ms  27.053 ms  27.079 ms
+12  100ge6-1.core2.mrs1.he.net (184.105.222.22)  30.949 ms  30.905 ms  29.215 ms
+13  184.105.65.13 (184.105.65.13)  165.668 ms  165.556 ms  165.641 ms
+14  100ge3-1.core1.hkg1.he.net (184.105.222.101)  196.415 ms  196.575 ms  196.300 ms
+15  * * *
+16  * * *
+17  202.181.132.41 (202.181.132.41)  198.017 ms  198.080 ms  197.995 ms
+
+1492070403
+traceroute to 202.181.132.41 (202.181.132.41), 30 hops max, 60 byte packets
+ 1  139.222.0.1 (139.222.0.1)  1.088 ms  1.422 ms  2.642 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  0.475 ms  0.461 ms  0.717 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  1.297 ms  1.228 ms  1.212 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  2.488 ms  2.464 ms  1.092 ms
+ 5  xe-9-0-1.londpg-ban1.ja.net (146.97.41.209)  8.045 ms  8.050 ms  7.961 ms
+ 6  ae26.londpg-sbr2.ja.net (146.97.35.233)  7.948 ms  7.819 ms  7.978 ms
+ 7  ae30.londtw-sbr2.ja.net (146.97.33.6)  6.974 ms  6.959 ms  7.127 ms
+ 8  ae29.londtn-sbr1.ja.net (146.97.33.10)  7.131 ms  7.120 ms  7.112 ms
+ 9  ae0.londtn-ban3.ja.net (146.97.35.170)  7.095 ms  7.087 ms  7.070 ms
+10  40ge1-3.core1.lon2.he.net (195.66.224.21)  34.329 ms  30.307 ms  30.226 ms
+11  100ge5-1.core1.par2.he.net (184.105.223.254)  15.458 ms  15.442 ms  16.009 ms
+12  100ge6-1.core2.mrs1.he.net (184.105.222.22)  25.631 ms  25.498 ms  25.732 ms
+13  184.105.65.13 (184.105.65.13)  166.723 ms  166.397 ms  166.473 ms
+14  100ge3-1.core1.hkg1.he.net (184.105.222.101)  200.940 ms  200.792 ms  200.910 ms
+15  * * *
+16  * * *
+17  202.181.132.41 (202.181.132.41)  202.640 ms  202.566 ms *
+
+1492092002
+traceroute to 202.181.132.41 (202.181.132.41), 30 hops max, 60 byte packets
+ 1  139.222.0.1 (139.222.0.1)  1.069 ms  1.455 ms  1.870 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  0.380 ms  0.708 ms  0.696 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  1.163 ms  1.144 ms  1.118 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  1.285 ms  1.390 ms  1.100 ms
+ 5  xe-9-0-1.londpg-ban1.ja.net (146.97.41.209)  7.685 ms  7.724 ms  7.704 ms
+ 6  ae26.londpg-sbr2.ja.net (146.97.35.233)  7.683 ms  8.377 ms  8.361 ms
+ 7  ae30.londtw-sbr2.ja.net (146.97.33.6)  7.216 ms  7.199 ms  7.192 ms
+ 8  ae29.londtn-sbr1.ja.net (146.97.33.10)  7.043 ms  7.036 ms  7.149 ms
+ 9  ae0.londtn-ban3.ja.net (146.97.35.170)  7.155 ms  7.140 ms  7.118 ms
+10  40ge1-3.core1.lon2.he.net (195.66.224.21)  21.084 ms  20.342 ms  20.330 ms
+11  100ge5-1.core1.par2.he.net (184.105.223.254)  18.134 ms  18.028 ms  15.282 ms
+12  100ge6-1.core2.mrs1.he.net (184.105.222.22)  34.381 ms  34.370 ms  34.359 ms
+13  100ge10-1.core1.sin1.he.net (184.105.65.13)  170.483 ms  170.562 ms  170.546 ms
+14  100ge3-1.core1.hkg1.he.net (184.105.222.101)  200.751 ms  200.638 ms  198.841 ms
+15  * * *
+16  * * *
+17  202.181.132.41 (202.181.132.41)  199.577 ms * *
+
+1492113603
+traceroute to 202.181.132.41 (202.181.132.41), 30 hops max, 60 byte packets
+ 1  139.222.0.1 (139.222.0.1)  1.120 ms  1.508 ms  1.898 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  0.325 ms  0.304 ms  0.601 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  1.073 ms  1.067 ms  1.046 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  1.190 ms  1.426 ms  1.261 ms
+ 5  xe-9-0-1.londpg-ban1.ja.net (146.97.41.209)  7.689 ms  7.666 ms  7.573 ms
+ 6  ae26.londpg-sbr2.ja.net (146.97.35.233)  7.734 ms  7.793 ms  7.745 ms
+ 7  ae30.londtw-sbr2.ja.net (146.97.33.6)  7.004 ms  6.858 ms  6.978 ms
+ 8  ae29.londtn-sbr1.ja.net (146.97.33.10)  6.950 ms  6.942 ms  6.920 ms
+ 9  ae0.londtn-ban3.ja.net (146.97.35.170)  6.922 ms  6.895 ms  6.887 ms
+10  40ge1-3.core1.lon2.he.net (195.66.224.21)  9.857 ms  7.075 ms  7.153 ms
+11  100ge5-1.core1.par2.he.net (184.105.223.254)  15.063 ms  15.002 ms  15.090 ms
+12  100ge6-1.core2.mrs1.he.net (184.105.222.22)  24.994 ms  25.066 ms  25.048 ms
+13  100ge10-1.core1.sin1.he.net (184.105.65.13)  160.234 ms  160.020 ms  160.205 ms
+14  100ge3-1.core1.hkg1.he.net (184.105.222.101)  194.653 ms  194.635 ms  193.637 ms
+15  * * *
+16  * * *
+17  * * *
+18  * * *
+19  202.181.132.41 (202.181.132.41)  198.331 ms  198.476 ms  198.456 ms
+
+1492135203
+traceroute to 202.181.132.41 (202.181.132.41), 30 hops max, 60 byte packets
+ 1  139.222.0.1 (139.222.0.1)  0.930 ms  1.301 ms  1.712 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  0.316 ms  0.306 ms  0.404 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  1.047 ms  1.024 ms  0.986 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  1.127 ms  1.209 ms  1.324 ms
+ 5  xe-9-0-1.londpg-ban1.ja.net (146.97.41.209)  7.851 ms  8.079 ms  7.942 ms
+ 6  ae26.londpg-sbr2.ja.net (146.97.35.233)  7.972 ms  8.089 ms  8.018 ms
+ 7  ae30.londtw-sbr2.ja.net (146.97.33.6)  7.539 ms  7.562 ms  7.505 ms
+ 8  ae29.londtn-sbr1.ja.net (146.97.33.10)  7.138 ms  6.995 ms  7.110 ms
+ 9  ae0.londtn-ban3.ja.net (146.97.35.170)  7.255 ms  6.986 ms  6.996 ms
+10  40ge1-3.core1.lon2.he.net (195.66.224.21)  7.313 ms  7.306 ms  7.447 ms
+11  100ge5-1.core1.par2.he.net (184.105.223.254)  37.196 ms  37.108 ms  35.595 ms
+12  100ge6-1.core2.mrs1.he.net (184.105.222.22)  34.374 ms  34.180 ms  34.284 ms
+13  100ge10-1.core1.sin1.he.net (184.105.65.13)  205.955 ms  205.941 ms  205.855 ms
+14  100ge3-1.core1.hkg1.he.net (184.105.222.101)  203.000 ms  202.887 ms  202.967 ms
+15  * * *
+16  * * *
+17  * 202.181.132.41 (202.181.132.41)  204.566 ms *
+
+1492156802
+traceroute to 202.181.132.41 (202.181.132.41), 30 hops max, 60 byte packets
+ 1  139.222.0.1 (139.222.0.1)  1.382 ms  1.669 ms  2.059 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  0.491 ms  0.476 ms  0.839 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  1.222 ms  1.215 ms  1.191 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  1.507 ms  1.443 ms  1.416 ms
+ 5  xe-9-0-1.londpg-ban1.ja.net (146.97.41.209)  7.803 ms  7.826 ms  7.750 ms
+ 6  ae26.londpg-sbr2.ja.net (146.97.35.233)  7.730 ms  7.768 ms  7.749 ms
+ 7  ae30.londtw-sbr2.ja.net (146.97.33.6)  6.971 ms  6.931 ms  6.871 ms
+ 8  ae29.londtn-sbr1.ja.net (146.97.33.10)  6.749 ms  6.851 ms  6.824 ms
+ 9  ae0.londtn-ban3.ja.net (146.97.35.170)  6.888 ms  6.863 ms  6.844 ms
+10  40ge1-3.core1.lon2.he.net (195.66.224.21)  17.605 ms  14.027 ms  13.929 ms
+11  100ge5-1.core1.par2.he.net (184.105.223.254)  20.935 ms  21.027 ms  19.130 ms
+12  100ge6-1.core2.mrs1.he.net (184.105.222.22)  29.655 ms  29.541 ms  29.793 ms
+13  100ge10-1.core1.sin1.he.net (184.105.65.13)  164.097 ms  164.080 ms  163.950 ms
+14  100ge3-1.core1.hkg1.he.net (184.105.222.101)  207.560 ms  207.636 ms  206.163 ms
+15  * * *
+16  * * *
+17  202.181.132.41 (202.181.132.41)  199.651 ms  199.710 ms  199.691 ms
+
+1492178402
+traceroute to 202.181.132.41 (202.181.132.41), 30 hops max, 60 byte packets
+ 1  139.222.0.1 (139.222.0.1)  1.157 ms  1.496 ms  1.906 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  0.483 ms  0.710 ms  0.710 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  1.104 ms  1.100 ms  1.079 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  1.424 ms  1.284 ms  1.522 ms
+ 5  xe-9-0-1.londpg-ban1.ja.net (146.97.41.209)  9.776 ms  9.766 ms  9.711 ms
+ 6  ae26.londpg-sbr2.ja.net (146.97.35.233)  7.795 ms  16.824 ms  8.143 ms
+ 7  ae30.londtw-sbr2.ja.net (146.97.33.6)  6.851 ms  6.794 ms  13.142 ms
+ 8  ae29.londtn-sbr1.ja.net (146.97.33.10)  16.205 ms  6.796 ms  6.809 ms
+ 9  ae0.londtn-ban3.ja.net (146.97.35.170)  13.219 ms  13.094 ms  6.782 ms
+10  40ge1-3.core1.lon2.he.net (195.66.224.21)  7.048 ms  7.063 ms  7.048 ms
+11  100ge5-1.core1.par2.he.net (184.105.223.254)  25.125 ms  24.902 ms  24.995 ms
+12  100ge6-1.core2.mrs1.he.net (184.105.222.22)  24.966 ms  24.955 ms  24.939 ms
+13  100ge10-1.core1.sin1.he.net (184.105.65.13)  162.580 ms  162.435 ms  162.437 ms
+14  100ge3-1.core1.hkg1.he.net (184.105.222.101)  202.941 ms  202.131 ms  200.595 ms
+15  * * *
+16  * * *
+17  202.181.132.41 (202.181.132.41)  198.051 ms  198.033 ms *
+
+1492200001
+traceroute to 202.181.132.41 (202.181.132.41), 30 hops max, 60 byte packets
+ 1  139.222.0.1 (139.222.0.1)  1.169 ms  1.571 ms  1.987 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  0.801 ms  0.827 ms  0.837 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  1.127 ms  1.105 ms  1.085 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  1.202 ms  1.300 ms  1.408 ms
+ 5  xe-9-0-1.londpg-ban1.ja.net (146.97.41.209)  7.918 ms  7.856 ms  7.932 ms
+ 6  ae26.londpg-sbr2.ja.net (146.97.35.233)  7.846 ms  7.898 ms  7.910 ms
+ 7  ae30.londtw-sbr2.ja.net (146.97.33.6)  7.067 ms  7.012 ms  7.031 ms
+ 8  ae29.londtn-sbr1.ja.net (146.97.33.10)  10.794 ms  10.800 ms  6.953 ms
+ 9  ae0.londtn-ban3.ja.net (146.97.35.170)  6.935 ms  7.064 ms  7.006 ms
+10  40ge1-3.core1.lon2.he.net (195.66.224.21)  7.228 ms  7.330 ms  7.284 ms
+11  100ge5-1.core1.par2.he.net (184.105.223.254)  40.932 ms  40.996 ms  38.443 ms
+12  100ge6-1.core2.mrs1.he.net (184.105.222.22)  28.117 ms  28.072 ms  28.176 ms
+13  100ge10-1.core1.sin1.he.net (184.105.65.13)  189.229 ms  189.086 ms  189.126 ms
+14  100ge3-1.core1.hkg1.he.net (184.105.222.101)  201.045 ms  200.830 ms  200.979 ms
+15  * * *
+16  * * *
+17  * * 202.181.132.41 (202.181.132.41)  202.516 ms
+
+1492221602
+traceroute to 202.181.132.41 (202.181.132.41), 30 hops max, 60 byte packets
+ 1  139.222.0.1 (139.222.0.1)  1.220 ms  1.497 ms  1.915 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  0.498 ms  0.482 ms  0.826 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  1.090 ms  1.061 ms  1.045 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  1.271 ms  1.540 ms  1.361 ms
+ 5  xe-9-0-1.londpg-ban1.ja.net (146.97.41.209)  8.472 ms  8.405 ms  8.431 ms
+ 6  ae26.londpg-sbr2.ja.net (146.97.35.233)  7.750 ms  8.006 ms  7.935 ms
+ 7  ae30.londtw-sbr2.ja.net (146.97.33.6)  7.491 ms  7.478 ms  7.459 ms
+ 8  ae29.londtn-sbr1.ja.net (146.97.33.10)  6.972 ms  7.020 ms  7.034 ms
+ 9  ae0.londtn-ban3.ja.net (146.97.35.170)  7.015 ms  7.002 ms  6.963 ms
+10  40ge1-3.core1.lon2.he.net (195.66.224.21)  17.865 ms  15.549 ms  13.796 ms
+11  100ge5-1.core1.par2.he.net (184.105.223.254)  28.151 ms  28.314 ms  26.939 ms
+12  100ge6-1.core2.mrs1.he.net (184.105.222.22)  25.273 ms  25.260 ms  25.375 ms
+13  100ge10-1.core1.sin1.he.net (184.105.65.13)  191.865 ms  191.848 ms  191.803 ms
+14  100ge3-1.core1.hkg1.he.net (184.105.222.101)  210.815 ms  210.869 ms  209.395 ms
+15  * * *
+16  * * *
+17  * 202.181.132.41 (202.181.132.41)  199.368 ms *
+
+1492243202
+traceroute to 202.181.132.41 (202.181.132.41), 30 hops max, 60 byte packets
+ 1  139.222.0.1 (139.222.0.1)  1.071 ms  1.425 ms  1.881 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  0.491 ms  0.477 ms  0.460 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  0.989 ms  0.977 ms  0.957 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  1.181 ms  1.303 ms  1.404 ms
+ 5  xe-9-0-1.londpg-ban1.ja.net (146.97.41.209)  7.731 ms  7.653 ms  7.627 ms
+ 6  ae26.londpg-sbr2.ja.net (146.97.35.233)  7.638 ms  7.641 ms  7.657 ms
+ 7  ae30.londtw-sbr2.ja.net (146.97.33.6)  12.828 ms  8.884 ms  8.842 ms
+ 8  ae29.londtn-sbr1.ja.net (146.97.33.10)  6.995 ms  6.862 ms  6.962 ms
+ 9  ae0.londtn-ban3.ja.net (146.97.35.170)  6.951 ms  6.946 ms  6.918 ms
+10  40ge1-3.core1.lon2.he.net (195.66.224.21)  8.755 ms  7.127 ms  7.111 ms
+11  100ge5-1.core1.par2.he.net (184.105.223.254)  15.205 ms  15.273 ms  15.363 ms
+12  100ge6-1.core2.mrs1.he.net (184.105.222.22)  25.021 ms  25.097 ms  25.083 ms
+13  100ge10-1.core1.sin1.he.net (184.105.65.13)  168.607 ms  168.544 ms  168.575 ms
+14  100ge3-1.core1.hkg1.he.net (184.105.222.101)  197.423 ms  196.278 ms  196.173 ms
+15  * * *
+16  * * *
+17  202.181.132.41 (202.181.132.41)  197.822 ms  197.782 ms  197.938 ms
+
+1492264801
+traceroute to 202.181.132.41 (202.181.132.41), 30 hops max, 60 byte packets
+ 1  139.222.0.1 (139.222.0.1)  1.183 ms  1.489 ms  1.834 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  0.493 ms  0.473 ms  0.964 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  2.705 ms  2.636 ms  2.663 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  1.578 ms  1.259 ms  1.547 ms
+ 5  xe-9-0-1.londpg-ban1.ja.net (146.97.41.209)  7.696 ms  7.731 ms  7.717 ms
+ 6  ae26.londpg-sbr2.ja.net (146.97.35.233)  7.697 ms  7.876 ms  7.788 ms
+ 7  ae30.londtw-sbr2.ja.net (146.97.33.6)  6.821 ms  6.928 ms  6.915 ms
+ 8  ae29.londtn-sbr1.ja.net (146.97.33.10)  7.741 ms  6.919 ms  6.864 ms
+ 9  ae0.londtn-ban3.ja.net (146.97.35.170)  6.921 ms  6.874 ms  6.888 ms
+10  40ge1-3.core1.lon2.he.net (195.66.224.21)  7.133 ms  7.230 ms  7.222 ms
+11  100ge5-1.core1.par2.he.net (184.105.223.254)  33.142 ms  33.324 ms  31.474 ms
+12  100ge6-1.core2.mrs1.he.net (184.105.222.22)  25.173 ms  25.121 ms  25.164 ms
+13  100ge10-1.core1.sin1.he.net (184.105.65.13)  162.557 ms  162.594 ms  162.937 ms
+14  100ge3-1.core1.hkg1.he.net (184.105.222.101)  197.741 ms  197.728 ms  197.931 ms
+15  * * *
+16  * * *
+17  202.181.132.41 (202.181.132.41)  199.920 ms  200.400 ms  200.234 ms
+
+1492286401
+traceroute to 202.181.132.41 (202.181.132.41), 30 hops max, 60 byte packets
+ 1  139.222.0.1 (139.222.0.1)  1.138 ms  1.493 ms  1.914 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  0.485 ms  0.733 ms  0.717 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  1.307 ms  1.252 ms  1.276 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  1.596 ms  1.699 ms  1.428 ms
+ 5  xe-9-0-1.londpg-ban1.ja.net (146.97.41.209)  7.831 ms  7.820 ms  7.804 ms
+ 6  ae26.londpg-sbr2.ja.net (146.97.35.233)  7.777 ms  7.895 ms  7.869 ms
+ 7  ae30.londtw-sbr2.ja.net (146.97.33.6)  19.721 ms  16.823 ms  16.636 ms
+ 8  ae29.londtn-sbr1.ja.net (146.97.33.10)  6.971 ms  6.950 ms  7.176 ms
+ 9  ae0.londtn-ban3.ja.net (146.97.35.170)  6.932 ms  7.153 ms  6.904 ms
+10  40ge1-3.core1.lon2.he.net (195.66.224.21)  14.182 ms  10.618 ms  10.566 ms
+11  100ge5-1.core1.par2.he.net (184.105.223.254)  27.391 ms  27.465 ms  26.660 ms
+12  100ge6-1.core2.mrs1.he.net (184.105.222.22)  25.105 ms  25.183 ms  25.119 ms
+13  100ge10-1.core1.sin1.he.net (184.105.65.13)  163.403 ms  163.271 ms  163.402 ms
+14  100ge3-1.core1.hkg1.he.net (184.105.222.101)  197.351 ms  197.260 ms  197.098 ms
+15  * * *
+16  * * *
+17  202.181.132.41 (202.181.132.41)  198.892 ms *  198.842 ms
+
+1492308001
+traceroute to 202.181.132.41 (202.181.132.41), 30 hops max, 60 byte packets
+ 1  139.222.0.1 (139.222.0.1)  0.887 ms  1.262 ms  1.679 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  0.246 ms  0.374 ms  0.371 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  0.938 ms  0.920 ms  0.906 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  1.072 ms  1.302 ms  1.179 ms
+ 5  xe-9-0-1.londpg-ban1.ja.net (146.97.41.209)  7.575 ms  7.669 ms  7.581 ms
+ 6  ae26.londpg-sbr2.ja.net (146.97.35.233)  7.715 ms  8.385 ms  7.608 ms
+ 7  ae30.londtw-sbr2.ja.net (146.97.33.6)  6.707 ms  6.865 ms  6.870 ms
+ 8  ae29.londtn-sbr1.ja.net (146.97.33.10)  6.972 ms  6.899 ms  6.798 ms
+ 9  ae0.londtn-ban3.ja.net (146.97.35.170)  6.934 ms  6.923 ms  6.848 ms
+10  40ge1-3.core1.lon2.he.net (195.66.224.21)  39.228 ms  35.735 ms  34.860 ms
+11  100ge5-1.core1.par2.he.net (184.105.223.254)  17.040 ms  16.908 ms  16.411 ms
+12  100ge6-1.core2.mrs1.he.net (184.105.222.22)  25.076 ms  25.033 ms  25.050 ms
+13  100ge10-1.core1.sin1.he.net (184.105.65.13)  171.942 ms  172.027 ms  171.993 ms
+14  100ge3-1.core1.hkg1.he.net (184.105.222.101)  223.236 ms  223.450 ms  223.440 ms
+15  * * *
+16  * * *
+17  202.181.132.41 (202.181.132.41)  197.900 ms *  197.837 ms
+
+1492329603
+traceroute to 202.181.132.41 (202.181.132.41), 30 hops max, 60 byte packets
+ 1  139.222.0.1 (139.222.0.1)  1.329 ms  2.346 ms  2.332 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  0.644 ms  0.674 ms  0.727 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  2.189 ms  2.166 ms  1.335 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  2.157 ms  2.128 ms  2.116 ms
+ 5  xe-9-0-1.londpg-ban1.ja.net (146.97.41.209)  7.917 ms  7.903 ms  7.837 ms
+ 6  ae26.londpg-sbr2.ja.net (146.97.35.233)  7.867 ms  8.223 ms  8.149 ms
+ 7  ae30.londtw-sbr2.ja.net (146.97.33.6)  7.217 ms  6.852 ms  6.801 ms
+ 8  ae29.londtn-sbr1.ja.net (146.97.33.10)  6.950 ms  6.856 ms  6.839 ms
+ 9  ae0.londtn-ban3.ja.net (146.97.35.170)  6.912 ms  6.890 ms  6.794 ms
+10  40ge1-3.core1.lon2.he.net (195.66.224.21)  7.078 ms  7.236 ms  7.108 ms
+11  100ge5-1.core1.par2.he.net (184.105.223.254)  18.287 ms  18.157 ms  18.300 ms
+12  100ge6-1.core2.mrs1.he.net (184.105.222.22)  25.052 ms  25.034 ms  24.957 ms
+13  100ge10-1.core1.sin1.he.net (184.105.65.13)  179.491 ms  176.067 ms  176.046 ms
+14  100ge3-1.core1.hkg1.he.net (184.105.222.101)  196.966 ms  196.949 ms  196.843 ms
+15  * * *
+16  * * *
+17  * * 202.181.132.41 (202.181.132.41)  199.447 ms
+
+1492351202
+traceroute to 202.181.132.41 (202.181.132.41), 30 hops max, 60 byte packets
+ 1  139.222.0.1 (139.222.0.1)  1.450 ms  1.634 ms  2.020 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  0.409 ms  0.705 ms  0.698 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  1.060 ms  1.038 ms  1.024 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  1.510 ms  1.396 ms  1.210 ms
+ 5  xe-9-0-1.londpg-ban1.ja.net (146.97.41.209)  7.756 ms  7.737 ms  7.679 ms
+ 6  ae26.londpg-sbr2.ja.net (146.97.35.233)  21.060 ms  19.554 ms  19.530 ms
+ 7  ae30.londtw-sbr2.ja.net (146.97.33.6)  6.928 ms  6.775 ms  6.763 ms
+ 8  ae29.londtn-sbr1.ja.net (146.97.33.10)  6.745 ms  12.914 ms  12.898 ms
+ 9  ae0.londtn-ban3.ja.net (146.97.35.170)  6.822 ms  6.893 ms  6.831 ms
+10  40ge1-3.core1.lon2.he.net (195.66.224.21)  9.535 ms  7.119 ms  7.144 ms
+11  100ge5-1.core1.par2.he.net (184.105.223.254)  21.306 ms  21.181 ms  19.637 ms
+12  100ge6-1.core2.mrs1.he.net (184.105.222.22)  30.749 ms  30.547 ms  30.637 ms
+13  100ge10-1.core1.sin1.he.net (184.105.65.13)  168.333 ms  168.452 ms  164.603 ms
+14  100ge3-1.core1.hkg1.he.net (184.105.222.101)  197.172 ms  197.276 ms  197.255 ms
+15  * * *
+16  * * *
+17  * * *
+18  202.181.132.41 (202.181.132.41)  199.012 ms *  199.056 ms
+
+1492372802
+traceroute to 202.181.132.41 (202.181.132.41), 30 hops max, 60 byte packets
+ 1  139.222.0.1 (139.222.0.1)  1.070 ms  1.434 ms  1.872 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  0.623 ms  0.964 ms  0.954 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  3.298 ms  3.134 ms  3.252 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  1.142 ms  1.232 ms  1.352 ms
+ 5  xe-9-0-1.londpg-ban1.ja.net (146.97.41.209)  7.785 ms  7.764 ms  7.743 ms
+ 6  ae26.londpg-sbr2.ja.net (146.97.35.233)  7.586 ms  7.987 ms  7.997 ms
+ 7  ae30.londtw-sbr2.ja.net (146.97.33.6)  8.101 ms  8.088 ms  8.069 ms
+ 8  ae29.londtn-sbr1.ja.net (146.97.33.10)  7.039 ms  7.026 ms  6.916 ms
+ 9  ae0.londtn-ban3.ja.net (146.97.35.170)  6.884 ms  6.865 ms  6.848 ms
+10  40ge1-3.core1.lon2.he.net (195.66.224.21)  22.081 ms  22.072 ms  22.053 ms
+11  100ge5-1.core1.par2.he.net (184.105.223.254)  30.210 ms  30.249 ms  29.444 ms
+12  100ge6-1.core2.mrs1.he.net (184.105.222.22)  25.067 ms  25.178 ms  25.168 ms
+13  100ge10-1.core1.sin1.he.net (184.105.65.13)  198.263 ms  198.122 ms  198.226 ms
+14  100ge3-1.core1.hkg1.he.net (184.105.222.101)  212.903 ms  206.646 ms  206.575 ms
+15  * * *
+16  * * *
+17  202.181.132.41 (202.181.132.41)  198.164 ms  197.898 ms  197.887 ms
+
+1492394401
+traceroute to 202.181.132.41 (202.181.132.41), 30 hops max, 60 byte packets
+ 1  139.222.0.1 (139.222.0.1)  1.162 ms  1.510 ms  1.877 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  0.402 ms  0.384 ms  0.746 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  1.127 ms  1.122 ms  1.081 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  1.141 ms  1.249 ms  1.347 ms
+ 5  xe-9-0-1.londpg-ban1.ja.net (146.97.41.209)  7.799 ms  7.774 ms  7.778 ms
+ 6  ae26.londpg-sbr2.ja.net (146.97.35.233)  7.887 ms  7.902 ms  7.844 ms
+ 7  ae30.londtw-sbr2.ja.net (146.97.33.6)  6.962 ms  6.984 ms  6.973 ms
+ 8  ae29.londtn-sbr1.ja.net (146.97.33.10)  14.823 ms  14.812 ms  6.931 ms
+ 9  ae0.londtn-ban3.ja.net (146.97.35.170)  6.910 ms  6.913 ms  6.920 ms
+10  40ge1-3.core1.lon2.he.net (195.66.224.21)  7.379 ms  7.345 ms  7.320 ms
+11  100ge5-1.core1.par2.he.net (184.105.223.254)  20.973 ms  20.887 ms  20.457 ms
+12  100ge6-1.core2.mrs1.he.net (184.105.222.22)  34.348 ms  34.333 ms  34.149 ms
+13  100ge10-1.core1.sin1.he.net (184.105.65.13)  166.355 ms  166.348 ms  166.331 ms
+14  100ge3-1.core1.hkg1.he.net (184.105.222.101)  207.986 ms  207.643 ms  207.411 ms
+15  * * *
+16  * * *
+17  * 202.181.132.41 (202.181.132.41)  202.794 ms *
+
+1492416001
+traceroute to 202.181.132.41 (202.181.132.41), 30 hops max, 60 byte packets
+ 1  139.222.0.1 (139.222.0.1)  1.052 ms  1.513 ms  1.818 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  0.393 ms  0.786 ms  0.771 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  1.768 ms  1.712 ms  1.717 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  1.491 ms  1.326 ms  1.150 ms
+ 5  xe-9-0-1.londpg-ban1.ja.net (146.97.41.209)  7.855 ms  7.639 ms  7.803 ms
+ 6  ae26.londpg-sbr2.ja.net (146.97.35.233)  7.785 ms  7.767 ms  7.780 ms
+ 7  ae30.londtw-sbr2.ja.net (146.97.33.6)  6.823 ms  6.845 ms  6.875 ms
+ 8  ae29.londtn-sbr1.ja.net (146.97.33.10)  6.989 ms  6.884 ms  6.969 ms
+ 9  ae0.londtn-ban3.ja.net (146.97.35.170)  6.958 ms  6.948 ms  6.929 ms
+10  40ge1-3.core1.lon2.he.net (195.66.224.21)  7.183 ms  7.125 ms  7.155 ms
+11  100ge5-1.core1.par2.he.net (184.105.223.254)  16.539 ms  16.644 ms  16.257 ms
+12  100ge6-1.core2.mrs1.he.net (184.105.222.22)  25.170 ms  25.145 ms  25.214 ms
+13  100ge10-1.core1.sin1.he.net (184.105.65.13)  169.111 ms  169.197 ms  169.145 ms
+14  100ge3-1.core1.hkg1.he.net (184.105.222.101)  205.655 ms  205.787 ms  205.826 ms
+15  * * *
+16  * * *
+17  202.181.132.41 (202.181.132.41)  199.041 ms *  198.715 ms
+
+1492437602
+traceroute to 202.181.132.41 (202.181.132.41), 30 hops max, 60 byte packets
+ 1  139.222.0.1 (139.222.0.1)  1.056 ms  1.404 ms  1.867 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  0.435 ms  0.417 ms  0.753 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  0.936 ms  0.974 ms  0.884 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  1.148 ms  1.252 ms  1.306 ms
+ 5  xe-9-0-1.londpg-ban1.ja.net (146.97.41.209)  7.849 ms  7.823 ms  7.693 ms
+ 6  ae26.londpg-sbr2.ja.net (146.97.35.233)  7.680 ms  7.873 ms  7.805 ms
+ 7  ae30.londtw-sbr2.ja.net (146.97.33.6)  9.704 ms  9.752 ms  9.740 ms
+ 8  ae29.londtn-sbr1.ja.net (146.97.33.10)  7.028 ms  6.966 ms  6.908 ms
+ 9  ae0.londtn-ban3.ja.net (146.97.35.170)  6.815 ms  6.971 ms  6.859 ms
+10  40ge1-3.core1.lon2.he.net (195.66.224.21)  8.230 ms  7.179 ms  7.122 ms
+11  100ge5-1.core1.par2.he.net (184.105.223.254)  22.770 ms  22.891 ms  22.857 ms
+12  100ge6-1.core2.mrs1.he.net (184.105.222.22)  25.121 ms  25.046 ms  25.059 ms
+13  100ge10-1.core1.sin1.he.net (184.105.65.13)  162.627 ms  162.610 ms  162.742 ms
+14  100ge3-1.core1.hkg1.he.net (184.105.222.101)  203.169 ms  202.947 ms  202.932 ms
+15  * * *
+16  * * *
+17  * 202.181.132.41 (202.181.132.41)  197.883 ms *
+
+1492459201
+traceroute to 202.181.132.41 (202.181.132.41), 30 hops max, 60 byte packets
+ 1  139.222.0.1 (139.222.0.1)  1.006 ms  1.325 ms  1.745 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  0.293 ms  0.494 ms  0.439 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  1.342 ms  1.319 ms  1.301 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  1.409 ms  1.220 ms  1.133 ms
+ 5  xe-9-0-1.londpg-ban1.ja.net (146.97.41.209)  7.844 ms  7.825 ms  7.741 ms
+ 6  ae26.londpg-sbr2.ja.net (146.97.35.233)  7.818 ms  7.977 ms  8.055 ms
+ 7  ae30.londtw-sbr2.ja.net (146.97.33.6)  7.246 ms  7.179 ms  7.217 ms
+ 8  ae29.londtn-sbr1.ja.net (146.97.33.10)  7.286 ms  7.229 ms  7.031 ms
+ 9  ae0.londtn-ban3.ja.net (146.97.35.170)  7.106 ms  7.129 ms  7.131 ms
+10  40ge1-3.core1.lon2.he.net (195.66.224.21)  44.536 ms  41.696 ms  41.584 ms
+11  100ge5-1.core1.par2.he.net (184.105.223.254)  25.980 ms  26.064 ms  23.418 ms
+12  100ge6-1.core2.mrs1.he.net (184.105.222.22)  31.818 ms  31.733 ms  31.643 ms
+13  100ge10-1.core1.sin1.he.net (184.105.65.13)  205.005 ms  205.052 ms  205.038 ms
+14  100ge3-1.core1.hkg1.he.net (184.105.222.101)  201.111 ms  201.195 ms  201.197 ms
+15  * * *
+16  * * *
+17  * * 202.181.132.41 (202.181.132.41)  202.849 ms
+
+1492480802
+traceroute to 202.181.132.41 (202.181.132.41), 30 hops max, 60 byte packets
+ 1  139.222.0.1 (139.222.0.1)  1.114 ms  1.459 ms  1.879 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  0.454 ms  0.443 ms  0.689 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  1.165 ms  1.157 ms  1.139 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  1.437 ms  1.286 ms  1.521 ms
+ 5  xe-9-0-1.londpg-ban1.ja.net (146.97.41.209)  7.809 ms  7.792 ms  7.727 ms
+ 6  ae26.londpg-sbr2.ja.net (146.97.35.233)  8.654 ms  8.224 ms  8.205 ms
+ 7  ae30.londtw-sbr2.ja.net (146.97.33.6)  6.745 ms  8.950 ms  8.962 ms
+ 8  ae29.londtn-sbr1.ja.net (146.97.33.10)  6.783 ms  6.919 ms  6.903 ms
+ 9  ae0.londtn-ban3.ja.net (146.97.35.170)  6.898 ms  6.878 ms  6.866 ms
+10  40ge1-3.core1.lon2.he.net (195.66.224.21)  7.100 ms  15.970 ms  15.957 ms
+11  100ge5-1.core1.par2.he.net (184.105.223.254)  16.418 ms  16.169 ms  15.731 ms
+12  100ge6-1.core2.mrs1.he.net (184.105.222.22)  29.758 ms  29.555 ms  28.529 ms
+13  100ge10-1.core1.sin1.he.net (184.105.65.13)  163.260 ms  163.162 ms  163.253 ms
+14  100ge3-1.core1.hkg1.he.net (184.105.222.101)  197.353 ms  197.235 ms  197.322 ms
+15  * * *
+16  * * *
+17  * 202.181.132.41 (202.181.132.41)  198.940 ms  198.935 ms
+
+1492502402
+traceroute to 202.181.132.41 (202.181.132.41), 30 hops max, 60 byte packets
+ 1  139.222.0.1 (139.222.0.1)  1.071 ms  1.441 ms  1.803 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  0.492 ms  0.480 ms  0.467 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  0.983 ms  0.960 ms  0.930 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  1.478 ms  1.235 ms  1.440 ms
+ 5  xe-9-0-1.londpg-ban1.ja.net (146.97.41.209)  7.646 ms  7.628 ms  7.630 ms
+ 6  ae26.londpg-sbr2.ja.net (146.97.35.233)  7.670 ms  7.800 ms  7.827 ms
+ 7  ae30.londtw-sbr2.ja.net (146.97.33.6)  7.028 ms  7.009 ms  6.925 ms
+ 8  ae29.londtn-sbr1.ja.net (146.97.33.10)  6.887 ms  8.247 ms  6.820 ms
+ 9  ae0.londtn-ban3.ja.net (146.97.35.170)  6.863 ms  6.920 ms  6.902 ms
+10  40ge1-3.core1.lon2.he.net (195.66.224.21)  7.163 ms  16.957 ms  17.112 ms
+11  100ge5-1.core1.par2.he.net (184.105.223.254)  19.665 ms  19.847 ms  16.672 ms
+12  100ge6-1.core2.mrs1.he.net (184.105.222.22)  36.043 ms  36.035 ms  36.015 ms
+13  100ge10-1.core1.sin1.he.net (184.105.65.13)  162.662 ms  162.651 ms  162.818 ms
+14  100ge3-1.core1.hkg1.he.net (184.105.222.101)  196.251 ms  196.222 ms  196.097 ms
+15  * * *
+16  * * *
+17  202.181.132.41 (202.181.132.41)  197.972 ms  198.184 ms  198.166 ms
+
+1492524002
+traceroute to 202.181.132.41 (202.181.132.41), 30 hops max, 60 byte packets
+ 1  139.222.0.1 (139.222.0.1)  1.032 ms  1.380 ms  1.808 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  0.295 ms  0.274 ms  0.780 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  0.949 ms  0.907 ms  0.946 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  1.503 ms  1.042 ms  2.306 ms
+ 5  xe-9-0-1.londpg-ban1.ja.net (146.97.41.209)  8.386 ms  7.659 ms  7.631 ms
+ 6  ae26.londpg-sbr2.ja.net (146.97.35.233)  7.617 ms  7.846 ms  7.852 ms
+ 7  ae30.londtw-sbr2.ja.net (146.97.33.6)  7.019 ms  6.998 ms  6.982 ms
+ 8  ae29.londtn-sbr1.ja.net (146.97.33.10)  6.971 ms  6.961 ms  6.940 ms
+ 9  ae0.londtn-ban3.ja.net (146.97.35.170)  7.621 ms  7.610 ms  7.648 ms
+10  40ge1-3.core1.lon2.he.net (195.66.224.21)  32.699 ms  22.345 ms  22.328 ms
+11  100ge5-1.core1.par2.he.net (184.105.223.254)  15.317 ms  15.137 ms  15.246 ms
+12  100ge6-1.core2.mrs1.he.net (184.105.222.22)  30.754 ms  30.739 ms  30.730 ms
+13  100ge10-1.core1.sin1.he.net (184.105.65.13)  172.204 ms  172.190 ms  173.139 ms
+14  100ge3-1.core1.hkg1.he.net (184.105.222.101)  196.220 ms  196.391 ms  196.468 ms
+15  * * *
+16  * * *
+17  * 202.181.132.41 (202.181.132.41)  198.156 ms *
+
+1492545603
+traceroute to 202.181.132.41 (202.181.132.41), 30 hops max, 60 byte packets
+ 1  139.222.0.1 (139.222.0.1)  2.382 ms  2.314 ms  2.296 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  0.367 ms  0.355 ms  2.192 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  2.180 ms  2.157 ms  2.075 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  2.039 ms  2.026 ms  2.002 ms
+ 5  xe-9-0-1.londpg-ban1.ja.net (146.97.41.209)  7.727 ms  8.137 ms  11.822 ms
+ 6  ae26.londpg-sbr2.ja.net (146.97.35.233)  8.543 ms  8.334 ms  8.307 ms
+ 7  ae30.londtw-sbr2.ja.net (146.97.33.6)  7.489 ms  7.477 ms  7.456 ms
+ 8  ae29.londtn-sbr1.ja.net (146.97.33.10)  7.075 ms  7.063 ms  6.907 ms
+ 9  ae0.londtn-ban3.ja.net (146.97.35.170)  6.958 ms  6.980 ms  6.967 ms
+10  40ge1-3.core1.lon2.he.net (195.66.224.21)  13.551 ms  12.790 ms  12.743 ms
+11  100ge5-1.core1.par2.he.net (184.105.223.254)  41.214 ms  41.363 ms  21.406 ms
+12  100ge6-1.core2.mrs1.he.net (184.105.222.22)  35.638 ms  35.733 ms  35.550 ms
+13  100ge10-1.core1.sin1.he.net (184.105.65.13)  171.687 ms  171.679 ms  171.273 ms
+14  100ge3-1.core1.hkg1.he.net (184.105.222.101)  196.311 ms  196.348 ms  196.501 ms
+15  * * *
+16  * * *
+17  202.181.132.41 (202.181.132.41)  197.916 ms *  198.587 ms
+
+1492567201
+traceroute to 202.181.132.41 (202.181.132.41), 30 hops max, 60 byte packets
+ 1  139.222.0.1 (139.222.0.1)  1.027 ms  1.365 ms  1.775 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  0.331 ms  0.591 ms  0.592 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  1.149 ms  1.119 ms  1.085 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  1.122 ms  1.233 ms  1.273 ms
+ 5  xe-9-0-1.londpg-ban1.ja.net (146.97.41.209)  7.657 ms  7.700 ms  7.675 ms
+ 6  ae26.londpg-sbr2.ja.net (146.97.35.233)  7.675 ms  7.754 ms  7.733 ms
+ 7  ae30.londtw-sbr2.ja.net (146.97.33.6)  6.835 ms  6.820 ms  6.807 ms
+ 8  ae29.londtn-sbr1.ja.net (146.97.33.10)  6.905 ms  6.892 ms  6.837 ms
+ 9  ae0.londtn-ban3.ja.net (146.97.35.170)  6.885 ms  6.894 ms  6.935 ms
+10  40ge1-3.core1.lon2.he.net (195.66.224.21)  7.135 ms  7.170 ms  7.055 ms
+11  100ge5-1.core1.par2.he.net (184.105.223.254)  15.725 ms  15.173 ms  15.224 ms
+12  100ge6-1.core2.mrs1.he.net (184.105.222.22)  28.436 ms  28.177 ms  28.408 ms
+13  100ge10-1.core1.sin1.he.net (184.105.65.13)  162.718 ms  162.699 ms  162.712 ms
+14  100ge3-1.core1.hkg1.he.net (184.105.222.101)  218.465 ms  218.450 ms  217.098 ms
+15  * * *
+16  * * *
+17  * 202.181.132.41 (202.181.132.41)  198.011 ms  197.990 ms
+
+1492588802
+traceroute to 202.181.132.41 (202.181.132.41), 30 hops max, 60 byte packets
+ 1  139.222.0.1 (139.222.0.1)  1.041 ms  1.463 ms  1.788 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  0.400 ms  0.379 ms  0.347 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  9.637 ms  9.538 ms  1.031 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  9.566 ms  9.676 ms  2.149 ms
+ 5  xe-9-0-1.londpg-ban1.ja.net (146.97.41.209)  7.700 ms  7.707 ms  14.647 ms
+ 6  ae26.londpg-sbr2.ja.net (146.97.35.233)  16.124 ms  13.915 ms  13.898 ms
+ 7  ae30.londtw-sbr2.ja.net (146.97.33.6)  7.067 ms  7.079 ms  7.065 ms
+ 8  ae29.londtn-sbr1.ja.net (146.97.33.10)  6.948 ms  11.488 ms  11.568 ms
+ 9  ae0.londtn-ban3.ja.net (146.97.35.170)  7.581 ms  7.034 ms  6.965 ms
+10  40ge1-3.core1.lon2.he.net (195.66.224.21)  9.682 ms  9.668 ms  9.505 ms
+11  100ge5-1.core1.par2.he.net (184.105.223.254)  22.904 ms  22.745 ms  22.602 ms
+12  100ge6-1.core2.mrs1.he.net (184.105.222.22)  25.326 ms  25.494 ms  25.427 ms
+13  100ge10-1.core1.sin1.he.net (184.105.65.13)  172.795 ms  172.197 ms  169.103 ms
+14  100ge3-1.core1.hkg1.he.net (184.105.222.101)  205.819 ms  205.799 ms  205.790 ms
+15  * * *
+16  * * *
+17  * 202.181.132.41 (202.181.132.41)  200.958 ms *
+
+1492610402
+traceroute to 202.181.132.41 (202.181.132.41), 30 hops max, 60 byte packets
+ 1  139.222.0.1 (139.222.0.1)  2.175 ms  2.510 ms  3.023 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  0.364 ms  0.705 ms  0.686 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  1.089 ms  1.073 ms  1.061 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  1.562 ms  1.251 ms  1.374 ms
+ 5  xe-9-0-1.londpg-ban1.ja.net (146.97.41.209)  7.753 ms  7.705 ms  7.693 ms
+ 6  ae26.londpg-sbr2.ja.net (146.97.35.233)  7.674 ms  7.781 ms  7.682 ms
+ 7  ae30.londtw-sbr2.ja.net (146.97.33.6)  21.087 ms  21.073 ms  21.054 ms
+ 8  ae29.londtn-sbr1.ja.net (146.97.33.10)  6.844 ms  6.971 ms  6.958 ms
+ 9  ae0.londtn-ban3.ja.net (146.97.35.170)  6.939 ms  6.801 ms  6.784 ms
+10  40ge1-3.core1.lon2.he.net (195.66.224.21)  44.368 ms  41.288 ms  41.295 ms
+11  100ge5-1.core1.par2.he.net (184.105.223.254)  22.424 ms  22.377 ms  22.365 ms
+12  100ge6-1.core2.mrs1.he.net (184.105.222.22)  25.055 ms  25.033 ms  24.933 ms
+13  100ge10-1.core1.sin1.he.net (184.105.65.13)  163.715 ms  163.696 ms  162.964 ms
+14  100ge3-1.core1.hkg1.he.net (184.105.222.101)  205.046 ms  196.905 ms  196.781 ms
+15  * * *
+16  * * *
+17  202.181.132.41 (202.181.132.41)  205.465 ms  198.533 ms  198.589 ms
+
+1492632002
+traceroute to 202.181.132.41 (202.181.132.41), 30 hops max, 60 byte packets
+ 1  139.222.0.1 (139.222.0.1)  1.302 ms  1.526 ms  1.926 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  0.530 ms  0.508 ms  0.488 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  1.115 ms  1.115 ms  1.077 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  1.483 ms  1.214 ms  1.317 ms
+ 5  xe-9-0-1.londpg-ban1.ja.net (146.97.41.209)  8.476 ms  8.269 ms  8.368 ms
+ 6  ae26.londpg-sbr2.ja.net (146.97.35.233)  8.878 ms  8.910 ms  8.922 ms
+ 7  ae30.londtw-sbr2.ja.net (146.97.33.6)  7.268 ms  7.560 ms  7.222 ms
+ 8  ae29.londtn-sbr1.ja.net (146.97.33.10)  7.519 ms  7.508 ms  7.482 ms
+ 9  ae0.londtn-ban3.ja.net (146.97.35.170)  7.465 ms  7.438 ms  7.102 ms
+10  40ge1-3.core1.lon2.he.net (195.66.224.21)  30.395 ms  27.097 ms  27.020 ms
+11  100ge5-1.core1.par2.he.net (184.105.223.254)  49.149 ms  48.781 ms  45.499 ms
+12  100ge6-1.core2.mrs1.he.net (184.105.222.22)  26.270 ms  26.277 ms  26.335 ms
+13  100ge10-1.core1.sin1.he.net (184.105.65.13)  170.278 ms  170.131 ms  170.270 ms
+14  100ge3-1.core1.hkg1.he.net (184.105.222.101)  205.319 ms  205.563 ms  205.280 ms
+15  * * *
+16  * * *
+17  * * *
+18  * * 202.181.132.41 (202.181.132.41)  207.033 ms
+
+1492653601
+traceroute to 202.181.132.41 (202.181.132.41), 30 hops max, 60 byte packets
+ 1  139.222.0.1 (139.222.0.1)  1.315 ms  1.349 ms  1.876 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  0.656 ms  0.635 ms  0.616 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  1.029 ms  0.990 ms  1.238 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  1.611 ms  1.286 ms  1.585 ms
+ 5  xe-9-0-1.londpg-ban1.ja.net (146.97.41.209)  8.067 ms  8.081 ms  7.997 ms
+ 6  ae26.londpg-sbr2.ja.net (146.97.35.233)  8.044 ms  7.937 ms  7.918 ms
+ 7  ae30.londtw-sbr2.ja.net (146.97.33.6)  7.290 ms  7.272 ms  6.994 ms
+ 8  ae29.londtn-sbr1.ja.net (146.97.33.10)  6.979 ms  6.960 ms  16.132 ms
+ 9  ae0.londtn-ban3.ja.net (146.97.35.170)  6.923 ms  7.164 ms  7.147 ms
+10  40ge1-3.core1.lon2.he.net (195.66.224.21)  15.980 ms  12.766 ms  12.795 ms
+11  100ge5-1.core1.par2.he.net (184.105.223.254)  25.416 ms  25.615 ms  22.711 ms
+12  100ge6-1.core2.mrs1.he.net (184.105.222.22)  25.551 ms  25.570 ms  25.426 ms
+13  100ge10-1.core1.sin1.he.net (184.105.65.13)  173.637 ms  173.704 ms  173.687 ms
+14  100ge3-1.core1.hkg1.he.net (184.105.222.101)  210.843 ms  209.879 ms  209.766 ms
+15  * * *
+16  * * *
+17  202.181.132.41 (202.181.132.41)  201.668 ms  201.624 ms  201.610 ms
+
+1492675202
+traceroute to 202.181.132.41 (202.181.132.41), 30 hops max, 60 byte packets
+ 1  139.222.0.1 (139.222.0.1)  1.162 ms  1.532 ms  1.985 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  0.443 ms  0.826 ms  0.813 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  1.075 ms  1.053 ms  1.030 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  1.467 ms  1.314 ms  1.175 ms
+ 5  xe-9-0-1.londpg-ban1.ja.net (146.97.41.209)  7.728 ms  7.713 ms  7.702 ms
+ 6  ae26.londpg-sbr2.ja.net (146.97.35.233)  9.366 ms  9.955 ms  9.932 ms
+ 7  ae30.londtw-sbr2.ja.net (146.97.33.6)  7.041 ms  7.029 ms  7.003 ms
+ 8  ae29.londtn-sbr1.ja.net (146.97.33.10)  6.897 ms  7.981 ms  6.936 ms
+ 9  ae0.londtn-ban3.ja.net (146.97.35.170)  6.924 ms  6.908 ms  7.917 ms
+10  40ge1-3.core1.lon2.he.net (195.66.224.21)  17.378 ms  14.235 ms  14.191 ms
+11  100ge5-1.core1.par2.he.net (184.105.223.254)  15.136 ms  15.027 ms  15.147 ms
+12  100ge6-1.core2.mrs1.he.net (184.105.222.22)  33.241 ms  33.221 ms  33.203 ms
+13  100ge10-1.core1.sin1.he.net (184.105.65.13)  163.012 ms  163.218 ms  162.979 ms
+14  100ge3-1.core1.hkg1.he.net (184.105.222.101)  197.616 ms  197.598 ms  196.807 ms
+15  * * *
+16  * * *
+17  202.181.132.41 (202.181.132.41)  198.530 ms *  198.452 ms
+
+1492696803
+traceroute to 202.181.132.41 (202.181.132.41), 30 hops max, 60 byte packets
+ 1  139.222.0.1 (139.222.0.1)  1.035 ms  1.452 ms  1.839 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  0.539 ms  0.487 ms  0.723 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  1.360 ms  1.493 ms  1.399 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  1.377 ms  1.612 ms  1.473 ms
+ 5  boundary1-from-boundary2.uea.ac.uk (10.62.92.70)  4.994 ms  4.798 ms  5.031 ms
+ 6  xe-2-0-0.lowdss-ban1.ja.net (146.97.41.201)  4.307 ms  4.350 ms  4.336 ms
+ 7  ae26.lowdss-sbr1.ja.net (146.97.35.245)  4.365 ms  4.370 ms  4.363 ms
+ 8  ae31.londtw-sbr2.ja.net (146.97.33.30)  7.741 ms  7.690 ms  7.715 ms
+ 9  ae29.londtn-sbr1.ja.net (146.97.33.10)  7.840 ms  13.411 ms  7.811 ms
+10  ae0.londtn-ban3.ja.net (146.97.35.170)  7.783 ms  7.763 ms  7.751 ms
+11  40ge1-3.core1.lon2.he.net (195.66.224.21)  31.683 ms  31.773 ms  30.121 ms
+12  100ge5-1.core1.par2.he.net (184.105.223.254)  52.435 ms  52.174 ms  52.342 ms
+13  100ge6-1.core2.mrs1.he.net (184.105.222.22)  33.855 ms  29.735 ms  29.691 ms
+14  100ge10-1.core1.sin1.he.net (184.105.65.13)  175.131 ms  175.119 ms  175.102 ms
+15  100ge14-2.core1.hkg1.he.net (184.105.222.101)  205.514 ms  205.263 ms  205.334 ms
+16  * * *
+17  * * *
+18  * 202.181.132.41 (202.181.132.41)  207.090 ms *
+
+1492718401
+traceroute to 202.181.132.41 (202.181.132.41), 30 hops max, 60 byte packets
+ 1  139.222.0.1 (139.222.0.1)  1.183 ms  1.580 ms  2.004 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  1.691 ms  1.748 ms  2.057 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  110.559 ms  110.479 ms  110.516 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  1.409 ms  1.533 ms  1.638 ms
+ 5  boundary1-from-boundary2.uea.ac.uk (10.62.92.70)  1.225 ms  1.350 ms  1.450 ms
+ 6  xe-2-0-0.lowdss-ban1.ja.net (146.97.41.201)  4.451 ms  4.461 ms  4.407 ms
+ 7  ae26.lowdss-sbr1.ja.net (146.97.35.245)  4.470 ms  4.511 ms  4.462 ms
+ 8  ae31.londtw-sbr2.ja.net (146.97.33.30)  7.973 ms  7.961 ms  7.944 ms
+ 9  ae29.londtn-sbr1.ja.net (146.97.33.10)  7.684 ms  7.670 ms  7.655 ms
+10  ae0.londtn-ban3.ja.net (146.97.35.170)  7.882 ms  7.844 ms  7.561 ms
+11  40ge1-3.core1.lon2.he.net (195.66.224.21)  38.149 ms  38.180 ms  38.252 ms
+12  100ge5-1.core1.par2.he.net (184.105.223.254)  21.712 ms  18.519 ms  18.581 ms
+13  100ge6-1.core2.mrs1.he.net (184.105.222.22)  30.616 ms  30.880 ms  30.584 ms
+14  100ge10-1.core1.sin1.he.net (184.105.65.13)  167.610 ms  167.689 ms  167.616 ms
+15  100ge14-2.core1.hkg1.he.net (184.105.222.101)  201.163 ms  211.193 ms  211.640 ms
+16  * * *
+17  * * *
+18  202.181.132.41 (202.181.132.41)  202.780 ms  202.602 ms *
+
+1492740003
+traceroute to 202.181.132.41 (202.181.132.41), 30 hops max, 60 byte packets
+ 1  139.222.0.1 (139.222.0.1)  1.133 ms  1.463 ms  1.937 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  16.621 ms  28.961 ms  29.032 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  1.354 ms  1.322 ms  1.324 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  1.406 ms  1.294 ms  1.506 ms
+ 5  boundary1-from-boundary2.uea.ac.uk (10.62.92.70)  2.018 ms  2.113 ms  1.971 ms
+ 6  xe-2-0-0.lowdss-ban1.ja.net (146.97.41.201)  4.147 ms  4.326 ms  4.352 ms
+ 7  ae26.lowdss-sbr1.ja.net (146.97.35.245)  4.636 ms  4.599 ms  4.552 ms
+ 8  ae31.londtw-sbr2.ja.net (146.97.33.30)  7.612 ms  7.890 ms  7.875 ms
+ 9  ae29.londtn-sbr1.ja.net (146.97.33.10)  7.566 ms  7.533 ms  7.517 ms
+10  ae0.londtn-ban3.ja.net (146.97.35.170)  7.502 ms  7.373 ms  7.423 ms
+11  40ge1-3.core1.lon2.he.net (195.66.224.21)  7.673 ms  7.778 ms  7.762 ms
+12  100ge5-1.core1.par2.he.net (184.105.223.254)  21.206 ms  17.997 ms  17.918 ms
+13  100ge6-1.core2.mrs1.he.net (184.105.222.22)  25.533 ms  25.790 ms  25.556 ms
+14  100ge10-1.core1.sin1.he.net (184.105.65.13)  167.125 ms  167.129 ms  167.012 ms
+15  100ge14-2.core1.hkg1.he.net (184.105.222.101)  196.936 ms  196.822 ms  196.839 ms
+16  * * *
+17  * * *
+18  202.181.132.41 (202.181.132.41)  198.657 ms  198.467 ms  198.455 ms
+
+1492761602
+traceroute to 202.181.132.41 (202.181.132.41), 30 hops max, 60 byte packets
+ 1  139.222.0.1 (139.222.0.1)  1.180 ms  1.530 ms  1.923 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  0.455 ms  0.440 ms  0.434 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  1.157 ms  1.134 ms  1.118 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  1.157 ms  1.384 ms  1.258 ms
+ 5  boundary1-from-boundary2.uea.ac.uk (10.62.92.70)  1.129 ms  1.182 ms  1.286 ms
+ 6  xe-2-0-0.lowdss-ban1.ja.net (146.97.41.201)  4.424 ms  4.584 ms  4.620 ms
+ 7  ae26.lowdss-sbr1.ja.net (146.97.35.245)  4.686 ms  4.694 ms  4.646 ms
+ 8  ae31.londtw-sbr2.ja.net (146.97.33.30)  8.093 ms  8.081 ms  8.063 ms
+ 9  ae29.londtn-sbr1.ja.net (146.97.33.10)  8.044 ms  7.866 ms  8.019 ms
+10  ae0.londtn-ban3.ja.net (146.97.35.170)  8.216 ms  7.984 ms  8.205 ms
+11  40ge1-3.core1.lon2.he.net (195.66.224.21)  18.643 ms  17.388 ms  13.968 ms
+12  100ge5-1.core1.par2.he.net (184.105.223.254)  16.882 ms  17.055 ms  16.847 ms
+13  100ge6-1.core2.mrs1.he.net (184.105.222.22)  26.962 ms  27.150 ms  27.065 ms
+14  100ge10-1.core1.sin1.he.net (184.105.65.13)  172.882 ms  173.031 ms  173.012 ms
+15  100ge14-2.core1.hkg1.he.net (184.105.222.101)  207.896 ms  207.649 ms  207.779 ms
+16  * * *
+17  * * *
+18  * * *
+19  202.181.132.41 (202.181.132.41)  207.808 ms * *
+
+1492783201
+traceroute to 202.181.132.41 (202.181.132.41), 30 hops max, 60 byte packets
+ 1  139.222.0.1 (139.222.0.1)  1.411 ms  1.562 ms  1.842 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  0.319 ms  1.279 ms  1.256 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  1.245 ms  1.220 ms  1.206 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  1.366 ms  1.466 ms  1.307 ms
+ 5  boundary1-from-boundary2.uea.ac.uk (10.62.92.70)  1.292 ms  1.396 ms  1.495 ms
+ 6  xe-2-0-0.lowdss-ban1.ja.net (146.97.41.201)  5.229 ms  4.302 ms  4.240 ms
+ 7  ae26.lowdss-sbr1.ja.net (146.97.35.245)  13.082 ms  13.067 ms  13.226 ms
+ 8  ae31.londtw-sbr2.ja.net (146.97.33.30)  7.515 ms  7.660 ms  7.617 ms
+ 9  ae29.londtn-sbr1.ja.net (146.97.33.10)  7.777 ms  7.749 ms  7.833 ms
+10  ae0.londtn-ban3.ja.net (146.97.35.170)  7.650 ms  7.747 ms  7.737 ms
+11  40ge1-3.core1.lon2.he.net (195.66.224.21)  8.142 ms  7.822 ms  7.906 ms
+12  100ge5-1.core1.par2.he.net (184.105.223.254)  26.061 ms  22.193 ms  22.101 ms
+13  100ge6-1.core2.mrs1.he.net (184.105.222.22)  26.100 ms  26.033 ms  26.091 ms
+14  100ge10-1.core1.sin1.he.net (184.105.65.13)  165.816 ms  165.798 ms  165.702 ms
+15  100ge14-2.core1.hkg1.he.net (184.105.222.101)  199.802 ms  199.919 ms  199.823 ms
+16  * * *
+17  * * *
+18  202.181.132.41 (202.181.132.41)  201.511 ms  201.526 ms *
+
+1492804803
+traceroute to 202.181.132.41 (202.181.132.41), 30 hops max, 60 byte packets
+ 1  139.222.0.1 (139.222.0.1)  1.340 ms  1.529 ms  1.913 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  0.494 ms  0.477 ms  1.179 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  1.268 ms  1.254 ms  1.232 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  1.571 ms  1.418 ms  1.271 ms
+ 5  boundary1-from-boundary2.uea.ac.uk (10.62.92.70)  1.452 ms  1.278 ms  1.178 ms
+ 6  xe-2-0-0.lowdss-ban1.ja.net (146.97.41.201)  4.219 ms  4.295 ms  4.276 ms
+ 7  ae26.lowdss-sbr1.ja.net (146.97.35.245)  4.399 ms  4.382 ms  4.371 ms
+ 8  ae31.londtw-sbr2.ja.net (146.97.33.30)  8.405 ms  8.440 ms  8.419 ms
+ 9  ae29.londtn-sbr1.ja.net (146.97.33.10)  29.959 ms  7.660 ms  29.805 ms
+10  ae0.londtn-ban3.ja.net (146.97.35.170)  7.409 ms  7.768 ms  7.752 ms
+11  40ge1-3.core1.lon2.he.net (195.66.224.21)  30.502 ms  30.098 ms  26.013 ms
+12  100ge5-1.core1.par2.he.net (184.105.223.254)  15.655 ms  15.790 ms  15.679 ms
+13  100ge6-1.core2.mrs1.he.net (184.105.222.22)  25.588 ms  25.566 ms  25.668 ms
+14  100ge10-1.core1.sin1.he.net (184.105.65.13)  168.082 ms  167.927 ms  165.077 ms
+15  100ge14-2.core1.hkg1.he.net (184.105.222.101)  196.919 ms  196.901 ms  201.305 ms
+16  * * *
+17  * * *
+18  202.181.132.41 (202.181.132.41)  198.564 ms * *
+
+1492826402
+traceroute to 202.181.132.41 (202.181.132.41), 30 hops max, 60 byte packets
+ 1  139.222.0.1 (139.222.0.1)  2.628 ms  2.991 ms  3.408 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  0.460 ms  0.452 ms  0.714 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  1.144 ms  0.996 ms  1.093 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  1.212 ms  1.326 ms  1.472 ms
+ 5  boundary1-from-boundary2.uea.ac.uk (10.62.92.70)  1.138 ms  1.234 ms  1.316 ms
+ 6  xe-2-0-0.lowdss-ban1.ja.net (146.97.41.201)  4.314 ms  4.551 ms  4.495 ms
+ 7  ae26.lowdss-sbr1.ja.net (146.97.35.245)  4.611 ms  4.547 ms  4.560 ms
+ 8  ae31.londtw-sbr2.ja.net (146.97.33.30)  7.942 ms  7.816 ms  7.917 ms
+ 9  ae29.londtn-sbr1.ja.net (146.97.33.10)  7.785 ms  7.885 ms  7.878 ms
+10  ae0.londtn-ban3.ja.net (146.97.35.170)  7.928 ms  7.695 ms  7.623 ms
+11  40ge1-3.core1.lon2.he.net (195.66.224.21)  25.948 ms  24.947 ms  25.052 ms
+12  100ge5-1.core1.par2.he.net (184.105.223.254)  19.725 ms  19.734 ms  19.511 ms
+13  100ge6-1.core2.mrs1.he.net (184.105.222.22)  31.779 ms  28.090 ms  28.277 ms
+14  100ge10-1.core1.sin1.he.net (184.105.65.13)  177.060 ms  176.963 ms  177.032 ms
+15  100ge14-2.core1.hkg1.he.net (184.105.222.101)  206.171 ms  206.188 ms  205.884 ms
+16  * * *
+17  * * *
+18  202.181.132.41 (202.181.132.41)  206.215 ms  206.326 ms  206.276 ms
+
+1492848002
+traceroute to 202.181.132.41 (202.181.132.41), 30 hops max, 60 byte packets
+ 1  139.222.0.1 (139.222.0.1)  1.016 ms  1.387 ms  1.795 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  0.318 ms  0.533 ms  0.526 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  0.992 ms  0.971 ms  0.959 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  1.181 ms  1.371 ms  1.210 ms
+ 5  boundary1-from-boundary2.uea.ac.uk (10.62.92.70)  1.099 ms  1.184 ms  1.073 ms
+ 6  xe-2-0-0.lowdss-ban1.ja.net (146.97.41.201)  4.228 ms  4.199 ms  4.219 ms
+ 7  ae26.lowdss-sbr1.ja.net (146.97.35.245)  4.336 ms  4.281 ms  4.300 ms
+ 8  ae31.londtw-sbr2.ja.net (146.97.33.30)  7.542 ms  7.526 ms  7.484 ms
+ 9  ae29.londtn-sbr1.ja.net (146.97.33.10)  7.480 ms  10.177 ms  10.165 ms
+10  ae0.londtn-ban3.ja.net (146.97.35.170)  7.528 ms  7.578 ms  7.504 ms
+11  40ge1-3.core1.lon2.he.net (195.66.224.21)  10.678 ms  9.931 ms  8.277 ms
+12  100ge5-1.core1.par2.he.net (184.105.223.254)  16.054 ms  15.977 ms  16.029 ms
+13  100ge6-1.core2.mrs1.he.net (184.105.222.22)  31.823 ms  28.796 ms  28.738 ms
+14  100ge10-1.core1.sin1.he.net (184.105.65.13)  165.671 ms  165.785 ms  165.767 ms
+15  100ge14-2.core1.hkg1.he.net (184.105.222.101)  201.289 ms  201.096 ms  199.952 ms
+16  * * *
+17  * * *
+18  202.181.132.41 (202.181.132.41)  201.512 ms *  201.542 ms
+
+1492869603
+traceroute to 202.181.132.41 (202.181.132.41), 30 hops max, 60 byte packets
+ 1  139.222.0.1 (139.222.0.1)  1.942 ms  2.284 ms  2.680 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  0.456 ms  0.756 ms  0.742 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  1.253 ms  1.303 ms  1.264 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  1.469 ms  1.235 ms  1.324 ms
+ 5  boundary1-from-boundary2.uea.ac.uk (10.62.92.70)  1.441 ms  1.164 ms  1.235 ms
+ 6  xe-2-0-0.lowdss-ban1.ja.net (146.97.41.201)  4.169 ms  4.240 ms  4.224 ms
+ 7  ae26.lowdss-sbr1.ja.net (146.97.35.245)  4.211 ms  4.457 ms  4.442 ms
+ 8  ae31.londtw-sbr2.ja.net (146.97.33.30)  7.686 ms  7.674 ms  7.679 ms
+ 9  ae29.londtn-sbr1.ja.net (146.97.33.10)  7.704 ms  7.575 ms  7.667 ms
+10  ae0.londtn-ban3.ja.net (146.97.35.170)  7.617 ms  7.583 ms  7.609 ms
+11  40ge1-3.core1.lon2.he.net (195.66.224.21)  7.949 ms  7.936 ms  8.088 ms
+12  100ge5-1.core1.par2.he.net (184.105.223.254)  15.922 ms  15.910 ms  15.633 ms
+13  100ge6-1.core2.mrs1.he.net (184.105.222.22)  25.672 ms  25.631 ms  25.648 ms
+14  100ge10-1.core1.sin1.he.net (184.105.65.13)  163.243 ms  163.124 ms  163.210 ms
+15  100ge14-2.core1.hkg1.he.net (184.105.222.101)  196.736 ms  196.690 ms  196.741 ms
+16  * * *
+17  * * *
+18  * * *
+19  * 202.181.132.41 (202.181.132.41)  198.551 ms  198.488 ms
+
+1492891202
+traceroute to 202.181.132.41 (202.181.132.41), 30 hops max, 60 byte packets
+ 1  139.222.0.1 (139.222.0.1)  1.089 ms  1.478 ms  1.901 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  0.413 ms  0.392 ms  0.619 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  1.907 ms  1.281 ms  1.238 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  2.344 ms  1.168 ms  2.485 ms
+ 5  boundary1-from-boundary2.uea.ac.uk (10.62.92.70)  1.136 ms  1.404 ms  1.237 ms
+ 6  xe-2-0-0.lowdss-ban1.ja.net (146.97.41.201)  4.289 ms  4.865 ms  4.405 ms
+ 7  ae26.lowdss-sbr1.ja.net (146.97.35.245)  4.392 ms  4.327 ms  4.465 ms
+ 8  ae31.londtw-sbr2.ja.net (146.97.33.30)  7.833 ms  7.763 ms  7.807 ms
+ 9  ae29.londtn-sbr1.ja.net (146.97.33.10)  7.790 ms  7.769 ms  7.728 ms
+10  ae0.londtn-ban3.ja.net (146.97.35.170)  7.910 ms  7.859 ms  7.843 ms
+11  40ge1-3.core1.lon2.he.net (195.66.224.21)  8.152 ms  8.144 ms  8.178 ms
+12  100ge5-1.core1.par2.he.net (184.105.223.254)  16.531 ms  16.461 ms  16.458 ms
+13  100ge6-1.core2.mrs1.he.net (184.105.222.22)  33.258 ms  29.024 ms  28.912 ms
+14  100ge10-1.core1.sin1.he.net (184.105.65.13)  171.982 ms  171.939 ms  171.803 ms
+15  100ge14-2.core1.hkg1.he.net (184.105.222.101)  205.069 ms  205.006 ms  204.986 ms
+16  * * *
+17  * * *
+18  202.181.132.41 (202.181.132.41)  206.948 ms  206.870 ms *
+
+1492912801
+traceroute to 202.181.132.41 (202.181.132.41), 30 hops max, 60 byte packets
+ 1  139.222.0.1 (139.222.0.1)  4.046 ms  4.430 ms  4.814 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  0.498 ms  0.789 ms  0.774 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  1.280 ms  1.266 ms  1.244 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  1.542 ms  1.512 ms  1.188 ms
+ 5  boundary1-from-boundary2.uea.ac.uk (10.62.92.70)  4.039 ms  3.703 ms  4.158 ms
+ 6  xe-2-0-0.lowdss-ban1.ja.net (146.97.41.201)  4.167 ms  4.099 ms  4.149 ms
+ 7  ae26.lowdss-sbr1.ja.net (146.97.35.245)  8.227 ms  7.697 ms  7.679 ms
+ 8  ae28.londhx-sbr1.ja.net (146.97.33.17)  7.784 ms  7.797 ms  7.756 ms
+ 9  ae0.londhx-ban3.ja.net (146.97.35.166)  7.450 ms  7.579 ms  7.526 ms
+10  te13-4.br02.ldn01.pccwbtn.net (195.66.236.167)  8.240 ms  8.116 ms  8.056 ms
+11  TenGE0-6-0-7.br03.hkg15.pccwbtn.net (63.223.17.50)  323.361 ms  323.348 ms *
+12  63-216-142-106.static.pccwglobal.net (63.216.142.106)  304.955 ms  305.045 ms TenGE0-1-0-5.br03.hkg15.pccwbtn.net (63.218.210.138)  297.569 ms
+13  210.87.255.26 (210.87.255.26)  311.054 ms 63-216-142-106.static.pccwglobal.net (63.216.142.106)  285.765 ms 210.87.255.30 (210.87.255.30)  318.579 ms
+14  210.87.255.129 (210.87.255.129)  326.440 ms  326.642 ms  326.524 ms
+15  tmhasw01.imsbiz.com.255.87.210.in-addr.arpa (210.87.255.21)  333.992 ms  327.483 ms  327.510 ms
+16  210.87.253.157 (210.87.253.157)  334.662 ms  336.142 ms  336.189 ms
+17  210.87.253.157 (210.87.253.157)  316.806 ms * *
+18  * * *
+19  202.181.132.41 (202.181.132.41)  311.873 ms *  304.529 ms
+
+1492934403
+traceroute to 202.181.132.41 (202.181.132.41), 30 hops max, 60 byte packets
+ 1  139.222.0.1 (139.222.0.1)  1.045 ms  1.372 ms  1.781 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  0.325 ms  0.533 ms  0.514 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  0.957 ms  0.915 ms  0.956 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  1.112 ms  1.305 ms  1.172 ms
+ 5  boundary1-from-boundary2.uea.ac.uk (10.62.92.70)  1.155 ms  1.165 ms  0.996 ms
+ 6  xe-2-0-0.lowdss-ban1.ja.net (146.97.41.201)  4.785 ms  4.291 ms  4.204 ms
+ 7  ae26.lowdss-sbr1.ja.net (146.97.35.245)  4.348 ms  4.338 ms  4.324 ms
+ 8  ae28.londhx-sbr1.ja.net (146.97.33.17)  7.534 ms  7.484 ms  7.506 ms
+ 9  ae0.londhx-ban3.ja.net (146.97.35.166)  7.514 ms  7.534 ms  7.521 ms
+10  te13-4.br02.ldn01.pccwbtn.net (195.66.236.167)  9.201 ms  9.112 ms  9.177 ms
+11  TenGE0-6-0-7.br03.hkg15.pccwbtn.net (63.223.17.50)  316.404 ms * *
+12  63-216-142-106.static.pccwglobal.net (63.216.142.106)  288.705 ms  288.836 ms  297.282 ms
+13  63-216-142-106.static.pccwglobal.net (63.216.142.106)  277.148 ms 210.87.255.26 (210.87.255.26)  304.936 ms 210.87.255.30 (210.87.255.30)  304.856 ms
+14  210.87.255.26 (210.87.255.26)  293.327 ms 210.87.255.121 (210.87.255.121)  288.751 ms  296.116 ms
+15  tmhasw01.imsbiz.com.255.87.210.in-addr.arpa (210.87.255.21)  327.647 ms 210.87.255.121 (210.87.255.121)  277.912 ms 210.87.255.17 (210.87.255.17)  327.702 ms
+16  tmhasw01.imsbiz.com.255.87.210.in-addr.arpa (210.87.255.21)  308.814 ms 210.87.253.157 (210.87.253.157)  322.639 ms  329.969 ms
+17  * * 210.87.253.157 (210.87.253.157)  311.077 ms
+18  * * *
+19  * * 202.181.132.41 (202.181.132.41)  306.198 ms
+
+1492956002
+traceroute to 202.181.132.41 (202.181.132.41), 30 hops max, 60 byte packets
+ 1  139.222.0.1 (139.222.0.1)  1.167 ms  1.503 ms  1.885 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  0.311 ms  0.641 ms  0.627 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  1.336 ms  0.951 ms  0.931 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  1.266 ms  1.253 ms  1.270 ms
+ 5  boundary1-from-boundary2.uea.ac.uk (10.62.92.70)  1.130 ms  1.345 ms  1.034 ms
+ 6  xe-2-0-0.lowdss-ban1.ja.net (146.97.41.201)  4.301 ms  4.473 ms  4.505 ms
+ 7  ae26.lowdss-sbr1.ja.net (146.97.35.245)  10.033 ms  9.967 ms  9.998 ms
+ 8  ae31.londtw-sbr2.ja.net (146.97.33.30)  7.862 ms  7.851 ms  7.780 ms
+ 9  ae29.londtn-sbr1.ja.net (146.97.33.10)  7.874 ms  7.801 ms  7.789 ms
+10  ae0.londtn-ban3.ja.net (146.97.35.170)  9.679 ms  9.652 ms  9.612 ms
+11  40ge1-3.core1.lon2.he.net (195.66.224.21)  8.372 ms  8.192 ms  8.013 ms
+12  100ge5-1.core1.par2.he.net (184.105.223.254)  29.856 ms  26.465 ms  26.563 ms
+13  100ge6-1.core2.mrs1.he.net (184.105.222.22)  26.758 ms  26.740 ms  26.657 ms
+14  100ge10-1.core1.sin1.he.net (184.105.65.13)  169.605 ms  169.512 ms  179.556 ms
+15  100ge14-2.core1.hkg1.he.net (184.105.222.101)  204.585 ms  204.568 ms  204.468 ms
+16  * * *
+17  * * *
+18  202.181.132.41 (202.181.132.41)  206.359 ms * *
+
+1492977601
+traceroute to 202.181.132.41 (202.181.132.41), 30 hops max, 60 byte packets
+ 1  139.222.0.1 (139.222.0.1)  1.108 ms  1.466 ms  1.808 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  0.367 ms  0.584 ms  0.251 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  0.938 ms  1.002 ms  0.978 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  1.930 ms  2.186 ms  2.036 ms
+ 5  boundary1-from-boundary2.uea.ac.uk (10.62.92.70)  1.260 ms  1.362 ms  1.089 ms
+ 6  xe-2-0-0.lowdss-ban1.ja.net (146.97.41.201)  4.202 ms  4.422 ms  4.439 ms
+ 7  ae26.lowdss-sbr1.ja.net (146.97.35.245)  4.474 ms  4.467 ms  4.497 ms
+ 8  ae31.londtw-sbr2.ja.net (146.97.33.30)  8.492 ms  10.590 ms  10.621 ms
+ 9  ae29.londtn-sbr1.ja.net (146.97.33.10)  7.702 ms  7.623 ms  7.605 ms
+10  ae0.londtn-ban3.ja.net (146.97.35.170)  7.540 ms  7.571 ms  7.549 ms
+11  40ge1-3.core1.lon2.he.net (195.66.224.21)  8.603 ms  8.129 ms  7.824 ms
+12  100ge5-1.core1.par2.he.net (184.105.223.254)  25.176 ms  25.257 ms  25.260 ms
+13  100ge6-1.core2.mrs1.he.net (184.105.222.22)  26.115 ms  26.171 ms  26.238 ms
+14  100ge10-1.core1.sin1.he.net (184.105.65.13)  165.977 ms  166.091 ms  166.077 ms
+15  100ge14-2.core1.hkg1.he.net (184.105.222.101)  200.337 ms  200.316 ms  200.316 ms
+16  * * *
+17  * * *
+18  202.181.132.41 (202.181.132.41)  201.878 ms  201.847 ms  201.822 ms
+
+1492999202
+traceroute to 202.181.132.41 (202.181.132.41), 30 hops max, 60 byte packets
+ 1  139.222.0.1 (139.222.0.1)  1.016 ms  1.440 ms  1.807 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  5.072 ms  5.699 ms  6.194 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  0.981 ms  0.994 ms  0.960 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  1.528 ms  1.248 ms  1.469 ms
+ 5  boundary1-from-boundary2.uea.ac.uk (10.62.92.70)  1.174 ms  1.171 ms  1.408 ms
+ 6  xe-2-0-0.lowdss-ban1.ja.net (146.97.41.201)  4.099 ms  4.210 ms  4.307 ms
+ 7  ae26.lowdss-sbr1.ja.net (146.97.35.245)  4.347 ms  4.335 ms  4.270 ms
+ 8  ae31.londtw-sbr2.ja.net (146.97.33.30)  7.510 ms  7.493 ms  7.483 ms
+ 9  ae29.londtn-sbr1.ja.net (146.97.33.10)  9.742 ms  7.455 ms  9.739 ms
+10  ae0.londtn-ban3.ja.net (146.97.35.170)  7.331 ms  7.368 ms  7.576 ms
+11  40ge1-3.core1.lon2.he.net (195.66.224.21)  12.122 ms  9.822 ms  9.279 ms
+12  100ge5-1.core1.par2.he.net (184.105.223.254)  46.701 ms  46.470 ms  46.580 ms
+13  100ge6-1.core2.mrs1.he.net (184.105.222.22)  25.679 ms  25.980 ms  25.964 ms
+14  100ge10-1.core1.sin1.he.net (184.105.65.13)  163.249 ms  163.240 ms  163.221 ms
+15  100ge14-2.core1.hkg1.he.net (184.105.222.101)  197.021 ms  206.112 ms  206.142 ms
+16  * * *
+17  * * *
+18  202.181.132.41 (202.181.132.41)  198.628 ms  198.947 ms  198.936 ms
+
+1493020801
+traceroute to 202.181.132.41 (202.181.132.41), 30 hops max, 60 byte packets
+ 1  139.222.0.1 (139.222.0.1)  1.490 ms  1.739 ms  2.179 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  0.382 ms  0.602 ms  0.586 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  1.074 ms  1.065 ms  1.029 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  1.380 ms  1.209 ms  1.465 ms
+ 5  boundary1-from-boundary2.uea.ac.uk (10.62.92.70)  1.115 ms  1.239 ms  1.361 ms
+ 6  xe-2-0-0.lowdss-ban1.ja.net (146.97.41.201)  4.224 ms  4.404 ms  4.378 ms
+ 7  ae26.lowdss-sbr1.ja.net (146.97.35.245)  4.325 ms  4.430 ms  4.364 ms
+ 8  ae31.londtw-sbr2.ja.net (146.97.33.30)  7.814 ms  7.796 ms  7.780 ms
+ 9  ae29.londtn-sbr1.ja.net (146.97.33.10)  7.677 ms  7.739 ms  7.723 ms
+10  ae0.londtn-ban3.ja.net (146.97.35.170)  7.760 ms  7.703 ms  7.717 ms
+11  40ge1-3.core1.lon2.he.net (195.66.224.21)  7.999 ms  7.940 ms  7.974 ms
+12  100ge5-1.core1.par2.he.net (184.105.223.254)  24.057 ms  23.919 ms  23.138 ms
+13  100ge6-1.core2.mrs1.he.net (184.105.222.22)  30.191 ms  31.857 ms  31.762 ms
+14  100ge10-1.core1.sin1.he.net (184.105.65.13)  167.856 ms  167.655 ms  167.726 ms
+15  100ge14-2.core1.hkg1.he.net (184.105.222.101)  212.850 ms  212.839 ms  211.627 ms
+16  * * *
+17  * * *
+18  202.181.132.41 (202.181.132.41)  204.062 ms *  204.068 ms
+
+1493042402
+traceroute to 202.181.132.41 (202.181.132.41), 30 hops max, 60 byte packets
+ 1  139.222.0.1 (139.222.0.1)  1.150 ms  1.551 ms  1.953 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  0.221 ms  0.544 ms  0.457 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  153.726 ms  153.670 ms  153.686 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  2.063 ms  1.415 ms  1.173 ms
+ 5  boundary1-from-boundary2.uea.ac.uk (10.62.92.70)  1.156 ms  1.214 ms  1.267 ms
+ 6  xe-2-0-0.lowdss-ban1.ja.net (146.97.41.201)  4.286 ms  4.358 ms  4.378 ms
+ 7  ae26.lowdss-sbr1.ja.net (146.97.35.245)  4.442 ms  4.431 ms  4.367 ms
+ 8  ae31.londtw-sbr2.ja.net (146.97.33.30)  7.592 ms  7.583 ms  7.570 ms
+ 9  ae29.londtn-sbr1.ja.net (146.97.33.10)  7.753 ms  7.742 ms  7.727 ms
+10  ae0.londtn-ban3.ja.net (146.97.35.170)  7.707 ms  7.636 ms  7.543 ms
+11  40ge1-3.core1.lon2.he.net (195.66.224.21)  7.912 ms  7.797 ms  7.887 ms
+12  100ge5-1.core1.par2.he.net (184.105.223.254)  16.475 ms  15.880 ms  15.919 ms
+13  100ge6-1.core2.mrs1.he.net (184.105.222.22)  34.285 ms  34.307 ms  34.338 ms
+14  100ge10-1.core1.sin1.he.net (184.105.65.13)  164.069 ms  164.169 ms  164.504 ms
+15  100ge14-2.core1.hkg1.he.net (184.105.222.101)  197.867 ms  197.517 ms  197.420 ms
+16  * * *
+17  * * *
+18  * 202.181.132.41 (202.181.132.41)  198.622 ms *
+
+1493064002
+traceroute to 202.181.132.41 (202.181.132.41), 30 hops max, 60 byte packets
+ 1  139.222.0.1 (139.222.0.1)  1.231 ms  1.584 ms  1.995 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  0.468 ms  0.613 ms  0.593 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  1.131 ms  1.377 ms  1.087 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  1.344 ms  1.541 ms  1.364 ms
+ 5  boundary1-from-boundary2.uea.ac.uk (10.62.92.70)  1.327 ms  1.490 ms  1.253 ms
+ 6  xe-2-0-0.lowdss-ban1.ja.net (146.97.41.201)  4.591 ms  4.243 ms  4.220 ms
+ 7  ae26.lowdss-sbr1.ja.net (146.97.35.245)  4.206 ms  4.358 ms  4.344 ms
+ 8  ae31.londtw-sbr2.ja.net (146.97.33.30)  7.651 ms  7.648 ms  7.623 ms
+ 9  ae29.londtn-sbr1.ja.net (146.97.33.10)  7.603 ms  7.599 ms  7.434 ms
+10  ae0.londtn-ban3.ja.net (146.97.35.170)  7.550 ms  7.551 ms  7.536 ms
+11  40ge1-3.core1.lon2.he.net (195.66.224.21)  12.250 ms  11.525 ms  11.040 ms
+12  100ge5-1.core1.par2.he.net (184.105.223.254)  53.535 ms  53.627 ms  50.944 ms
+13  100ge6-1.core2.mrs1.he.net (184.105.222.22)  33.354 ms  28.903 ms  28.760 ms
+14  100ge10-1.core1.sin1.he.net (184.105.65.13)  165.354 ms  165.341 ms  165.229 ms
+15  100ge14-2.core1.hkg1.he.net (184.105.222.101)  197.120 ms  197.099 ms  197.158 ms
+16  * * *
+17  * * *
+18  202.181.132.41 (202.181.132.41)  198.370 ms * *
+
+1493085601
+traceroute to 202.181.132.41 (202.181.132.41), 30 hops max, 60 byte packets
+ 1  139.222.0.1 (139.222.0.1)  0.983 ms  1.357 ms  1.811 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  0.231 ms  0.457 ms  0.458 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  0.966 ms  0.997 ms  0.932 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  1.315 ms  1.462 ms  1.120 ms
+ 5  boundary1-from-boundary2.uea.ac.uk (10.62.92.70)  1.072 ms  1.209 ms  1.669 ms
+ 6  xe-2-0-0.lowdss-ban1.ja.net (146.97.41.201)  4.274 ms  4.426 ms  4.409 ms
+ 7  ae26.lowdss-sbr1.ja.net (146.97.35.245)  4.399 ms  4.428 ms  4.413 ms
+ 8  ae31.londtw-sbr2.ja.net (146.97.33.30)  7.534 ms  7.654 ms  32.068 ms
+ 9  ae29.londtn-sbr1.ja.net (146.97.33.10)  7.760 ms  15.692 ms  7.838 ms
+10  ae0.londtn-ban3.ja.net (146.97.35.170)  7.827 ms  7.815 ms  7.796 ms
+11  40ge1-3.core1.lon2.he.net (195.66.224.21)  13.624 ms  12.832 ms  10.780 ms
+12  100ge5-1.core1.par2.he.net (184.105.223.254)  22.040 ms  22.078 ms  21.880 ms
+13  100ge6-1.core2.mrs1.he.net (184.105.222.22)  28.194 ms  26.387 ms  26.442 ms
+14  100ge10-1.core1.sin1.he.net (184.105.65.13)  168.109 ms  168.091 ms  168.204 ms
+15  100ge14-2.core1.hkg1.he.net (184.105.222.101)  202.804 ms  202.788 ms  202.673 ms
+16  * * *
+17  * * *
+18  202.181.132.41 (202.181.132.41)  204.528 ms  204.602 ms *
+
+1493107202
+traceroute to 202.181.132.41 (202.181.132.41), 30 hops max, 60 byte packets
+ 1  139.222.0.1 (139.222.0.1)  1.067 ms  1.667 ms  1.858 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  0.445 ms  0.423 ms  0.414 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  1.273 ms  1.251 ms  1.226 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  1.217 ms  1.500 ms  1.478 ms
+ 5  boundary1-from-boundary2.uea.ac.uk (10.62.92.70)  1.160 ms  1.352 ms  1.332 ms
+ 6  xe-2-0-0.lowdss-ban1.ja.net (146.97.41.201)  4.239 ms  4.223 ms  4.164 ms
+ 7  ae26.lowdss-sbr1.ja.net (146.97.35.245)  4.250 ms  4.298 ms  4.352 ms
+ 8  ae31.londtw-sbr2.ja.net (146.97.33.30)  7.707 ms  7.731 ms  7.671 ms
+ 9  ae29.londtn-sbr1.ja.net (146.97.33.10)  7.660 ms  7.648 ms  7.672 ms
+10  ae0.londtn-ban3.ja.net (146.97.35.170)  7.575 ms  7.611 ms  7.636 ms
+11  40ge1-3.core1.lon2.he.net (195.66.224.21)  13.262 ms  12.398 ms  12.382 ms
+12  100ge5-1.core1.par2.he.net (184.105.223.254)  26.827 ms  26.725 ms  25.703 ms
+13  100ge6-1.core2.mrs1.he.net (184.105.222.22)  31.873 ms  27.115 ms  27.095 ms
+14  100ge10-1.core1.sin1.he.net (184.105.65.13)  164.639 ms  164.520 ms  164.539 ms
+15  100ge14-2.core1.hkg1.he.net (184.105.222.101)  198.677 ms  198.666 ms  198.699 ms
+16  * * *
+17  * * *
+18  * 202.181.132.41 (202.181.132.41)  200.088 ms *
+
+1493128806
+traceroute to 202.181.132.41 (202.181.132.41), 30 hops max, 60 byte packets
+ 1  139.222.0.1 (139.222.0.1)  1.119 ms  1.497 ms  1.886 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  0.474 ms  0.466 ms  0.449 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  1.123 ms  1.070 ms  1.051 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  1.198 ms  1.316 ms  1.409 ms
+ 5  boundary1-from-boundary2.uea.ac.uk (10.62.92.70)  1.136 ms  1.225 ms  1.306 ms
+ 6  xe-2-0-0.lowdss-ban1.ja.net (146.97.41.201)  4.276 ms  4.245 ms  4.264 ms
+ 7  ae26.lowdss-sbr1.ja.net (146.97.35.245)  4.267 ms  4.494 ms  4.474 ms
+ 8  ae31.londtw-sbr2.ja.net (146.97.33.30)  8.714 ms  8.782 ms  8.766 ms
+ 9  ae29.londtn-sbr1.ja.net (146.97.33.10)  47.536 ms  7.706 ms  47.538 ms
+10  ae0.londtn-ban3.ja.net (146.97.35.170)  7.622 ms  7.711 ms  7.470 ms
+11  40ge1-3.core1.lon2.he.net (195.66.224.21)  9.813 ms  9.750 ms  9.233 ms
+12  100ge5-1.core1.par2.he.net (184.105.223.254)  15.820 ms  15.809 ms  23.829 ms
+13  100ge6-1.core2.mrs1.he.net (184.105.222.22)  29.045 ms  26.116 ms  26.002 ms
+14  100ge10-1.core1.sin1.he.net (184.105.65.13)  163.096 ms  163.194 ms  163.117 ms
+15  100ge14-2.core1.hkg1.he.net (184.105.222.101)  196.874 ms  196.858 ms  196.696 ms
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  202.181.132.41 (202.181.132.41)  198.503 ms  198.780 ms  198.756 ms
+
+1493150401
+traceroute to 202.181.132.41 (202.181.132.41), 30 hops max, 60 byte packets
+ 1  139.222.0.1 (139.222.0.1)  1.124 ms  1.420 ms  1.820 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  0.313 ms  0.395 ms  0.383 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  1.182 ms  1.168 ms  1.140 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  1.134 ms  1.660 ms  1.341 ms
+ 5  boundary1-from-boundary2.uea.ac.uk (10.62.92.70)  4.601 ms  1.410 ms  1.041 ms
+ 6  xe-2-0-0.lowdss-ban1.ja.net (146.97.41.201)  4.365 ms  4.309 ms  4.384 ms
+ 7  ae26.lowdss-sbr1.ja.net (146.97.35.245)  4.459 ms  4.596 ms  4.547 ms
+ 8  ae31.londtw-sbr2.ja.net (146.97.33.30)  7.804 ms  7.901 ms  7.884 ms
+ 9  ae29.londtn-sbr1.ja.net (146.97.33.10)  7.834 ms  7.594 ms  7.589 ms
+10  ae0.londtn-ban3.ja.net (146.97.35.170)  7.671 ms  7.609 ms  7.644 ms
+11  40ge1-3.core1.lon2.he.net (195.66.224.21)  8.703 ms  8.576 ms  8.558 ms
+12  100ge5-1.core1.par2.he.net (184.105.223.254)  16.828 ms  16.753 ms  16.161 ms
+13  100ge6-1.core2.mrs1.he.net (184.105.222.22)  26.322 ms  26.444 ms  26.296 ms
+14  100ge10-1.core1.sin1.he.net (184.105.65.13)  167.528 ms  167.753 ms  167.568 ms
+15  100ge14-2.core1.hkg1.he.net (184.105.222.101)  208.383 ms  208.368 ms  208.359 ms
+16  * * *
+17  * * *
+18  * 202.181.132.41 (202.181.132.41)  204.300 ms *
+
+1493172002
+traceroute to 202.181.132.41 (202.181.132.41), 30 hops max, 60 byte packets
+ 1  139.222.0.1 (139.222.0.1)  1.962 ms  2.347 ms  2.754 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  0.301 ms  0.282 ms  0.566 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  1.130 ms  1.280 ms  1.207 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  1.193 ms  1.293 ms  1.343 ms
+ 5  boundary1-from-boundary2.uea.ac.uk (10.62.92.70)  1.123 ms  1.181 ms  1.260 ms
+ 6  xe-2-0-0.lowdss-ban1.ja.net (146.97.41.201)  4.444 ms  4.207 ms  4.336 ms
+ 7  ae26.lowdss-sbr1.ja.net (146.97.35.245)  4.321 ms  4.224 ms  4.229 ms
+ 8  ae31.londtw-sbr2.ja.net (146.97.33.30)  7.579 ms  7.603 ms  7.589 ms
+ 9  ae29.londtn-sbr1.ja.net (146.97.33.10)  7.658 ms  7.628 ms  7.614 ms
+10  ae0.londtn-ban3.ja.net (146.97.35.170)  7.671 ms  7.589 ms  7.545 ms
+11  40ge1-3.core1.lon2.he.net (195.66.224.21)  18.696 ms  18.069 ms  18.050 ms
+12  100ge5-1.core1.par2.he.net (184.105.223.254)  30.325 ms  30.312 ms  30.372 ms
+13  100ge6-1.core2.mrs1.he.net (184.105.222.22)  29.915 ms  26.378 ms  26.332 ms
+14  100ge10-1.core1.sin1.he.net (184.105.65.13)  164.950 ms  164.747 ms  164.698 ms
+15  100ge14-2.core1.hkg1.he.net (184.105.222.101)  198.860 ms  198.800 ms  198.899 ms
+16  * * *
+17  * * *
+18  202.181.132.41 (202.181.132.41)  200.689 ms *  200.666 ms
+
+1493193602
+traceroute to 202.181.132.41 (202.181.132.41), 30 hops max, 60 byte packets
+ 1  139.222.0.1 (139.222.0.1)  1.290 ms  1.639 ms  2.038 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  0.384 ms  0.663 ms  0.650 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  2.262 ms  2.250 ms  2.193 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  3.547 ms  3.252 ms  3.373 ms
+ 5  boundary1-from-boundary2.uea.ac.uk (10.62.92.70)  1.084 ms  1.187 ms  1.292 ms
+ 6  xe-2-0-0.lowdss-ban1.ja.net (146.97.41.201)  4.147 ms  4.072 ms  4.194 ms
+ 7  ae26.lowdss-sbr1.ja.net (146.97.35.245)  4.317 ms  4.453 ms  4.350 ms
+ 8  ae31.londtw-sbr2.ja.net (146.97.33.30)  7.662 ms  7.648 ms  7.633 ms
+ 9  ae29.londtn-sbr1.ja.net (146.97.33.10)  7.442 ms  7.337 ms  7.412 ms
+10  ae0.londtn-ban3.ja.net (146.97.35.170)  7.540 ms  7.465 ms  7.503 ms
+11  40ge1-3.core1.lon2.he.net (195.66.224.21)  18.058 ms  17.623 ms  17.593 ms
+12  100ge5-1.core1.par2.he.net (184.105.223.254)  15.800 ms  15.870 ms  15.856 ms
+13  100ge6-1.core2.mrs1.he.net (184.105.222.22)  25.763 ms  25.775 ms  25.793 ms
+14  100ge10-1.core1.sin1.he.net (184.105.65.13)  169.277 ms  167.960 ms  167.904 ms
+15  100ge14-2.core1.hkg1.he.net (184.105.222.101)  201.704 ms  201.274 ms  201.261 ms
+16  * * *
+17  * * *
+18  * * *
+19  202.181.132.41 (202.181.132.41)  198.637 ms * *
+
+1493215203
+traceroute to 202.181.132.41 (202.181.132.41), 30 hops max, 60 byte packets
+ 1  139.222.0.1 (139.222.0.1)  1.072 ms  1.678 ms  1.862 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  0.386 ms  0.362 ms  0.824 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  1.182 ms  1.123 ms  1.055 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  1.370 ms  1.518 ms  1.506 ms
+ 5  boundary1-from-boundary2.uea.ac.uk (10.62.92.70)  1.316 ms  1.300 ms  1.442 ms
+ 6  xe-2-0-0.lowdss-ban1.ja.net (146.97.41.201)  4.387 ms  4.406 ms  4.387 ms
+ 7  ae26.lowdss-sbr1.ja.net (146.97.35.245)  5.222 ms  5.209 ms  5.144 ms
+ 8  ae31.londtw-sbr2.ja.net (146.97.33.30)  7.977 ms  10.266 ms  7.931 ms
+ 9  ae29.londtn-sbr1.ja.net (146.97.33.10)  7.541 ms  7.555 ms  9.446 ms
+10  ae0.londtn-ban3.ja.net (146.97.35.170)  9.502 ms  9.489 ms  9.331 ms
+11  40ge1-3.core1.lon2.he.net (195.66.224.21)  9.640 ms  8.704 ms  7.946 ms
+12  100ge5-1.core1.par2.he.net (184.105.223.254)  22.185 ms  21.208 ms  21.080 ms
+13  100ge6-1.core2.mrs1.he.net (184.105.222.22)  26.384 ms  26.314 ms  26.245 ms
+14  100ge10-1.core1.sin1.he.net (184.105.65.13)  169.582 ms  169.472 ms  168.194 ms
+15  100ge14-2.core1.hkg1.he.net (184.105.222.101)  206.382 ms  206.478 ms  206.460 ms
+16  * * *
+17  * * *
+18  * 202.181.132.41 (202.181.132.41)  203.772 ms *
+
+1493236802
+traceroute to 202.181.132.41 (202.181.132.41), 30 hops max, 60 byte packets
+ 1  139.222.0.1 (139.222.0.1)  1.031 ms  1.331 ms  1.743 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  0.376 ms  0.348 ms  0.334 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  1.145 ms  1.081 ms  1.082 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  1.112 ms  1.340 ms  1.187 ms
+ 5  boundary1-from-boundary2.uea.ac.uk (10.62.92.70)  1.239 ms  1.103 ms  1.313 ms
+ 6  xe-2-0-0.lowdss-ban1.ja.net (146.97.41.201)  4.235 ms  4.475 ms  4.458 ms
+ 7  ae26.lowdss-sbr1.ja.net (146.97.35.245)  4.553 ms  4.541 ms  4.520 ms
+ 8  ae31.londtw-sbr2.ja.net (146.97.33.30)  7.732 ms  7.863 ms  7.701 ms
+ 9  ae29.londtn-sbr1.ja.net (146.97.33.10)  7.833 ms  8.162 ms  7.829 ms
+10  ae0.londtn-ban3.ja.net (146.97.35.170)  7.536 ms  7.818 ms  7.894 ms
+11  40ge1-3.core1.lon2.he.net (195.66.224.21)  44.581 ms  44.048 ms  40.179 ms
+12  100ge5-1.core1.par2.he.net (184.105.223.254)  26.105 ms  26.303 ms  26.167 ms
+13  100ge6-1.core2.mrs1.he.net (184.105.222.22)  33.703 ms  26.109 ms  25.986 ms
+14  100ge10-1.core1.sin1.he.net (184.105.65.13)  167.580 ms  167.565 ms  167.596 ms
+15  100ge14-2.core1.hkg1.he.net (184.105.222.101)  204.738 ms  204.723 ms  203.625 ms
+16  * * *
+17  * * *
+18  * 202.181.132.41 (202.181.132.41)  200.464 ms  200.449 ms
+
+1493258402
+traceroute to 202.181.132.41 (202.181.132.41), 30 hops max, 60 byte packets
+ 1  139.222.0.1 (139.222.0.1)  1.137 ms  1.405 ms  1.762 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  0.317 ms  0.496 ms  0.483 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  1.143 ms  1.109 ms  1.083 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  1.142 ms  1.213 ms  1.317 ms
+ 5  boundary1-from-boundary2.uea.ac.uk (10.62.92.70)  1.033 ms  1.150 ms  1.376 ms
+ 6  xe-2-0-0.lowdss-ban1.ja.net (146.97.41.201)  4.280 ms  4.374 ms  4.331 ms
+ 7  ae26.lowdss-sbr1.ja.net (146.97.35.245)  7.998 ms  7.986 ms  7.968 ms
+ 8  ae31.londtw-sbr2.ja.net (146.97.33.30)  7.607 ms  7.537 ms  7.570 ms
+ 9  ae29.londtn-sbr1.ja.net (146.97.33.10)  7.470 ms  7.562 ms  7.404 ms
+10  ae0.londtn-ban3.ja.net (146.97.35.170)  7.421 ms  7.551 ms  7.570 ms
+11  40ge1-3.core1.lon2.he.net (195.66.224.21)  13.270 ms  12.019 ms  9.317 ms
+12  100ge5-1.core1.par2.he.net (184.105.223.254)  18.916 ms  25.612 ms  25.387 ms
+13  100ge6-1.core2.mrs1.he.net (184.105.222.22)  25.868 ms  25.805 ms  26.044 ms
+14  100ge10-1.core1.sin1.he.net (184.105.65.13)  166.456 ms  166.439 ms  166.335 ms
+15  100ge14-2.core1.hkg1.he.net (184.105.222.101)  206.211 ms  206.319 ms  206.341 ms
+16  * * *
+17  * * *
+18  * * *
+19  202.181.132.41 (202.181.132.41)  198.698 ms  -274.639 ms  -274.655 ms
+
+1493280003
+traceroute to 202.181.132.41 (202.181.132.41), 30 hops max, 60 byte packets
+ 1  139.222.0.1 (139.222.0.1)  1.100 ms  1.545 ms  1.874 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  0.413 ms  0.609 ms  0.601 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  2.535 ms  2.479 ms  2.489 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  1.469 ms  1.191 ms  1.347 ms
+ 5  boundary1-from-boundary2.uea.ac.uk (10.62.92.70)  2.197 ms  2.241 ms  2.333 ms
+ 6  xe-2-0-0.lowdss-ban1.ja.net (146.97.41.201)  4.746 ms  5.899 ms  5.931 ms
+ 7  ae26.lowdss-sbr1.ja.net (146.97.35.245)  5.266 ms  4.219 ms  4.198 ms
+ 8  ae31.londtw-sbr2.ja.net (146.97.33.30)  7.549 ms  7.490 ms  7.481 ms
+ 9  ae29.londtn-sbr1.ja.net (146.97.33.10)  7.335 ms  7.426 ms  7.468 ms
+10  ae0.londtn-ban3.ja.net (146.97.35.170)  7.410 ms  7.500 ms  7.439 ms
+11  40ge1-3.core1.lon2.he.net (195.66.224.21)  8.230 ms  7.804 ms  7.700 ms
+12  100ge5-1.core1.par2.he.net (184.105.223.254)  19.555 ms  19.614 ms  19.390 ms
+13  100ge6-1.core2.mrs1.he.net (184.105.222.22)  25.712 ms  25.949 ms  25.936 ms
+14  100ge10-1.core1.sin1.he.net (184.105.65.13)  183.957 ms  183.943 ms  174.200 ms
+15  100ge14-2.core1.hkg1.he.net (184.105.222.101)  204.975 ms  205.031 ms  205.020 ms
+16  * * *
+17  * * *
+18  202.181.132.41 (202.181.132.41)  199.174 ms * *
+
+1493301602
+traceroute to 202.181.132.41 (202.181.132.41), 30 hops max, 60 byte packets
+ 1  139.222.0.1 (139.222.0.1)  1.220 ms  1.737 ms  1.966 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  0.332 ms  0.305 ms  0.280 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  1.712 ms  1.702 ms  1.668 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  1.208 ms  1.219 ms  1.053 ms
+ 5  boundary1-from-boundary2.uea.ac.uk (10.62.92.70)  1.040 ms  1.177 ms  1.255 ms
+ 6  xe-2-0-0.lowdss-ban1.ja.net (146.97.41.201)  4.168 ms  4.824 ms  4.766 ms
+ 7  ae26.lowdss-sbr1.ja.net (146.97.35.245)  4.834 ms  4.800 ms  4.900 ms
+ 8  ae31.londtw-sbr2.ja.net (146.97.33.30)  7.727 ms  7.707 ms  7.692 ms
+ 9  ae29.londtn-sbr1.ja.net (146.97.33.10)  19.419 ms  19.407 ms  19.390 ms
+10  ae0.londtn-ban3.ja.net (146.97.35.170)  7.635 ms  7.567 ms  7.603 ms
+11  40ge1-3.core1.lon2.he.net (195.66.224.21)  7.863 ms  7.865 ms  7.946 ms
+12  100ge5-1.core1.par2.he.net (184.105.223.254)  28.583 ms  27.785 ms  28.623 ms
+13  100ge6-1.core2.mrs1.he.net (184.105.222.22)  25.847 ms  35.508 ms  35.234 ms
+14  100ge10-1.core1.sin1.he.net (184.105.65.13)  164.477 ms  164.545 ms  164.411 ms
+15  100ge14-2.core1.hkg1.he.net (184.105.222.101)  198.222 ms  198.172 ms  198.232 ms
+16  * * *
+17  * * *
+18  202.181.132.41 (202.181.132.41)  201.143 ms  201.131 ms  199.883 ms
+
+1493323202
+traceroute to 202.181.132.41 (202.181.132.41), 30 hops max, 60 byte packets
+ 1  139.222.0.1 (139.222.0.1)  1.154 ms  1.571 ms  1.972 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  0.283 ms  0.446 ms  0.433 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  0.937 ms  0.923 ms  0.910 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  1.387 ms  1.241 ms  1.488 ms
+ 5  boundary1-from-boundary2.uea.ac.uk (10.62.92.70)  1.462 ms  1.306 ms  1.208 ms
+ 6  xe-2-0-0.lowdss-ban1.ja.net (146.97.41.201)  4.287 ms  4.347 ms  4.325 ms
+ 7  ae26.lowdss-sbr1.ja.net (146.97.35.245)  4.313 ms  5.021 ms  5.007 ms
+ 8  ae31.londtw-sbr2.ja.net (146.97.33.30)  8.210 ms  8.292 ms  7.377 ms
+ 9  ae29.londtn-sbr1.ja.net (146.97.33.10)  9.457 ms  7.400 ms  7.630 ms
+10  ae0.londtn-ban3.ja.net (146.97.35.170)  7.656 ms  7.924 ms  8.063 ms
+11  40ge1-3.core1.lon2.he.net (195.66.224.21)  32.792 ms  32.078 ms  32.093 ms
+12  100ge5-1.core1.par2.he.net (184.105.223.254)  17.749 ms  17.612 ms  15.913 ms
+13  100ge6-1.core2.mrs1.he.net (184.105.222.22)  25.869 ms  25.772 ms  25.756 ms
+14  100ge10-1.core1.sin1.he.net (184.105.65.13)  171.745 ms  171.700 ms  171.432 ms
+15  100ge14-2.core1.hkg1.he.net (184.105.222.101)  197.519 ms  197.346 ms  197.319 ms
+16  * * *
+17  * * *
+18  202.181.132.41 (202.181.132.41)  199.131 ms  199.024 ms  199.069 ms
+
+1493344802
+traceroute to 202.181.132.41 (202.181.132.41), 30 hops max, 60 byte packets
+ 1  139.222.0.1 (139.222.0.1)  1.073 ms  1.450 ms  1.819 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  0.572 ms  0.827 ms  1.075 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  1.115 ms  1.140 ms  1.117 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  1.191 ms  1.315 ms  1.407 ms
+ 5  boundary1-from-boundary2.uea.ac.uk (10.62.92.70)  1.132 ms  1.258 ms  1.308 ms
+ 6  xe-2-0-0.lowdss-ban1.ja.net (146.97.41.201)  4.210 ms  4.313 ms  4.150 ms
+ 7  ae26.lowdss-sbr1.ja.net (146.97.35.245)  4.337 ms  4.262 ms  4.306 ms
+ 8  ae31.londtw-sbr2.ja.net (146.97.33.30)  7.624 ms  7.588 ms  7.576 ms
+ 9  ae29.londtn-sbr1.ja.net (146.97.33.10)  7.425 ms  7.432 ms  7.519 ms
+10  ae0.londtn-ban3.ja.net (146.97.35.170)  7.487 ms  7.642 ms  7.468 ms
+11  40ge1-3.core1.lon2.he.net (195.66.224.21)  18.034 ms  17.639 ms  13.586 ms
+12  100ge5-1.core1.par2.he.net (184.105.223.254)  17.883 ms  17.686 ms  17.851 ms
+13  100ge6-1.core2.mrs1.he.net (184.105.222.22)  25.743 ms  25.899 ms  25.930 ms
+14  100ge10-1.core1.sin1.he.net (184.105.65.13)  163.903 ms  164.016 ms  163.840 ms
+15  100ge14-2.core1.hkg1.he.net (184.105.222.101)  197.464 ms  197.548 ms  197.962 ms
+16  * * *
+17  * * *
+18  * * *
+19  * 202.181.132.41 (202.181.132.41)  204.124 ms  204.178 ms
+
+1493366403
+traceroute to 202.181.132.41 (202.181.132.41), 30 hops max, 60 byte packets
+ 1  139.222.0.1 (139.222.0.1)  1.323 ms  1.620 ms  2.027 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  0.307 ms  0.441 ms  0.238 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  1.136 ms  1.202 ms  1.169 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  1.302 ms  1.437 ms  2.247 ms
+ 5  boundary1-from-boundary2.uea.ac.uk (10.62.92.70)  2.266 ms  1.197 ms  2.335 ms
+ 6  xe-2-0-0.lowdss-ban1.ja.net (146.97.41.201)  4.329 ms  5.183 ms  4.235 ms
+ 7  ae26.lowdss-sbr1.ja.net (146.97.35.245)  5.247 ms  4.321 ms  4.276 ms
+ 8  ae31.londtw-sbr2.ja.net (146.97.33.30)  7.443 ms  7.460 ms  7.415 ms
+ 9  ae29.londtn-sbr1.ja.net (146.97.33.10)  9.070 ms  8.901 ms  7.399 ms
+10  ae0.londtn-ban3.ja.net (146.97.35.170)  7.464 ms  7.427 ms  7.416 ms
+11  40ge1-3.core1.lon2.he.net (195.66.224.21)  7.659 ms  7.914 ms  7.900 ms
+12  100ge5-1.core1.par2.he.net (184.105.223.254)  20.273 ms  20.131 ms  19.191 ms
+13  100ge6-1.core2.mrs1.he.net (184.105.222.22)  27.586 ms  26.001 ms  25.718 ms
+14  100ge10-1.core1.sin1.he.net (184.105.65.13)  164.069 ms  164.090 ms  164.146 ms
+15  100ge14-2.core1.hkg1.he.net (184.105.222.101)  197.742 ms  197.982 ms  197.990 ms
+16  * * *
+17  * * *
+18  * 202.181.132.41 (202.181.132.41)  199.840 ms *
+
+1493388003
+traceroute to 202.181.132.41 (202.181.132.41), 30 hops max, 60 byte packets
+ 1  139.222.0.1 (139.222.0.1)  1.157 ms  1.465 ms  1.858 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  0.465 ms  0.455 ms  0.427 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  1.061 ms  0.969 ms  1.012 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  1.077 ms  1.215 ms  1.427 ms
+ 5  boundary1-from-boundary2.uea.ac.uk (10.62.92.70)  1.710 ms  4.795 ms  4.638 ms
+ 6  xe-2-0-0.lowdss-ban1.ja.net (146.97.41.201)  4.157 ms  4.489 ms  4.450 ms
+ 7  ae26.lowdss-sbr1.ja.net (146.97.35.245)  4.570 ms  4.546 ms  4.530 ms
+ 8  ae31.londtw-sbr2.ja.net (146.97.33.30)  7.741 ms  7.726 ms  7.706 ms
+ 9  ae29.londtn-sbr1.ja.net (146.97.33.10)  7.607 ms  7.594 ms  7.505 ms
+10  ae0.londtn-ban3.ja.net (146.97.35.170)  7.640 ms  7.618 ms  7.479 ms
+11  40ge1-3.core1.lon2.he.net (195.66.224.21)  10.961 ms  10.786 ms  8.195 ms
+12  100ge5-1.core1.par2.he.net (184.105.223.254)  26.706 ms  26.779 ms  25.897 ms
+13  100ge6-1.core2.mrs1.he.net (184.105.222.22)  32.089 ms  28.213 ms  28.166 ms
+14  100ge10-1.core1.sin1.he.net (184.105.65.13)  163.902 ms  163.783 ms  163.874 ms
+15  100ge14-2.core1.hkg1.he.net (184.105.222.101)  197.474 ms  197.847 ms  197.438 ms
+16  * * *
+17  * * *
+18  202.181.132.41 (202.181.132.41)  199.225 ms  199.169 ms  199.193 ms
+
+1493409603
+traceroute to 202.181.132.41 (202.181.132.41), 30 hops max, 60 byte packets
+ 1  139.222.0.1 (139.222.0.1)  1.126 ms  1.492 ms  1.857 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  0.512 ms  0.498 ms  0.485 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  0.967 ms  1.107 ms  1.076 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  1.432 ms  1.317 ms  1.156 ms
+ 5  boundary1-from-boundary2.uea.ac.uk (10.62.92.70)  1.160 ms  1.367 ms  1.220 ms
+ 6  xe-2-0-0.lowdss-ban1.ja.net (146.97.41.201)  4.148 ms  4.250 ms  4.370 ms
+ 7  ae26.lowdss-sbr1.ja.net (146.97.35.245)  6.360 ms  4.374 ms  4.460 ms
+ 8  ae31.londtw-sbr2.ja.net (146.97.33.30)  7.721 ms  7.723 ms  7.712 ms
+ 9  ae29.londtn-sbr1.ja.net (146.97.33.10)  7.621 ms  7.797 ms  7.730 ms
+10  ae0.londtn-ban3.ja.net (146.97.35.170)  7.832 ms  7.777 ms  7.805 ms
+11  40ge1-3.core1.lon2.he.net (195.66.224.21)  8.234 ms  7.900 ms  8.107 ms
+12  100ge5-1.core1.par2.he.net (184.105.223.254)  26.609 ms  24.392 ms  23.820 ms
+13  100ge6-1.core2.mrs1.he.net (184.105.222.22)  -72.532 ms  -73.006 ms  -73.037 ms
+14  100ge10-1.core1.sin1.he.net (184.105.65.13)  65.069 ms  64.912 ms  64.901 ms
+15  100ge14-2.core1.hkg1.he.net (184.105.222.101)  98.761 ms  98.746 ms  98.631 ms
+16  * * *
+17  * * *
+18  * * *
+19  202.181.132.41 (202.181.132.41)  199.171 ms *  199.167 ms
+
+1493431203
+traceroute to 202.181.132.41 (202.181.132.41), 30 hops max, 60 byte packets
+ 1  139.222.0.1 (139.222.0.1)  1.403 ms  1.689 ms  2.115 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  0.483 ms  0.473 ms  0.683 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  1.079 ms  1.237 ms  1.218 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  1.410 ms  1.497 ms  1.200 ms
+ 5  boundary1-from-boundary2.uea.ac.uk (10.62.92.70)  1.264 ms  1.357 ms  1.100 ms
+ 6  xe-2-0-0.lowdss-ban1.ja.net (146.97.41.201)  4.299 ms  4.208 ms  4.255 ms
+ 7  ae26.lowdss-sbr1.ja.net (146.97.35.245)  4.271 ms  4.251 ms  4.186 ms
+ 8  ae31.londtw-sbr2.ja.net (146.97.33.30)  7.480 ms  7.459 ms  7.446 ms
+ 9  ae29.londtn-sbr1.ja.net (146.97.33.10)  7.463 ms  7.356 ms  7.427 ms
+10  ae0.londtn-ban3.ja.net (146.97.35.170)  7.443 ms  7.482 ms  7.431 ms
+11  40ge1-3.core1.lon2.he.net (195.66.224.21)  9.641 ms  9.109 ms  8.618 ms
+12  100ge7-1.core1.fra1.he.net (184.105.80.38)  19.725 ms  19.835 ms  19.914 ms
+13  10ge3-1.core1.zrh1.he.net (72.52.92.30)  26.621 ms  26.691 ms  30.517 ms
+14  10ge13-1.core1.mil2.he.net (184.105.223.105)  126.581 ms  127.633 ms  126.716 ms
+15  100ge14-1.core2.mrs1.he.net (184.105.80.14)  158.086 ms  158.075 ms  158.360 ms
+16  100ge10-1.core1.sin1.he.net (184.105.65.13)  289.533 ms  288.786 ms  288.767 ms
+17  100ge14-2.core1.hkg1.he.net (184.105.222.101)  326.393 ms  334.616 ms  322.207 ms
+18  * * *
+19  * * *
+20  * 202.181.132.41 (202.181.132.41)  323.899 ms  323.909 ms
+
+1493452805
+traceroute to 202.181.132.41 (202.181.132.41), 30 hops max, 60 byte packets
+ 1  139.222.0.1 (139.222.0.1)  1.004 ms  1.400 ms  1.812 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  0.371 ms  0.819 ms  0.809 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  62.265 ms  62.245 ms  62.223 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  62.395 ms  62.484 ms  62.644 ms
+ 5  boundary1-from-boundary2.uea.ac.uk (10.62.92.70)  62.500 ms  62.536 ms  62.621 ms
+ 6  xe-2-0-0.lowdss-ban1.ja.net (146.97.41.201)  4.171 ms  64.793 ms  63.614 ms
+ 7  ae26.lowdss-sbr1.ja.net (146.97.35.245)  63.698 ms  63.717 ms  63.266 ms
+ 8  ae31.londtw-sbr2.ja.net (146.97.33.30)  66.401 ms  65.423 ms  9.347 ms
+ 9  ae29.londtn-sbr1.ja.net (146.97.33.10)  28.099 ms  28.084 ms  28.327 ms
+10  ae0.londtn-ban3.ja.net (146.97.35.170)  10.836 ms  10.866 ms  10.808 ms
+11  40ge1-3.core1.lon2.he.net (195.66.224.21)  41.955 ms  41.399 ms  40.692 ms
+12  100ge5-1.core1.par2.he.net (184.105.223.254)  31.776 ms  31.952 ms  31.847 ms
+13  100ge6-1.core2.mrs1.he.net (184.105.222.22)  26.346 ms  25.740 ms  25.604 ms
+14  100ge10-1.core1.sin1.he.net (184.105.65.13)  163.853 ms  164.835 ms  163.767 ms
+15  100ge14-2.core1.hkg1.he.net (184.105.222.101)  198.483 ms  197.328 ms  197.428 ms
+16  * * *
+17  * * *
+18  202.181.132.41 (202.181.132.41)  199.080 ms * *
+
+1493474403
+traceroute to 202.181.132.41 (202.181.132.41), 30 hops max, 60 byte packets
+ 1  139.222.0.1 (139.222.0.1)  1.552 ms  1.952 ms  2.356 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  0.274 ms  0.483 ms  0.458 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  1.075 ms  1.064 ms  1.044 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  1.142 ms  1.252 ms  1.291 ms
+ 5  boundary1-from-boundary2.uea.ac.uk (10.62.92.70)  1.278 ms  1.413 ms  1.491 ms
+ 6  xe-2-0-0.lowdss-ban1.ja.net (146.97.41.201)  5.767 ms  5.816 ms  5.799 ms
+ 7  ae26.lowdss-sbr1.ja.net (146.97.35.245)  8.905 ms  7.017 ms  7.130 ms
+ 8  ae31.londtw-sbr2.ja.net (146.97.33.30)  7.647 ms  7.629 ms  7.572 ms
+ 9  ae29.londtn-sbr1.ja.net (146.97.33.10)  7.599 ms  10.496 ms  7.590 ms
+10  ae0.londtn-ban3.ja.net (146.97.35.170)  7.650 ms  7.641 ms  7.625 ms
+11  40ge1-3.core1.lon2.he.net (195.66.224.21)  7.864 ms  7.919 ms  7.871 ms
+12  100ge5-1.core1.par2.he.net (184.105.223.254)  83.488 ms  79.886 ms  79.811 ms
+13  100ge6-1.core2.mrs1.he.net (184.105.222.22)  34.980 ms  34.162 ms  34.143 ms
+14  100ge10-1.core1.sin1.he.net (184.105.65.13)  166.576 ms  166.571 ms  166.422 ms
+15  100ge14-2.core1.hkg1.he.net (184.105.222.101)  207.678 ms  207.667 ms  207.419 ms
+16  * * *
+17  * * *
+18  202.181.132.41 (202.181.132.41)  202.443 ms  202.756 ms *
+
+1493496004
+traceroute to 202.181.132.41 (202.181.132.41), 30 hops max, 60 byte packets
+ 1  139.222.0.1 (139.222.0.1)  1.426 ms  2.450 ms  2.424 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  0.457 ms  0.438 ms  1.184 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  1.165 ms  1.146 ms  1.129 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  1.437 ms  1.303 ms  1.140 ms
+ 5  boundary1-from-boundary2.uea.ac.uk (10.62.92.70)  1.186 ms  1.068 ms  1.260 ms
+ 6  xe-2-0-0.lowdss-ban1.ja.net (146.97.41.201)  4.211 ms  4.365 ms  4.326 ms
+ 7  ae26.lowdss-sbr1.ja.net (146.97.35.245)  9.406 ms  9.419 ms  9.403 ms
+ 8  ae31.londtw-sbr2.ja.net (146.97.33.30)  7.913 ms  7.881 ms  7.852 ms
+ 9  ae29.londtn-sbr1.ja.net (146.97.33.10)  7.543 ms  7.563 ms  7.542 ms
+10  ae0.londtn-ban3.ja.net (146.97.35.170)  7.560 ms  7.666 ms  7.675 ms
+11  40ge1-3.core1.lon2.he.net (195.66.224.21)  26.273 ms  25.740 ms  25.752 ms
+12  100ge5-1.core1.par2.he.net (184.105.223.254)  27.771 ms  23.088 ms  23.206 ms
+13  100ge6-1.core2.mrs1.he.net (184.105.222.22)  31.172 ms  31.155 ms  31.038 ms
+14  100ge10-1.core1.sin1.he.net (184.105.65.13)  167.717 ms  167.601 ms  167.669 ms
+15  100ge14-2.core1.hkg1.he.net (184.105.222.101)  202.439 ms  202.428 ms  202.414 ms
+16  * * *
+17  * * *
+18  * * 202.181.132.41 (202.181.132.41)  203.849 ms
+
+1493517603
+traceroute to 202.181.132.41 (202.181.132.41), 30 hops max, 60 byte packets
+ 1  139.222.0.1 (139.222.0.1)  1.041 ms  1.408 ms  1.803 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  0.428 ms  0.419 ms  0.402 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  1.042 ms  1.030 ms  0.990 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  1.343 ms  1.458 ms  1.179 ms
+ 5  boundary1-from-boundary2.uea.ac.uk (10.62.92.70)  1.117 ms  1.318 ms  1.191 ms
+ 6  xe-2-0-0.lowdss-ban1.ja.net (146.97.41.201)  4.123 ms  4.750 ms  4.115 ms
+ 7  ae26.lowdss-sbr1.ja.net (146.97.35.245)  4.301 ms  4.371 ms  4.286 ms
+ 8  ae31.londtw-sbr2.ja.net (146.97.33.30)  7.545 ms  7.575 ms  7.516 ms
+ 9  ae29.londtn-sbr1.ja.net (146.97.33.10)  9.272 ms  8.084 ms  8.124 ms
+10  ae0.londtn-ban3.ja.net (146.97.35.170)  7.407 ms  8.100 ms  8.087 ms
+11  40ge1-3.core1.lon2.he.net (195.66.224.21)  7.786 ms  8.384 ms  7.746 ms
+12  100ge5-1.core1.par2.he.net (184.105.223.254)  34.184 ms  33.735 ms  31.140 ms
+13  100ge6-1.core2.mrs1.he.net (184.105.222.22)  28.193 ms  25.731 ms  25.801 ms
+14  100ge10-1.core1.sin1.he.net (184.105.65.13)  163.815 ms  163.798 ms  163.860 ms
+15  100ge14-2.core1.hkg1.he.net (184.105.222.101)  203.891 ms  204.046 ms  204.029 ms
+16  * * *
+17  * * *
+18  202.181.132.41 (202.181.132.41)  199.312 ms *  199.163 ms
+
+1493539204
+traceroute to 202.181.132.41 (202.181.132.41), 30 hops max, 60 byte packets
+ 1  139.222.0.1 (139.222.0.1)  1.194 ms  1.513 ms  1.906 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  0.399 ms  0.437 ms  0.709 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  1.230 ms  1.209 ms  1.189 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  1.514 ms  1.372 ms  1.199 ms
+ 5  boundary1-from-boundary2.uea.ac.uk (10.62.92.70)  1.168 ms  1.349 ms  1.230 ms
+ 6  xe-2-0-0.lowdss-ban1.ja.net (146.97.41.201)  4.157 ms  4.401 ms  4.306 ms
+ 7  ae26.lowdss-sbr1.ja.net (146.97.35.245)  4.443 ms  4.575 ms  4.485 ms
+ 8  ae31.londtw-sbr2.ja.net (146.97.33.30)  7.902 ms  7.883 ms  7.685 ms
+ 9  ae29.londtn-sbr1.ja.net (146.97.33.10)  7.662 ms  7.595 ms  7.605 ms
+10  ae0.londtn-ban3.ja.net (146.97.35.170)  7.582 ms  7.672 ms  7.657 ms
+11  40ge1-3.core1.lon2.he.net (195.66.224.21)  18.595 ms  17.978 ms  17.589 ms
+12  100ge5-1.core1.par2.he.net (184.105.223.254)  16.088 ms  16.217 ms  33.794 ms
+13  100ge6-1.core2.mrs1.he.net (184.105.222.22)  26.375 ms  35.378 ms  35.518 ms
+14  100ge10-1.core1.sin1.he.net (184.105.65.13)  167.271 ms  167.254 ms  167.372 ms
+15  100ge14-2.core1.hkg1.he.net (184.105.222.101)  201.708 ms  201.694 ms  201.636 ms
+16  * * *
+17  * * *
+18  * * 202.181.132.41 (202.181.132.41)  203.403 ms
+
+1493560805
+traceroute to 202.181.132.41 (202.181.132.41), 30 hops max, 60 byte packets
+ 1  139.222.0.1 (139.222.0.1)  1.254 ms  1.657 ms  1.854 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  0.371 ms  0.721 ms  0.685 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  1.495 ms  1.043 ms  1.009 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  1.411 ms  1.388 ms  1.317 ms
+ 5  boundary1-from-boundary2.uea.ac.uk (10.62.92.70)  1.298 ms  1.346 ms  1.414 ms
+ 6  xe-2-0-0.lowdss-ban1.ja.net (146.97.41.201)  4.267 ms  4.297 ms  4.239 ms
+ 7  ae26.lowdss-sbr1.ja.net (146.97.35.245)  4.291 ms  4.252 ms  4.264 ms
+ 8  ae31.londtw-sbr2.ja.net (146.97.33.30)  7.885 ms  7.899 ms  7.882 ms
+ 9  ae29.londtn-sbr1.ja.net (146.97.33.10)  7.577 ms  7.396 ms  7.516 ms
+10  ae0.londtn-ban3.ja.net (146.97.35.170)  7.525 ms  7.583 ms  7.632 ms
+11  40ge1-3.core1.lon2.he.net (195.66.224.21)  18.891 ms  17.444 ms  14.338 ms
+12  100ge5-1.core1.par2.he.net (184.105.223.254)  24.140 ms  24.324 ms  24.310 ms
+13  100ge6-1.core2.mrs1.he.net (184.105.222.22)  34.879 ms  30.644 ms  30.565 ms
+14  100ge10-1.core1.sin1.he.net (184.105.65.13)  163.895 ms  163.775 ms  163.763 ms
+15  100ge14-2.core1.hkg1.he.net (184.105.222.101)  197.668 ms  197.914 ms  197.770 ms
+16  * * *
+17  * * *
+18  202.181.132.41 (202.181.132.41)  199.202 ms  199.102 ms *
+
+1493582774
+traceroute to 202.181.132.41 (202.181.132.41), 30 hops max, 60 byte packets
+ 1  139.222.0.1 (139.222.0.1)  2.551 ms  2.596 ms  2.591 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  0.396 ms  2.420 ms  2.390 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  2.379 ms  2.415 ms  2.380 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  2.367 ms  2.374 ms  2.347 ms
+ 5  boundary1-from-boundary2.uea.ac.uk (10.62.92.70)  2.294 ms  2.278 ms  2.198 ms
+ 6  xe-2-0-0.lowdss-ban1.ja.net (146.97.41.201)  4.131 ms  4.243 ms  4.343 ms
+ 7  ae26.lowdss-sbr1.ja.net (146.97.35.245)  4.643 ms  4.628 ms  4.611 ms
+ 8  ae31.londtw-sbr2.ja.net (146.97.33.30)  7.649 ms  7.552 ms  7.605 ms
+ 9  ae29.londtn-sbr1.ja.net (146.97.33.10)  7.578 ms  7.566 ms  7.455 ms
+10  ae0.londtn-ban3.ja.net (146.97.35.170)  7.429 ms  7.500 ms  7.477 ms
+11  40ge1-3.core1.lon2.he.net (195.66.224.21)  11.123 ms  11.046 ms  11.048 ms
+12  100ge5-1.core1.par2.he.net (184.105.223.254)  23.540 ms  23.533 ms  23.523 ms
+13  100ge6-1.core2.mrs1.he.net (184.105.222.22)  25.713 ms  35.801 ms  35.781 ms
+14  100ge10-1.core1.sin1.he.net (184.105.65.13)  166.345 ms  166.059 ms  166.048 ms
+15  100ge14-2.core1.hkg1.he.net (184.105.222.101)  197.502 ms  197.612 ms  197.474 ms
+16  * * *
+17  * * *
+18  * 202.181.132.41 (202.181.132.41)  198.957 ms *
+
+1493604008
+traceroute to 202.181.132.41 (202.181.132.41), 30 hops max, 60 byte packets
+ 1  139.222.0.1 (139.222.0.1)  1.058 ms  1.440 ms  1.851 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  0.717 ms  0.697 ms  0.642 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  0.997 ms  0.975 ms  0.951 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  1.282 ms  1.115 ms  1.305 ms
+ 5  boundary1-from-boundary2.uea.ac.uk (10.62.92.70)  1.127 ms  1.222 ms  1.334 ms
+ 6  xe-2-0-0.lowdss-ban1.ja.net (146.97.41.201)  4.214 ms  4.320 ms  4.303 ms
+ 7  ae26.lowdss-sbr1.ja.net (146.97.35.245)  4.381 ms  4.336 ms  4.472 ms
+ 8  ae31.londtw-sbr2.ja.net (146.97.33.30)  8.626 ms  8.656 ms  8.637 ms
+ 9  ae29.londtn-sbr1.ja.net (146.97.33.10)  7.789 ms  7.773 ms  7.722 ms
+10  ae0.londtn-ban3.ja.net (146.97.35.170)  7.799 ms  7.813 ms  7.797 ms
+11  40ge1-3.core1.lon2.he.net (195.66.224.21)  11.605 ms  11.121 ms  18.679 ms
+12  100ge5-1.core1.par2.he.net (184.105.223.254)  39.416 ms  39.167 ms  39.259 ms
+13  100ge6-1.core2.mrs1.he.net (184.105.222.22)  26.151 ms  26.640 ms  26.627 ms
+14  100ge10-1.core1.sin1.he.net (184.105.65.13)  167.680 ms  167.674 ms  167.658 ms
+15  100ge14-2.core1.hkg1.he.net (184.105.222.101)  201.973 ms  201.649 ms  201.671 ms
+16  * * *
+17  * * *
+18  * * 202.181.132.41 (202.181.132.41)  203.500 ms
+
+1493625608
+traceroute to 202.181.132.41 (202.181.132.41), 30 hops max, 60 byte packets
+ 1  139.222.0.1 (139.222.0.1)  0.992 ms  1.639 ms  1.762 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  0.346 ms  0.717 ms  0.702 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  1.108 ms  1.079 ms  1.033 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  1.409 ms  1.336 ms  1.309 ms
+ 5  boundary1-from-boundary2.uea.ac.uk (10.62.92.70)  1.288 ms  1.321 ms  1.154 ms
+ 6  xe-2-0-0.lowdss-ban1.ja.net (146.97.41.201)  4.224 ms  4.326 ms  4.307 ms
+ 7  ae26.lowdss-sbr1.ja.net (146.97.35.245)  4.352 ms  4.372 ms  4.294 ms
+ 8  ae31.londtw-sbr2.ja.net (146.97.33.30)  7.472 ms  7.458 ms  7.435 ms
+ 9  ae29.londtn-sbr1.ja.net (146.97.33.10)  7.513 ms  7.642 ms  7.630 ms
+10  ae0.londtn-ban3.ja.net (146.97.35.170)  7.617 ms  7.604 ms  7.368 ms
+11  40ge1-3.core1.lon2.he.net (195.66.224.21)  11.055 ms  11.042 ms  7.904 ms
+12  100ge5-1.core1.par2.he.net (184.105.223.254)  15.942 ms  15.960 ms  15.769 ms
+13  100ge6-1.core2.mrs1.he.net (184.105.222.22)  25.754 ms  35.669 ms  35.912 ms
+14  100ge10-1.core1.sin1.he.net (184.105.65.13)  163.765 ms  163.753 ms  163.810 ms
+15  100ge14-2.core1.hkg1.he.net (184.105.222.101)  197.517 ms  197.367 ms  197.354 ms
+16  * * *
+17  * * *
+18  * * 202.181.132.41 (202.181.132.41)  199.113 ms
+
+1493647207
+traceroute to 202.181.132.41 (202.181.132.41), 30 hops max, 60 byte packets
+ 1  139.222.0.1 (139.222.0.1)  1.177 ms  1.529 ms  1.674 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  0.342 ms  0.864 ms  0.707 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  1.161 ms  1.142 ms  1.124 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  1.383 ms  1.151 ms  1.236 ms
+ 5  boundary1-from-boundary2.uea.ac.uk (10.62.92.70)  1.136 ms  1.249 ms  1.364 ms
+ 6  xe-2-0-0.lowdss-ban1.ja.net (146.97.41.201)  4.350 ms  4.347 ms  4.638 ms
+ 7  ae26.lowdss-sbr1.ja.net (146.97.35.245)  4.631 ms  4.617 ms  4.598 ms
+ 8  ae31.londtw-sbr2.ja.net (146.97.33.30)  7.997 ms  7.948 ms  7.937 ms
+ 9  ae29.londtn-sbr1.ja.net (146.97.33.10)  7.927 ms  7.908 ms  8.034 ms
+10  ae0.londtn-ban3.ja.net (146.97.35.170)  8.017 ms  8.003 ms  7.989 ms
+11  40ge1-3.core1.lon2.he.net (195.66.224.21)  8.047 ms  19.154 ms  11.892 ms
+12  100ge5-1.core1.par2.he.net (184.105.223.254)  20.645 ms  20.518 ms  20.584 ms
+13  100ge6-1.core2.mrs1.he.net (184.105.222.22)  26.639 ms  35.106 ms  35.192 ms
+14  100ge10-1.core1.sin1.he.net (184.105.65.13)  170.000 ms  170.121 ms  170.137 ms
+15  100ge14-2.core1.hkg1.he.net (184.105.222.101)  205.329 ms  205.138 ms  205.297 ms
+16  * * *
+17  * * *
+18  202.181.132.41 (202.181.132.41)  206.777 ms * *
+
+1493668804
+traceroute to 202.181.132.41 (202.181.132.41), 30 hops max, 60 byte packets
+ 1  139.222.0.1 (139.222.0.1)  1.279 ms  1.739 ms  1.955 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  0.466 ms  0.765 ms  0.749 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  1.129 ms  1.097 ms  1.099 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  1.565 ms  1.543 ms  1.539 ms
+ 5  boundary1-from-boundary2.uea.ac.uk (10.62.92.70)  1.505 ms  1.490 ms  1.480 ms
+ 6  xe-2-0-0.lowdss-ban1.ja.net (146.97.41.201)  4.183 ms  4.307 ms  4.241 ms
+ 7  ae26.lowdss-sbr1.ja.net (146.97.35.245)  4.350 ms  4.364 ms  4.351 ms
+ 8  ae31.londtw-sbr2.ja.net (146.97.33.30)  7.899 ms  7.886 ms  7.772 ms
+ 9  ae29.londtn-sbr1.ja.net (146.97.33.10)  7.882 ms  7.838 ms  7.853 ms
+10  ae0.londtn-ban3.ja.net (146.97.35.170)  7.974 ms  7.897 ms  7.941 ms
+11  40ge1-3.core1.lon2.he.net (195.66.224.21)  16.174 ms  15.667 ms  11.510 ms
+12  100ge5-1.core1.par2.he.net (184.105.223.254)  25.280 ms  25.057 ms  25.170 ms
+13  100ge6-1.core2.mrs1.he.net (184.105.222.22)  35.798 ms  31.166 ms  31.253 ms
+14  100ge10-1.core1.sin1.he.net (184.105.65.13)  166.195 ms  166.062 ms  166.163 ms
+15  100ge14-2.core1.hkg1.he.net (184.105.222.101)  200.490 ms  200.265 ms  200.461 ms
+16  * * *
+17  * * *
+18  202.181.132.41 (202.181.132.41)  202.044 ms *  202.166 ms
+
+1493690404
+traceroute to 202.181.132.41 (202.181.132.41), 30 hops max, 60 byte packets
+ 1  139.222.0.1 (139.222.0.1)  1.065 ms  1.378 ms  2.003 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  0.377 ms  0.363 ms  0.943 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  0.985 ms  1.044 ms  0.946 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  1.156 ms  1.372 ms  1.225 ms
+ 5  boundary1-from-boundary2.uea.ac.uk (10.62.92.70)  2.483 ms  2.283 ms  2.564 ms
+ 6  xe-2-0-0.lowdss-ban1.ja.net (146.97.41.201)  4.084 ms  4.557 ms  4.221 ms
+ 7  ae26.lowdss-sbr1.ja.net (146.97.35.245)  4.486 ms  4.849 ms  4.451 ms
+ 8  ae31.londtw-sbr2.ja.net (146.97.33.30)  7.686 ms  7.669 ms  7.587 ms
+ 9  ae29.londtn-sbr1.ja.net (146.97.33.10)  7.570 ms  7.622 ms  7.597 ms
+10  ae0.londtn-ban3.ja.net (146.97.35.170)  7.570 ms  7.690 ms  7.673 ms
+11  40ge1-3.core1.lon2.he.net (195.66.224.21)  12.180 ms  12.163 ms  12.152 ms
+12  100ge5-1.core1.par2.he.net (184.105.223.254)  15.850 ms  15.877 ms  15.858 ms
+13  100ge6-1.core2.mrs1.he.net (184.105.222.22)  26.074 ms  25.842 ms  25.823 ms
+14  100ge10-1.core1.sin1.he.net (184.105.65.13)  163.206 ms  163.185 ms  163.235 ms
+15  100ge13-2.core1.tyo1.he.net (184.105.64.254)  235.543 ms  233.904 ms  233.830 ms
+16  100ge6-1.core1.hkg1.he.net (184.105.64.129)  282.270 ms  282.297 ms  282.395 ms
+17  * * *
+18  * * *
+19  202.181.132.41 (202.181.132.41)  284.028 ms  284.273 ms *
+
+1493712005
+traceroute to 202.181.132.41 (202.181.132.41), 30 hops max, 60 byte packets
+ 1  139.222.0.1 (139.222.0.1)  1.217 ms  1.443 ms  1.838 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  0.537 ms  0.518 ms  0.500 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  1.042 ms  1.033 ms  1.009 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  1.300 ms  1.116 ms  1.365 ms
+ 5  boundary1-from-boundary2.uea.ac.uk (10.62.92.70)  1.213 ms  1.318 ms  1.402 ms
+ 6  xe-2-0-0.lowdss-ban1.ja.net (146.97.41.201)  4.150 ms  4.369 ms  4.356 ms
+ 7  ae26.lowdss-sbr1.ja.net (146.97.35.245)  4.505 ms  4.489 ms  4.469 ms
+ 8  ae31.londtw-sbr2.ja.net (146.97.33.30)  7.641 ms  7.626 ms  7.604 ms
+ 9  ae29.londtn-sbr1.ja.net (146.97.33.10)  7.626 ms  7.463 ms  7.599 ms
+10  ae0.londtn-ban3.ja.net (146.97.35.170)  7.617 ms  7.715 ms  7.777 ms
+11  40ge1-3.core1.lon2.he.net (195.66.224.21)  14.509 ms  14.180 ms  9.743 ms
+12  100ge5-1.core1.par2.he.net (184.105.223.254)  22.987 ms  23.153 ms  23.222 ms
+13  100ge6-1.core2.mrs1.he.net (184.105.222.22)  25.700 ms  26.294 ms  26.271 ms
+14  100ge10-1.core1.sin1.he.net (184.105.65.13)  165.303 ms  165.288 ms  165.204 ms
+15  100ge13-2.core1.tyo1.he.net (184.105.64.254)  235.385 ms  235.406 ms  235.247 ms
+16  100ge6-1.core1.hkg1.he.net (184.105.64.129)  282.886 ms  291.045 ms  290.978 ms
+17  * * *
+18  * * *
+19  202.181.132.41 (202.181.132.41)  284.403 ms * *
+
+1493733604
+traceroute to 202.181.132.41 (202.181.132.41), 30 hops max, 60 byte packets
+ 1  139.222.0.1 (139.222.0.1)  1.316 ms  1.455 ms  1.847 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  0.462 ms  0.439 ms  0.408 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  1.104 ms  1.076 ms  1.048 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  1.115 ms  1.340 ms  1.115 ms
+ 5  boundary1-from-boundary2.uea.ac.uk (10.62.92.70)  1.095 ms  1.335 ms  1.191 ms
+ 6  xe-2-0-0.lowdss-ban1.ja.net (146.97.41.201)  4.165 ms  4.472 ms  4.437 ms
+ 7  ae26.lowdss-sbr1.ja.net (146.97.35.245)  4.521 ms  4.560 ms  4.545 ms
+ 8  ae31.londtw-sbr2.ja.net (146.97.33.30)  7.844 ms  7.835 ms  7.706 ms
+ 9  ae29.londtn-sbr1.ja.net (146.97.33.10)  7.551 ms  7.580 ms  7.516 ms
+10  ae0.londtn-ban3.ja.net (146.97.35.170)  7.624 ms  7.617 ms  7.584 ms
+11  40ge1-3.core1.lon2.he.net (195.66.224.21)  15.776 ms  15.009 ms  14.514 ms
+12  100ge5-1.core1.par2.he.net (184.105.223.254)  15.779 ms  15.630 ms  15.738 ms
+13  100ge6-1.core2.mrs1.he.net (184.105.222.22)  27.575 ms  25.716 ms  25.731 ms
+14  100ge10-1.core1.sin1.he.net (184.105.65.13)  163.582 ms  163.523 ms  163.342 ms
+15  100ge13-2.core1.tyo1.he.net (184.105.64.254)  233.266 ms  233.356 ms  233.338 ms
+16  100ge6-1.core1.hkg1.he.net (184.105.64.129)  285.272 ms  282.823 ms  282.803 ms
+17  * * *
+18  * * *
+19  202.181.132.41 (202.181.132.41)  284.466 ms * *
+
+1493755212
+traceroute to 202.181.132.41 (202.181.132.41), 30 hops max, 60 byte packets
+ 1  139.222.0.1 (139.222.0.1)  1.203 ms  1.530 ms  1.994 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  0.390 ms  0.415 ms  0.566 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  0.970 ms  1.034 ms  1.012 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  1.227 ms  1.165 ms  1.648 ms
+ 5  boundary1-from-boundary2.uea.ac.uk (10.62.92.70)  1.623 ms  1.102 ms  1.315 ms
+ 6  xe-2-0-0.lowdss-ban1.ja.net (146.97.41.201)  4.246 ms  4.472 ms  4.457 ms
+ 7  ae26.lowdss-sbr1.ja.net (146.97.35.245)  4.600 ms  4.538 ms  4.572 ms
+ 8  ae31.londtw-sbr2.ja.net (146.97.33.30)  13.237 ms  13.230 ms  13.212 ms
+ 9  ae29.londtn-sbr1.ja.net (146.97.33.10)  7.616 ms  7.603 ms  7.416 ms
+10  ae0.londtn-ban3.ja.net (146.97.35.170)  7.574 ms  7.522 ms  7.544 ms
+11  40ge1-3.core1.lon2.he.net (195.66.224.21)  18.621 ms  18.302 ms  14.455 ms
+12  100ge5-1.core1.par2.he.net (184.105.223.254)  16.036 ms  16.134 ms  16.141 ms
+13  100ge6-1.core2.mrs1.he.net (184.105.222.22)  26.482 ms  25.650 ms  25.715 ms
+14  100ge10-1.core1.sin1.he.net (184.105.65.13)  163.884 ms  163.720 ms  163.855 ms
+15  100ge13-2.core1.tyo1.he.net (184.105.64.254)  230.330 ms  230.477 ms  230.341 ms
+16  100ge6-1.core1.hkg1.he.net (184.105.64.129)  292.478 ms  283.598 ms  283.529 ms
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  202.181.132.41 (202.181.132.41)  260.267 ms  260.373 ms  260.000 ms
+
+1493776804
+traceroute to 202.181.132.41 (202.181.132.41), 30 hops max, 60 byte packets
+ 1  139.222.0.1 (139.222.0.1)  1.147 ms  1.532 ms  1.931 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  0.544 ms  0.529 ms  0.514 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  1.156 ms  1.137 ms  1.043 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  1.487 ms  1.354 ms  1.534 ms
+ 5  boundary1-from-boundary2.uea.ac.uk (10.62.92.70)  1.500 ms  1.511 ms  1.605 ms
+ 6  xe-2-0-0.lowdss-ban1.ja.net (146.97.41.201)  4.351 ms  4.456 ms  4.687 ms
+ 7  ae26.lowdss-sbr1.ja.net (146.97.35.245)  7.197 ms  7.177 ms  7.163 ms
+ 8  ae31.londtw-sbr2.ja.net (146.97.33.30)  8.210 ms  8.192 ms  8.171 ms
+ 9  ae29.londtn-sbr1.ja.net (146.97.33.10)  7.620 ms  7.568 ms  7.945 ms
+10  ae0.londtn-ban3.ja.net (146.97.35.170)  7.925 ms  7.590 ms  7.572 ms
+11  40ge1-3.core1.lon2.he.net (195.66.224.21)  13.449 ms  13.113 ms  8.919 ms
+12  100ge5-1.core1.par2.he.net (184.105.223.254)  16.384 ms  16.127 ms  16.057 ms
+13  100ge6-1.core2.mrs1.he.net (184.105.222.22)  26.284 ms  26.220 ms  26.169 ms
+14  100ge10-1.core1.sin1.he.net (184.105.65.13)  165.097 ms  165.241 ms  165.230 ms
+15  100ge13-2.core1.tyo1.he.net (184.105.64.254)  241.236 ms  241.184 ms  241.211 ms
+16  100ge6-1.core1.hkg1.he.net (184.105.64.129)  286.429 ms  289.711 ms  289.484 ms
+17  * * *
+18  * * *
+19  202.181.132.41 (202.181.132.41)  286.920 ms *  287.247 ms
+
+1493798405
+traceroute to 202.181.132.41 (202.181.132.41), 30 hops max, 60 byte packets
+ 1  139.222.0.1 (139.222.0.1)  1.184 ms  1.543 ms  1.933 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  0.489 ms  1.030 ms  1.022 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  1.104 ms  1.152 ms  1.073 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  1.605 ms  1.459 ms  1.287 ms
+ 5  boundary1-from-boundary2.uea.ac.uk (10.62.92.70)  1.178 ms  1.274 ms  1.397 ms
+ 6  xe-2-0-0.lowdss-ban1.ja.net (146.97.41.201)  4.226 ms  4.382 ms  4.539 ms
+ 7  ae26.lowdss-sbr1.ja.net (146.97.35.245)  4.481 ms  4.567 ms  4.406 ms
+ 8  ae31.londtw-sbr2.ja.net (146.97.33.30)  7.759 ms  7.643 ms  7.613 ms
+ 9  ae29.londtn-sbr1.ja.net (146.97.33.10)  42.257 ms  7.584 ms  42.313 ms
+10  ae0.londtn-ban3.ja.net (146.97.35.170)  7.868 ms  7.851 ms  7.828 ms
+11  40ge1-3.core1.lon2.he.net (195.66.224.21)  17.421 ms  16.889 ms  12.579 ms
+12  100ge5-1.core1.par2.he.net (184.105.223.254)  16.055 ms  16.290 ms  16.184 ms
+13  100ge6-1.core2.mrs1.he.net (184.105.222.22)  26.037 ms  26.081 ms  26.031 ms
+14  100ge10-1.core1.sin1.he.net (184.105.65.13)  168.895 ms  168.882 ms  168.869 ms
+15  100ge13-2.core1.tyo1.he.net (184.105.64.254)  231.362 ms  231.429 ms  231.787 ms
+16  100ge6-1.core1.hkg1.he.net (184.105.64.129)  284.845 ms  284.614 ms  284.529 ms
+17  * * *
+18  * * *
+19  202.181.132.41 (202.181.132.41)  286.271 ms * *
+
+1493820006
+traceroute to 202.181.132.41 (202.181.132.41), 30 hops max, 60 byte packets
+ 1  139.222.0.1 (139.222.0.1)  0.975 ms  1.356 ms  1.758 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  0.405 ms  0.389 ms  0.373 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  0.970 ms  0.920 ms  0.940 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  1.086 ms  1.217 ms  1.328 ms
+ 5  boundary1-from-boundary2.uea.ac.uk (10.62.92.70)  1.138 ms  1.218 ms  1.320 ms
+ 6  xe-2-0-0.lowdss-ban1.ja.net (146.97.41.201)  4.174 ms  9.043 ms  8.895 ms
+ 7  ae26.lowdss-sbr1.ja.net (146.97.35.245)  4.726 ms  4.459 ms  4.448 ms
+ 8  ae31.londtw-sbr2.ja.net (146.97.33.30)  7.744 ms  7.728 ms  7.563 ms
+ 9  ae29.londtn-sbr1.ja.net (146.97.33.10)  7.708 ms  7.752 ms  7.680 ms
+10  ae0.londtn-ban3.ja.net (146.97.35.170)  8.039 ms  8.088 ms  8.071 ms
+11  40ge1-3.core1.lon2.he.net (195.66.224.21)  8.217 ms  8.442 ms  16.986 ms
+12  100ge5-1.core1.par2.he.net (184.105.223.254)  41.995 ms  42.095 ms  38.487 ms
+13  100ge6-1.core2.mrs1.he.net (184.105.222.22)  27.401 ms  27.230 ms  27.376 ms
+14  100ge10-1.core1.sin1.he.net (184.105.65.13)  163.865 ms  165.219 ms  165.254 ms
+15  100ge13-2.core1.tyo1.he.net (184.105.64.254)  238.858 ms  238.847 ms  239.009 ms
+16  100ge6-1.core1.hkg1.he.net (184.105.64.129)  287.465 ms  288.183 ms  288.206 ms
+17  * * *
+18  * * *
+19  202.181.132.41 (202.181.132.41)  285.137 ms * *
+
+1493841604
+traceroute to 202.181.132.41 (202.181.132.41), 30 hops max, 60 byte packets
+ 1  139.222.0.1 (139.222.0.1)  1.252 ms  1.723 ms  1.881 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  0.455 ms  0.441 ms  0.800 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  1.095 ms  1.060 ms  1.032 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  1.518 ms  1.491 ms  1.478 ms
+ 5  boundary1-from-boundary2.uea.ac.uk (10.62.92.70)  2.820 ms  2.893 ms  2.996 ms
+ 6  xe-2-0-0.lowdss-ban1.ja.net (146.97.41.201)  4.147 ms  4.226 ms  4.245 ms
+ 7  ae26.lowdss-sbr1.ja.net (146.97.35.245)  4.397 ms  4.384 ms  4.316 ms
+ 8  ae31.londtw-sbr2.ja.net (146.97.33.30)  8.020 ms  8.048 ms  8.035 ms
+ 9  ae29.londtn-sbr1.ja.net (146.97.33.10)  7.501 ms  7.655 ms  7.622 ms
+10  ae0.londtn-ban3.ja.net (146.97.35.170)  7.602 ms  7.637 ms  7.617 ms
+11  40ge1-3.core1.lon2.he.net (195.66.224.21)  15.824 ms  15.863 ms  12.091 ms
+12  100ge5-1.core1.par2.he.net (184.105.223.254)  16.962 ms  16.793 ms  16.929 ms
+13  100ge6-1.core2.mrs1.he.net (184.105.222.22)  26.233 ms  36.068 ms  36.191 ms
+14  100ge10-1.core1.sin1.he.net (184.105.65.13)  165.279 ms  165.262 ms  165.464 ms
+15  100ge13-2.core1.tyo1.he.net (184.105.64.254)  232.531 ms  232.385 ms  232.469 ms
+16  100ge6-1.core1.hkg1.he.net (184.105.64.129)  285.994 ms  286.016 ms  285.929 ms
+17  * * *
+18  * * *
+19  202.181.132.41 (202.181.132.41)  287.672 ms  287.380 ms  287.366 ms
+
+1493863204
+traceroute to 202.181.132.41 (202.181.132.41), 30 hops max, 60 byte packets
+ 1  139.222.0.1 (139.222.0.1)  1.146 ms  1.516 ms  1.853 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  0.430 ms  0.416 ms  0.410 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  1.304 ms  1.280 ms  1.261 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  1.370 ms  1.449 ms  1.211 ms
+ 5  boundary1-from-boundary2.uea.ac.uk (10.62.92.70)  1.189 ms  1.337 ms  1.260 ms
+ 6  xe-2-0-0.lowdss-ban1.ja.net (146.97.41.201)  4.160 ms  4.225 ms  4.333 ms
+ 7  ae26.lowdss-sbr1.ja.net (146.97.35.245)  4.323 ms  4.342 ms  4.320 ms
+ 8  ae31.londtw-sbr2.ja.net (146.97.33.30)  7.641 ms  7.628 ms  7.573 ms
+ 9  ae29.londtn-sbr1.ja.net (146.97.33.10)  7.593 ms  7.619 ms  7.592 ms
+10  ae0.londtn-ban3.ja.net (146.97.35.170)  7.543 ms  7.701 ms  7.672 ms
+11  40ge1-3.core1.lon2.he.net (195.66.224.21)  8.502 ms  8.034 ms  15.148 ms
+12  100ge5-1.core1.par2.he.net (184.105.223.254)  56.126 ms  56.331 ms  56.369 ms
+13  100ge6-1.core2.mrs1.he.net (184.105.222.22)  31.781 ms  27.505 ms  27.486 ms
+14  100ge10-1.core1.sin1.he.net (184.105.65.13)  166.586 ms  166.919 ms  166.907 ms
+15  100ge13-2.core1.tyo1.he.net (184.105.64.254)  240.607 ms  240.346 ms  240.575 ms
+16  100ge6-1.core1.hkg1.he.net (184.105.64.129)  291.357 ms  290.759 ms  290.866 ms
+17  * * *
+18  * * *
+19  202.181.132.41 (202.181.132.41)  289.411 ms *  289.077 ms
+
+1493884806
+traceroute to 202.181.132.41 (202.181.132.41), 30 hops max, 60 byte packets
+ 1  139.222.0.1 (139.222.0.1)  1.356 ms  1.692 ms  2.177 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  0.505 ms  0.489 ms  0.467 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  0.986 ms  0.970 ms  0.952 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  1.236 ms  1.355 ms  1.053 ms
+ 5  boundary1-from-boundary2.uea.ac.uk (10.62.92.70)  1.235 ms  1.341 ms  1.064 ms
+ 6  xe-2-0-0.lowdss-ban1.ja.net (146.97.41.201)  4.101 ms  4.339 ms  4.362 ms
+ 7  ae26.lowdss-sbr1.ja.net (146.97.35.245)  4.456 ms  4.433 ms  4.422 ms
+ 8  ae31.londtw-sbr2.ja.net (146.97.33.30)  7.616 ms  7.628 ms  7.607 ms
+ 9  ae29.londtn-sbr1.ja.net (146.97.33.10)  7.465 ms  7.610 ms  7.555 ms
+10  ae0.londtn-ban3.ja.net (146.97.35.170)  7.642 ms  7.578 ms  7.418 ms
+11  40ge1-3.core1.lon2.he.net (195.66.224.21)  13.675 ms  13.242 ms  9.015 ms
+12  100ge5-1.core1.par2.he.net (184.105.223.254)  33.025 ms  33.137 ms  33.125 ms
+13  100ge6-1.core2.mrs1.he.net (184.105.222.22)  25.834 ms  25.898 ms  25.879 ms
+14  100ge10-1.core1.sin1.he.net (184.105.65.13)  174.638 ms  174.775 ms  174.607 ms
+15  100ge13-2.core1.tyo1.he.net (184.105.64.254)  230.521 ms  230.503 ms  230.363 ms
+16  100ge6-1.core1.hkg1.he.net (184.105.64.129)  289.665 ms  293.564 ms  293.494 ms
+17  * * *
+18  * * *
+19  * 202.181.132.41 (202.181.132.41)  285.339 ms  285.322 ms
+
+1493906405
+traceroute to 202.181.132.41 (202.181.132.41), 30 hops max, 60 byte packets
+ 1  139.222.0.1 (139.222.0.1)  1.103 ms  1.518 ms  2.001 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  0.506 ms  0.499 ms  0.908 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  1.101 ms  1.089 ms  1.032 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  1.391 ms  1.181 ms  1.492 ms
+ 5  boundary1-from-boundary2.uea.ac.uk (10.62.92.70)  1.140 ms  1.223 ms  1.437 ms
+ 6  xe-2-0-0.lowdss-ban1.ja.net (146.97.41.201)  4.300 ms  4.322 ms  4.261 ms
+ 7  ae26.lowdss-sbr1.ja.net (146.97.35.245)  4.347 ms  4.337 ms  4.346 ms
+ 8  ae31.londtw-sbr2.ja.net (146.97.33.30)  7.538 ms  7.564 ms  7.537 ms
+ 9  ae29.londtn-sbr1.ja.net (146.97.33.10)  7.643 ms  7.602 ms  7.554 ms
+10  ae0.londtn-ban3.ja.net (146.97.35.170)  7.666 ms  7.736 ms  7.747 ms
+11  40ge1-3.core1.lon2.he.net (195.66.224.21)  10.184 ms  9.717 ms  8.378 ms
+12  100ge5-1.core1.par2.he.net (184.105.223.254)  16.078 ms  15.926 ms  16.053 ms
+13  100ge6-1.core2.mrs1.he.net (184.105.222.22)  29.298 ms  26.054 ms  25.909 ms
+14  100ge10-1.core1.sin1.he.net (184.105.65.13)  165.706 ms  165.782 ms  165.771 ms
+15  100ge13-2.core1.tyo1.he.net (184.105.64.254)  232.029 ms  232.013 ms  232.194 ms
+16  100ge6-1.core1.hkg1.he.net (184.105.64.129)  294.674 ms  293.288 ms  293.445 ms
+17  * * *
+18  * * *
+19  * * 202.181.132.41 (202.181.132.41)  287.833 ms
+
+1493928004
+traceroute to 202.181.132.41 (202.181.132.41), 30 hops max, 60 byte packets
+ 1  139.222.0.1 (139.222.0.1)  1.835 ms  1.807 ms  2.231 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  0.407 ms  0.832 ms  0.822 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  1.161 ms  1.134 ms  1.145 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  1.646 ms  1.650 ms  1.622 ms
+ 5  boundary1-from-boundary2.uea.ac.uk (10.62.92.70)  1.616 ms  1.605 ms  1.575 ms
+ 6  xe-2-0-0.lowdss-ban1.ja.net (146.97.41.201)  4.337 ms  4.531 ms  4.551 ms
+ 7  ae26.lowdss-sbr1.ja.net (146.97.35.245)  6.188 ms  6.139 ms  6.158 ms
+ 8  ae31.londtw-sbr2.ja.net (146.97.33.30)  7.863 ms  7.852 ms  7.803 ms
+ 9  ae29.londtn-sbr1.ja.net (146.97.33.10)  7.852 ms  7.880 ms  7.931 ms
+10  ae0.londtn-ban3.ja.net (146.97.35.170)  7.994 ms  7.902 ms  7.961 ms
+11  40ge1-3.core1.lon2.he.net (195.66.224.21)  8.128 ms  7.948 ms  17.877 ms
+12  100ge5-1.core1.par2.he.net (184.105.223.254)  21.173 ms  19.913 ms  19.900 ms
+13  100ge6-1.core2.mrs1.he.net (184.105.222.22)  26.537 ms  35.696 ms  35.515 ms
+14  100ge10-1.core1.sin1.he.net (184.105.65.13)  170.203 ms  170.194 ms  170.234 ms
+15  100ge13-2.core1.tyo1.he.net (184.105.64.254)  240.603 ms  240.592 ms  240.581 ms
+16  100ge6-1.core1.hkg1.he.net (184.105.64.129)  291.933 ms  291.958 ms  291.942 ms
+17  * * *
+18  * * *
+19  202.181.132.41 (202.181.132.41)  293.806 ms * *
+
+1493949603
+traceroute to 202.181.132.41 (202.181.132.41), 30 hops max, 60 byte packets
+ 1  139.222.0.1 (139.222.0.1)  0.990 ms  1.264 ms  1.704 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  0.252 ms  0.887 ms  0.859 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  0.898 ms  1.093 ms  1.065 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  1.441 ms  1.157 ms  1.304 ms
+ 5  boundary1-from-boundary2.uea.ac.uk (10.62.92.70)  1.191 ms  1.274 ms  1.314 ms
+ 6  xe-2-0-0.lowdss-ban1.ja.net (146.97.41.201)  4.336 ms  4.393 ms  4.212 ms
+ 7  ae26.lowdss-sbr1.ja.net (146.97.35.245)  4.365 ms  4.318 ms  4.298 ms
+ 8  ae31.londtw-sbr2.ja.net (146.97.33.30)  7.663 ms  7.621 ms  7.628 ms
+ 9  ae29.londtn-sbr1.ja.net (146.97.33.10)  7.611 ms  7.488 ms  7.536 ms
+10  ae0.londtn-ban3.ja.net (146.97.35.170)  7.682 ms  7.663 ms  7.599 ms
+11  40ge1-3.core1.lon2.he.net (195.66.224.21)  34.378 ms  33.383 ms  30.270 ms
+12  100ge5-1.core1.par2.he.net (184.105.223.254)  16.380 ms  16.177 ms  16.351 ms
+13  100ge6-1.core2.mrs1.he.net (184.105.222.22)  26.804 ms  26.438 ms  26.363 ms
+14  100ge10-1.core1.sin1.he.net (184.105.65.13)  166.656 ms  166.645 ms  166.628 ms
+15  100ge13-2.core1.tyo1.he.net (184.105.64.254)  234.536 ms  234.616 ms  234.155 ms
+16  100ge6-1.core1.hkg1.he.net (184.105.64.129)  288.370 ms  291.367 ms  291.396 ms
+17  * * *
+18  * * *
+19  202.181.132.41 (202.181.132.41)  289.852 ms *  290.098 ms
+
+1493971204
+traceroute to 202.181.132.41 (202.181.132.41), 30 hops max, 60 byte packets
+ 1  139.222.0.1 (139.222.0.1)  1.701 ms  1.648 ms  3.269 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  0.600 ms  1.492 ms  1.496 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  1.490 ms  1.458 ms  1.453 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  1.444 ms  1.406 ms  1.392 ms
+ 5  boundary1-from-boundary2.uea.ac.uk (10.62.92.70)  1.332 ms  2.937 ms  1.283 ms
+ 6  xe-2-0-0.lowdss-ban1.ja.net (146.97.41.201)  4.160 ms  4.329 ms  4.218 ms
+ 7  ae26.lowdss-sbr1.ja.net (146.97.35.245)  7.879 ms  7.201 ms  7.184 ms
+ 8  ae31.londtw-sbr2.ja.net (146.97.33.30)  7.669 ms  7.576 ms  7.602 ms
+ 9  ae29.londtn-sbr1.ja.net (146.97.33.10)  29.452 ms  29.237 ms  7.485 ms
+10  ae0.londtn-ban3.ja.net (146.97.35.170)  7.570 ms  7.552 ms  7.536 ms
+11  40ge1-3.core1.lon2.he.net (195.66.224.21)  7.942 ms  8.218 ms  8.292 ms
+12  100ge5-1.core1.par2.he.net (184.105.223.254)  46.244 ms  41.253 ms  41.123 ms
+13  100ge6-1.core2.mrs1.he.net (184.105.222.22)  26.215 ms  26.078 ms  25.966 ms
+14  100ge10-1.core1.sin1.he.net (184.105.65.13)  125.390 ms  125.373 ms  124.726 ms
+15  100ge13-2.core1.tyo1.he.net (184.105.64.254)  196.623 ms  196.867 ms  196.850 ms
+16  100ge6-1.core1.hkg1.he.net (184.105.64.129)  243.854 ms  243.965 ms  243.533 ms
+17  * * *
+18  * * *
+19  * * *
+20  202.181.132.41 (202.181.132.41)  284.120 ms  284.850 ms  284.763 ms
+
+1493992804
+traceroute to 202.181.132.41 (202.181.132.41), 30 hops max, 60 byte packets
+ 1  139.222.0.1 (139.222.0.1)  1.084 ms  1.475 ms  3.529 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  0.470 ms  0.456 ms  0.444 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  1.049 ms  1.024 ms  0.988 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  1.264 ms  1.340 ms  1.066 ms
+ 5  boundary1-from-boundary2.uea.ac.uk (10.62.92.70)  3.306 ms  1.394 ms  1.210 ms
+ 6  xe-2-0-0.lowdss-ban1.ja.net (146.97.41.201)  4.242 ms  4.371 ms  4.319 ms
+ 7  ae26.lowdss-sbr1.ja.net (146.97.35.245)  4.497 ms  4.439 ms  4.464 ms
+ 8  ae31.londtw-sbr2.ja.net (146.97.33.30)  7.763 ms  7.713 ms  7.739 ms
+ 9  ae29.londtn-sbr1.ja.net (146.97.33.10)  17.118 ms  7.592 ms  17.126 ms
+10  ae0.londtn-ban3.ja.net (146.97.35.170)  7.680 ms  7.661 ms  7.768 ms
+11  40ge1-3.core1.lon2.he.net (195.66.224.21)  8.134 ms  8.011 ms  8.121 ms
+12  100ge5-1.core1.par2.he.net (184.105.223.254)  27.843 ms  27.910 ms  27.661 ms
+13  100ge6-1.core2.mrs1.he.net (184.105.222.22)  26.494 ms  26.428 ms  26.461 ms
+14  100ge10-1.core1.sin1.he.net (184.105.65.13)  167.746 ms  167.731 ms  167.857 ms
+15  100ge14-2.core1.hkg1.he.net (184.105.222.101)  202.299 ms  202.392 ms  202.339 ms
+16  * * *
+17  * * *
+18  * 202.181.132.41 (202.181.132.41)  204.069 ms *
+
+1494014404
+traceroute to 202.181.132.41 (202.181.132.41), 30 hops max, 60 byte packets
+ 1  139.222.0.1 (139.222.0.1)  1.038 ms  1.417 ms  1.845 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  0.218 ms  0.374 ms  0.221 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  0.973 ms  0.958 ms  1.041 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  1.052 ms  1.308 ms  1.156 ms
+ 5  boundary1-from-boundary2.uea.ac.uk (10.62.92.70)  1.496 ms  1.183 ms  1.325 ms
+ 6  xe-2-0-0.lowdss-ban1.ja.net (146.97.41.201)  4.234 ms  4.554 ms  4.361 ms
+ 7  ae26.lowdss-sbr1.ja.net (146.97.35.245)  4.527 ms  4.645 ms  4.668 ms
+ 8  ae31.londtw-sbr2.ja.net (146.97.33.30)  11.128 ms  11.108 ms  11.093 ms
+ 9  ae29.londtn-sbr1.ja.net (146.97.33.10)  7.959 ms  7.948 ms  7.708 ms
+10  ae0.londtn-ban3.ja.net (146.97.35.170)  7.937 ms  7.908 ms  7.993 ms
+11  40ge1-3.core1.lon2.he.net (195.66.224.21)  19.506 ms  19.163 ms  15.717 ms
+12  100ge5-1.core1.par2.he.net (184.105.223.254)  17.917 ms  18.127 ms  17.996 ms
+13  100ge6-1.core2.mrs1.he.net (184.105.222.22)  27.110 ms  26.400 ms  26.383 ms
+14  100ge10-1.core1.sin1.he.net (184.105.65.13)  177.100 ms  176.577 ms  176.565 ms
+15  100ge14-2.core1.hkg1.he.net (184.105.222.101)  206.034 ms  203.498 ms  203.621 ms
+16  * * *
+17  * * *
+18  * 202.181.132.41 (202.181.132.41)  203.103 ms *
+
+1494036004
+traceroute to 202.181.132.41 (202.181.132.41), 30 hops max, 60 byte packets
+ 1  139.222.0.1 (139.222.0.1)  1.045 ms  1.430 ms  1.813 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  0.410 ms  0.805 ms  0.794 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  0.995 ms  0.967 ms  0.939 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  1.271 ms  1.107 ms  1.357 ms
+ 5  boundary1-from-boundary2.uea.ac.uk (10.62.92.70)  1.121 ms  1.329 ms  1.186 ms
+ 6  xe-2-0-0.lowdss-ban1.ja.net (146.97.41.201)  4.151 ms  14.157 ms  14.133 ms
+ 7  ae26.lowdss-sbr1.ja.net (146.97.35.245)  4.428 ms  4.642 ms  4.628 ms
+ 8  ae31.londtw-sbr2.ja.net (146.97.33.30)  8.151 ms  7.625 ms  7.600 ms
+ 9  ae29.londtn-sbr1.ja.net (146.97.33.10)  8.108 ms  7.571 ms  7.560 ms
+10  ae0.londtn-ban3.ja.net (146.97.35.170)  8.062 ms  8.048 ms  8.031 ms
+11  40ge1-3.core1.lon2.he.net (195.66.224.21)  16.995 ms  16.490 ms  12.408 ms
+12  100ge5-1.core1.par2.he.net (184.105.223.254)  66.626 ms  66.765 ms  63.858 ms
+13  100ge6-1.core2.mrs1.he.net (184.105.222.22)  26.073 ms  26.307 ms  26.294 ms
+14  100ge10-1.core1.sin1.he.net (184.105.65.13)  164.799 ms  164.620 ms  164.771 ms
+15  100ge14-2.core1.hkg1.he.net (184.105.222.101)  205.602 ms  205.450 ms  198.210 ms
+16  * * *
+17  * * *
+18  * * *
+19  202.181.132.41 (202.181.132.41)  199.982 ms * *
+
+1494057604
+traceroute to 202.181.132.41 (202.181.132.41), 30 hops max, 60 byte packets
+ 1  139.222.0.1 (139.222.0.1)  1.164 ms  1.588 ms  1.981 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  0.484 ms  0.944 ms  0.929 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  1.143 ms  1.124 ms  1.098 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  1.540 ms  1.249 ms  1.380 ms
+ 5  boundary1-from-boundary2.uea.ac.uk (10.62.92.70)  1.538 ms  1.358 ms  1.582 ms
+ 6  xe-2-0-0.lowdss-ban1.ja.net (146.97.41.201)  4.315 ms  4.431 ms  4.580 ms
+ 7  ae26.lowdss-sbr1.ja.net (146.97.35.245)  4.479 ms  4.637 ms  4.619 ms
+ 8  ae31.londtw-sbr2.ja.net (146.97.33.30)  8.010 ms  7.973 ms  7.983 ms
+ 9  ae29.londtn-sbr1.ja.net (146.97.33.10)  7.791 ms  7.985 ms  7.755 ms
+10  ae0.londtn-ban3.ja.net (146.97.35.170)  8.079 ms  8.028 ms  8.050 ms
+11  40ge1-3.core1.lon2.he.net (195.66.224.21)  23.407 ms  22.946 ms  18.537 ms
+12  100ge5-1.core1.par2.he.net (184.105.223.254)  16.453 ms  16.386 ms  16.372 ms
+13  100ge6-1.core2.mrs1.he.net (184.105.222.22)  26.606 ms  26.644 ms  26.591 ms
+14  100ge10-1.core1.sin1.he.net (184.105.65.13)  168.957 ms  168.783 ms  168.929 ms
+15  100ge14-2.core1.hkg1.he.net (184.105.222.101)  206.633 ms  206.658 ms  206.428 ms
+16  * * *
+17  * * *
+18  202.181.132.41 (202.181.132.41)  205.420 ms  205.544 ms  205.530 ms
+
+1494079204
+traceroute to 202.181.132.41 (202.181.132.41), 30 hops max, 60 byte packets
+ 1  139.222.0.1 (139.222.0.1)  1.408 ms  1.574 ms  1.924 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  0.489 ms  0.482 ms  0.470 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  1.278 ms  1.258 ms  1.237 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  1.215 ms  1.426 ms  1.287 ms
+ 5  boundary1-from-boundary2.uea.ac.uk (10.62.92.70)  1.133 ms  1.273 ms  1.265 ms
+ 6  xe-2-0-0.lowdss-ban1.ja.net (146.97.41.201)  7.973 ms  4.553 ms  4.528 ms
+ 7  ae26.lowdss-sbr1.ja.net (146.97.35.245)  5.433 ms  5.412 ms  5.396 ms
+ 8  ae31.londtw-sbr2.ja.net (146.97.33.30)  7.861 ms  7.772 ms  7.822 ms
+ 9  ae29.londtn-sbr1.ja.net (146.97.33.10)  7.951 ms  7.899 ms  7.920 ms
+10  ae0.londtn-ban3.ja.net (146.97.35.170)  7.741 ms  7.928 ms  7.712 ms
+11  40ge1-3.core1.lon2.he.net (195.66.224.21)  11.523 ms  11.186 ms  9.621 ms
+12  100ge5-1.core1.par2.he.net (184.105.223.254)  16.742 ms  16.129 ms  16.275 ms
+13  100ge6-1.core2.mrs1.he.net (184.105.222.22)  26.224 ms  29.424 ms  29.907 ms
+14  100ge10-1.core1.sin1.he.net (184.105.65.13)  167.334 ms  167.311 ms  166.740 ms
+15  100ge14-2.core1.hkg1.he.net (184.105.222.101)  211.880 ms  212.172 ms  212.157 ms
+16  * * *
+17  * * *
+18  202.181.132.41 (202.181.132.41)  202.996 ms  202.830 ms *
+
+1494100804
+traceroute to 202.181.132.41 (202.181.132.41), 30 hops max, 60 byte packets
+ 1  139.222.0.1 (139.222.0.1)  1.108 ms  1.449 ms  1.912 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  0.493 ms  0.478 ms  0.446 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  1.312 ms  1.279 ms  1.242 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  1.388 ms  1.228 ms  1.478 ms
+ 5  boundary1-from-boundary2.uea.ac.uk (10.62.92.70)  1.187 ms  1.269 ms  1.352 ms
+ 6  xe-2-0-0.lowdss-ban1.ja.net (146.97.41.201)  4.152 ms  4.391 ms  4.362 ms
+ 7  ae26.lowdss-sbr1.ja.net (146.97.35.245)  18.108 ms  11.646 ms  11.629 ms
+ 8  ae31.londtw-sbr2.ja.net (146.97.33.30)  7.713 ms  7.695 ms  7.685 ms
+ 9  ae29.londtn-sbr1.ja.net (146.97.33.10)  7.655 ms  7.630 ms  8.527 ms
+10  ae0.londtn-ban3.ja.net (146.97.35.170)  8.591 ms  7.587 ms  8.553 ms
+11  40ge1-3.core1.lon2.he.net (195.66.224.21)  18.021 ms  17.567 ms  17.501 ms
+12  100ge5-1.core1.par2.he.net (184.105.223.254)  18.401 ms  55.609 ms  55.463 ms
+13  100ge6-1.core2.mrs1.he.net (184.105.222.22)  36.750 ms  36.500 ms  36.491 ms
+14  100ge10-1.core1.sin1.he.net (184.105.65.13)  170.434 ms  170.432 ms  170.393 ms
+15  100ge14-2.core1.hkg1.he.net (184.105.222.101)  197.794 ms  208.376 ms  208.413 ms
+16  * * *
+17  * * *
+18  202.181.132.41 (202.181.132.41)  199.603 ms  199.421 ms  199.534 ms
+
+1494122404
+traceroute to 202.181.132.41 (202.181.132.41), 30 hops max, 60 byte packets
+ 1  139.222.0.1 (139.222.0.1)  1.493 ms  1.455 ms  1.739 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  0.302 ms  0.290 ms  1.299 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  1.263 ms  1.251 ms  1.227 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  1.417 ms  1.546 ms  1.373 ms
+ 5  boundary1-from-boundary2.uea.ac.uk (10.62.92.70)  1.354 ms  1.152 ms  1.222 ms
+ 6  xe-2-0-0.lowdss-ban1.ja.net (146.97.41.201)  8.050 ms  12.581 ms  12.565 ms
+ 7  ae26.lowdss-sbr1.ja.net (146.97.35.245)  4.561 ms  5.388 ms  4.471 ms
+ 8  ae31.londtw-sbr2.ja.net (146.97.33.30)  8.725 ms  8.707 ms  8.786 ms
+ 9  ae29.londtn-sbr1.ja.net (146.97.33.10)  7.670 ms  36.472 ms  7.978 ms
+10  ae0.londtn-ban3.ja.net (146.97.35.170)  8.982 ms  8.968 ms  8.913 ms
+11  40ge1-3.core1.lon2.he.net (195.66.224.21)  18.935 ms  15.757 ms  14.945 ms
+12  100ge5-1.core1.par2.he.net (184.105.223.254)  23.746 ms  22.991 ms  20.830 ms
+13  100ge6-1.core2.mrs1.he.net (184.105.222.22)  28.598 ms  27.677 ms  27.459 ms
+14  100ge10-1.core1.sin1.he.net (184.105.65.13)  174.727 ms  174.714 ms  174.307 ms
+15  100ge14-2.core1.hkg1.he.net (184.105.222.101)  202.510 ms  202.191 ms  202.757 ms
+16  * * *
+17  * * *
+18  202.181.132.41 (202.181.132.41)  203.913 ms  203.832 ms  203.814 ms
+
+1494144006
+traceroute to 202.181.132.41 (202.181.132.41), 30 hops max, 60 byte packets
+ 1  139.222.0.1 (139.222.0.1)  1.124 ms  1.436 ms  1.850 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  0.428 ms  0.410 ms  0.388 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  1.106 ms  1.073 ms  1.046 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  1.228 ms  1.290 ms  1.241 ms
+ 5  boundary1-from-boundary2.uea.ac.uk (10.62.92.70)  1.151 ms  1.234 ms  1.353 ms
+ 6  xe-2-0-0.lowdss-ban1.ja.net (146.97.41.201)  4.245 ms  4.496 ms  4.486 ms
+ 7  ae26.lowdss-sbr1.ja.net (146.97.35.245)  4.832 ms  4.814 ms  4.797 ms
+ 8  ae31.londtw-sbr2.ja.net (146.97.33.30)  8.229 ms  8.213 ms  8.135 ms
+ 9  ae29.londtn-sbr1.ja.net (146.97.33.10)  8.257 ms  7.670 ms  8.229 ms
+10  ae0.londtn-ban3.ja.net (146.97.35.170)  7.730 ms  7.609 ms  7.619 ms
+11  40ge1-3.core1.lon2.he.net (195.66.224.21)  21.082 ms  20.586 ms  17.370 ms
+12  100ge5-1.core1.par2.he.net (184.105.223.254)  47.162 ms  46.804 ms  46.715 ms
+13  100ge6-1.core2.mrs1.he.net (184.105.222.22)  26.143 ms  35.420 ms  34.307 ms
+14  100ge10-1.core1.sin1.he.net (184.105.65.13)  165.970 ms  165.838 ms  165.932 ms
+15  100ge14-2.core1.hkg1.he.net (184.105.222.101)  200.084 ms  199.871 ms  200.056 ms
+16  * * *
+17  * * *
+18  * * 202.181.132.41 (202.181.132.41)  201.948 ms
+
+1494165605
+traceroute to 202.181.132.41 (202.181.132.41), 30 hops max, 60 byte packets
+ 1  139.222.0.1 (139.222.0.1)  1.160 ms  1.471 ms  1.843 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  0.376 ms  1.012 ms  0.994 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  54.158 ms  53.797 ms  54.118 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  1.434 ms  1.170 ms  1.295 ms
+ 5  boundary1-from-boundary2.uea.ac.uk (10.62.92.70)  1.097 ms  1.345 ms  1.156 ms
+ 6  xe-2-0-0.lowdss-ban1.ja.net (146.97.41.201)  4.137 ms  4.485 ms  4.605 ms
+ 7  ae26.lowdss-sbr1.ja.net (146.97.35.245)  4.711 ms  4.716 ms  4.816 ms
+ 8  ae31.londtw-sbr2.ja.net (146.97.33.30)  7.629 ms  7.925 ms  7.587 ms
+ 9  ae29.londtn-sbr1.ja.net (146.97.33.10)  7.512 ms  7.766 ms  7.965 ms
+10  ae0.londtn-ban3.ja.net (146.97.35.170)  8.103 ms  7.967 ms  7.494 ms
+11  40ge1-3.core1.lon2.he.net (195.66.224.21)  7.772 ms  7.844 ms  7.874 ms
+12  100ge5-1.core1.par2.he.net (184.105.223.254)  15.801 ms  16.078 ms  16.026 ms
+13  100ge6-1.core2.mrs1.he.net (184.105.222.22)  26.133 ms  26.121 ms  25.964 ms
+14  100ge10-1.core1.sin1.he.net (184.105.65.13)  164.192 ms  164.179 ms  164.160 ms
+15  100ge14-2.core1.hkg1.he.net (184.105.222.101)  197.808 ms  197.819 ms  197.800 ms
+16  * * *
+17  * * *
+18  202.181.132.41 (202.181.132.41)  199.503 ms * *
+
+1494187202
+traceroute to 202.181.132.41 (202.181.132.41), 30 hops max, 60 byte packets
+ 1  139.222.0.1 (139.222.0.1)  1.093 ms  1.448 ms  1.858 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  0.390 ms  0.369 ms  0.353 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  84.673 ms  84.698 ms  84.680 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  1.406 ms  1.152 ms  1.381 ms
+ 5  boundary1-from-boundary2.uea.ac.uk (10.62.92.70)  1.299 ms  1.340 ms  1.296 ms
+ 6  xe-2-0-0.lowdss-ban1.ja.net (146.97.41.201)  4.428 ms  4.523 ms  4.605 ms
+ 7  ae26.lowdss-sbr1.ja.net (146.97.35.245)  5.474 ms  5.465 ms  5.449 ms
+ 8  ae31.londtw-sbr2.ja.net (146.97.33.30)  7.993 ms  7.976 ms  7.910 ms
+ 9  ae29.londtn-sbr1.ja.net (146.97.33.10)  7.957 ms  7.941 ms  7.855 ms
+10  ae0.londtn-ban3.ja.net (146.97.35.170)  7.818 ms  7.657 ms  7.697 ms
+11  40ge1-3.core1.lon2.he.net (195.66.224.21)  16.856 ms  16.059 ms  16.039 ms
+12  100ge5-1.core1.par2.he.net (184.105.223.254)  19.259 ms  16.590 ms  16.627 ms
+13  100ge6-1.core2.mrs1.he.net (184.105.222.22)  26.750 ms  26.946 ms  26.727 ms
+14  100ge10-1.core1.sin1.he.net (184.105.65.13)  179.203 ms  178.918 ms  177.560 ms
+15  100ge14-2.core1.hkg1.he.net (184.105.222.101)  203.525 ms  213.374 ms  213.487 ms
+16  * * *
+17  * * *
+18  * 202.181.132.41 (202.181.132.41)  205.229 ms  204.893 ms
+
+1494208809
+traceroute to 202.181.132.41 (202.181.132.41), 30 hops max, 60 byte packets
+ 1  139.222.0.1 (139.222.0.1)  1.132 ms  1.511 ms  1.937 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  0.459 ms  0.447 ms  0.900 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  1.780 ms  1.718 ms  1.749 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  1.347 ms  1.324 ms  1.446 ms
+ 5  boundary1-from-boundary2.uea.ac.uk (10.62.92.70)  1.096 ms  1.275 ms  1.228 ms
+ 6  xe-2-0-0.lowdss-ban1.ja.net (146.97.41.201)  4.166 ms  4.361 ms  4.340 ms
+ 7  ae26.lowdss-sbr1.ja.net (146.97.35.245)  4.467 ms  4.489 ms  4.436 ms
+ 8  ae31.londtw-sbr2.ja.net (146.97.33.30)  7.811 ms  7.796 ms  7.781 ms
+ 9  ae29.londtn-sbr1.ja.net (146.97.33.10)  7.664 ms  7.794 ms  7.829 ms
+10  ae0.londtn-ban3.ja.net (146.97.35.170)  7.756 ms  7.672 ms  7.618 ms
+11  40ge1-3.core1.lon2.he.net (195.66.224.21)  8.246 ms  8.561 ms  8.901 ms
+12  100ge5-1.core1.par2.he.net (184.105.223.254)  42.637 ms  42.899 ms  42.824 ms
+13  100ge6-1.core2.mrs1.he.net (184.105.222.22)  33.807 ms  26.609 ms  26.612 ms
+14  100ge10-1.core1.sin1.he.net (184.105.65.13)  173.636 ms  173.506 ms  174.009 ms
+15  100ge14-2.core1.hkg1.he.net (184.105.222.101)  208.280 ms  208.186 ms  208.169 ms
+16  * * *
+17  * * *
+18  * 202.181.132.41 (202.181.132.41)  202.718 ms  203.048 ms
+
+1494230404
+traceroute to 202.181.132.41 (202.181.132.41), 30 hops max, 60 byte packets
+ 1  139.222.0.1 (139.222.0.1)  1.661 ms  1.540 ms  1.877 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  0.466 ms  0.448 ms  1.410 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  1.929 ms  1.906 ms  1.879 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  1.451 ms  1.291 ms  1.403 ms
+ 5  boundary1-from-boundary2.uea.ac.uk (10.62.92.70)  1.275 ms  1.122 ms  1.336 ms
+ 6  xe-2-0-0.lowdss-ban1.ja.net (146.97.41.201)  4.136 ms  4.168 ms  4.368 ms
+ 7  ae26.lowdss-sbr1.ja.net (146.97.35.245)  4.254 ms  4.230 ms  4.337 ms
+ 8  ae31.londtw-sbr2.ja.net (146.97.33.30)  15.471 ms  15.451 ms  15.235 ms
+ 9  ae29.londtn-sbr1.ja.net (146.97.33.10)  7.369 ms  7.348 ms  7.432 ms
+10  ae0.londtn-ban3.ja.net (146.97.35.170)  15.427 ms  15.455 ms  15.404 ms
+11  40ge1-3.core1.lon2.he.net (195.66.224.21)  7.848 ms  7.803 ms  8.235 ms
+12  100ge5-1.core1.par2.he.net (184.105.223.254)  17.814 ms  18.016 ms  17.850 ms
+13  100ge6-1.core2.mrs1.he.net (184.105.222.22)  33.169 ms  30.845 ms  30.830 ms
+14  100ge10-1.core1.sin1.he.net (184.105.65.13)  172.347 ms  172.214 ms  171.581 ms
+15  100ge14-2.core1.hkg1.he.net (184.105.222.101)  204.638 ms  197.214 ms  197.199 ms
+16  * * *
+17  * * *
+18  202.181.132.41 (202.181.132.41)  198.708 ms *  198.866 ms
+
+1494252003
+traceroute to 202.181.132.41 (202.181.132.41), 30 hops max, 60 byte packets
+ 1  139.222.0.1 (139.222.0.1)  1.162 ms  1.503 ms  1.916 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  0.460 ms  0.451 ms  0.426 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  120.291 ms  120.265 ms  120.236 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  1.233 ms  1.214 ms  1.331 ms
+ 5  boundary1-from-boundary2.uea.ac.uk (10.62.92.70)  3.590 ms  1.211 ms  1.737 ms
+ 6  xe-2-0-0.lowdss-ban1.ja.net (146.97.41.201)  4.625 ms  4.544 ms  4.525 ms
+ 7  ae26.lowdss-sbr1.ja.net (146.97.35.245)  4.642 ms  4.557 ms  4.605 ms
+ 8  ae31.londtw-sbr2.ja.net (146.97.33.30)  7.827 ms  7.841 ms  7.825 ms
+ 9  ae29.londtn-sbr1.ja.net (146.97.33.10)  7.680 ms  9.597 ms  7.929 ms
+10  ae0.londtn-ban3.ja.net (146.97.35.170)  7.916 ms  7.601 ms  7.827 ms
+11  40ge1-3.core1.lon2.he.net (195.66.224.21)  8.276 ms  8.258 ms  8.247 ms
+12  100ge5-1.core1.par2.he.net (184.105.223.254)  39.593 ms  36.614 ms  36.462 ms
+13  100ge6-1.core2.mrs1.he.net (184.105.222.22)  34.398 ms  34.494 ms  33.970 ms
+14  100ge10-1.core1.sin1.he.net (184.105.65.13)  167.688 ms  167.839 ms  167.859 ms
+15  100ge14-2.core1.hkg1.he.net (184.105.222.101)  202.447 ms  202.472 ms  202.450 ms
+16  * * *
+17  * * *
+18  202.181.132.41 (202.181.132.41)  203.882 ms * *

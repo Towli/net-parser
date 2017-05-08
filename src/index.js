@@ -1,45 +1,49 @@
-var Parser = require('./parser.js');
-var fs = require('fs');
-var regex = "";
-var ParserFactory = new Parser.Factory();
+let Parser = require('./parser.js');
+let fs = require('fs');
+let regex = "";
+let ParserFactory = new Parser.Factory();
 
-var args = process.argv[2];
+let args = process.argv[2];
 
-if (args == 'ping')
-  parsePing();
-else
-if (args == 'traceroute')
-  parseTraceroute();
-else
-if (args == 'wget')
-  parseWGET();
-else
-  console.log('No arguments given, terminating parser.');
+const IPs = [ "103.9.171.248", "104.16.62.3", "198.27.76.27", "202.181.132.41", 
+              "211.125.123.69", "220.243.233.15", "94.228.132.139" ];
 
+for (let i = 0; i < IPs.length; ++i) {
+  if (args == 'ping')
+    parsePing(IPs[i]);
+  else
+  if (args == 'traceroute')
+    parseTraceroute(IPs[i]);
+  else
+  if (args == 'wget')
+    parseWGET(IPs[i]);
+  else
+    console.log('No arguments given, terminating parser.');
+}
 
-function parsePing() {
-  fs.readFile('./example_logs/PING/103.9.171.248.log', 'utf8', function(err, data) {
+function parsePing(IP) {
+  fs.readFile('logs/PING/103.9.171.248.log', 'utf8', function(err, data) {
     if (err) throw err;
-    var PingParser = ParserFactory.createParser('ping');
-    var output = PingParser.parse(data);
-    console.log(output);
+    let PingParser = ParserFactory.createParser('ping');
+    let output = PingParser.parse(data);
+    fs.writeFileSync("output/PING/"+IP+".txt", JSON.stringify(output, null, 4));
   });
 }
 
-function parseTraceroute() {
-  fs.readFile('../TRACEROUTE/220.243.233.15.log', 'utf8', function(err, data) {
+function parseTraceroute(IP) {
+  fs.readFile('logs/TRACEROUTE/103.9.171.248.log', 'utf8', function(err, data) {
     if (err) throw err;
-    var TracerouteParser = ParserFactory.createParser('traceroute');
-    var output = TracerouteParser.parse(data);
-    fs.writeFile("220.txt", JSON.stringify(output, null, 4));
+    let TracerouteParser = ParserFactory.createParser('traceroute');
+    let output = TracerouteParser.parse(data);
+    fs.writeFileSync("output/TRACEROUTE/"+IP+".txt", JSON.stringify(output, null, 4));
   });
 }
 
-function parseWGET() {
-  fs.readFile('../WGET/sync.log', 'utf8', function(err, data) {
+function parseWGET(IP) {
+  fs.readFile('logs/WGET/sync.log', 'utf8', function(err, data) {
     if (err) throw err;
-    var WGETParser = ParserFactory.createParser('wget');
-    var output = WGETParser.parse(data);
-    console.log(output);
+    let WGETParser = ParserFactory.createParser('wget');
+    let output = WGETParser.parse(data);
+    fs.writeFileSync("output/WGET/"+IP+".txt", JSON.stringify(output, null, 4));
   });
 }
