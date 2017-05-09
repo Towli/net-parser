@@ -10,14 +10,22 @@ class PingParser extends Parser {
   constructor() {
     super()
     console.log('IAMA PingParser.');
+
+    this.getPingBlocks = function(data) {
+      let regex = /(?=\d{10})/g;
+      let blocks = data.split(regex);
+      blocks.shift();
+      return blocks;
+    }
+
   }
   getTimestamp(data) {
     var regex = /[0-9]{10}/gi;
-    return data.match(regex);
+    return data.match(regex)[0];
   }
   getPacketLoss(data) {
     var regex = /\d*.\d*% packet loss/gi;
-    return data.match(regex);
+    return data.match(regex)[0];
   }
   getIPAddress(data) {
     var regex = /\b\d{1,3}\.\d{1,3}\.\d{1,3}\.\d{1,3}\b/gi;
@@ -25,18 +33,36 @@ class PingParser extends Parser {
   }
   getRoundTripStats(data) {
     var regex = /(round-trip|rtt.*)/gi;
-    var RTStats = data.match(regex);
-    return {
-      RTStats: RTStats
-    }
+    var RTStats = data.match(regex)[0];
+    return RTStats;
   }
+  
   parse(data) {
-    return {
-      IPAddress: this.getIPAddress(data),
-      timestamp: this.getTimestamp(data),
-      packetLoss: this.getPacketLoss(data),
-      RTStats: this.getRoundTripStats(data)
+    let blocks = this.getPingBlocks(data);
+    let RTTMin = "";
+    let RTTAvg = "";
+    let RTTMax = "";
+    let RTTDev = "";
+    let output = [];
+    
+    for (let i = 0; i < blocks.length; i++) {
+      let timestamp = this.getTimestamp(blocks[i]);
+      let packetLoss = this.getPacketLoss(blocks[i]);
+      let RTStats = this.getRoundTripStats(blocks[i]);
+      let hostname = this.getIPAddress(blocks[i]);
+      let parsedBlock = {
+        "Timestamp": timestamp,
+        "Hostname": hostname,
+        "Packet loss": packetLoss,
+        "RTStats": RTStats
+        //"RTTMin": RTTMin,
+        //"RTTAvg": RTTAvg,
+        //"RTTMax": RTTMax,
+        //"RTTDev": RTTDev
+      };
+      output[i] = parsedBlock;
     }
+    return output;
   }
 }
 
