@@ -72,6 +72,8 @@ class TracerouteParser extends Parser {
     let regex = /\b\d{1,3}\.\d{1,3}\.\d{1,3}\.\d{1,3}\b/gi;
     if (data.match(regex))
       return data.match(regex)[0];
+    else
+      return "unresponsive"
   }
 
   getTimeStamp(data) {
@@ -87,19 +89,18 @@ class TracerouteParser extends Parser {
       let lines = this.getLines(blocks[i]);
       let targetIP = this.getTargetIP(blocks[i]);
       let numHops = this.getNumHops(lines);
+      let hop;
       
       let parsedBlock = {
         "Timestamp": timeStamp,
         "Target IP": targetIP,
-        "# Hops": numHops,
-        hops: []
+        "# Hops": numHops
       };
 
-      for (let i = 0; i < lines.length; i++) {
-        parsedBlock.hops[i] = this.getHopIP(lines[i]);
+      for (let i = 2; i < lines.length; i++) {
+        hop = this.getHopIP(lines[i]);
+        parsedBlock['hop'+(i-1)]= hop;
       }
-      parsedBlock.hops.shift();
-      parsedBlock.hops.shift();
       output[i] = parsedBlock;
     }
     return output;
