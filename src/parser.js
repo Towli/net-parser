@@ -99,6 +99,7 @@ class TracerouteParser extends Parser {
 
   parse(data) {
     let blocks = this.getTracerouteBlocks(data);
+    let output = [];
     for (let i = 0; i < blocks.length; i++) {
       let timeStamp = this.getTimeStamp(blocks[i]);
       let lines = this.getLines(blocks[i]);
@@ -117,8 +118,9 @@ class TracerouteParser extends Parser {
       }
       parsedBlock.hops.shift();
       parsedBlock.hops.shift();
-      console.log(parsedBlock);
+      output[i] = parsedBlock;
     }
+    return output;
   }
 
 }

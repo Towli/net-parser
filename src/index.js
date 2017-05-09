@@ -35,7 +35,7 @@ function parseTraceroute(IP) {
     if (err) throw err;
     let TracerouteParser = ParserFactory.createParser('traceroute');
     let output = TracerouteParser.parse(data);
-    //fs.writeFileSync("output/TRACEROUTE/"+IP+".txt", JSON.stringify(output, null, 4));
+    fs.writeFileSync("output/TRACEROUTE/"+IP+".txt", JSON.stringify(output, null, 4));
   });
 }
 
