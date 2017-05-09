@@ -49,24 +49,6 @@ class TracerouteParser extends Parser {
       return data.match(regex);
     }
 
-    /*this.getTracerouteBlocks = function(data) {
-      var lines = this.getLines(data);
-      var blocks = [], block = [];
-      var blocksCounter = 0, blockCounter = 0;
-      for (let i = 0; i < lines.length; ++i) {
-        let regex = /\d{10}/;
-        if(!lines[i].match(regex)) {
-          block[blockCounter] = lines[i];
-          blockCounter++;
-        } else {
-          blocks[blocksCounter++] = block;
-          blockCounter = 0;
-        }
-
-      }
-      return blocks;
-    }*/
-
     this.getTracerouteBlocks = function(data) {
       let regex = /(?=\d{10})/g;
       let blocks = data.split(regex);
