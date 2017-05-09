@@ -32,17 +32,28 @@ class PingParser extends Parser {
     return data.match(regex)[0];
   }
   getRoundTripStats(data) {
-    var regex = /(round-trip|rtt.*)/gi;
-    var RTStats = data.match(regex)[0];
-    return RTStats;
+    let regex = /(round-trip|rtt.*)/gi;
+    let statsRegex = /([0-9]+\.?[0-9]*)/gi;
+    let RTStats = data.match(regex);
+    if (RTStats === null) {
+      return {
+        RTTMin: null,
+        RTTAvg: null,
+        RTTMax: null,
+        RTTDev: null
+      }
+    }
+    RTStats = RTStats[0].match(statsRegex);
+    return {
+      RTTMin: RTStats[0],
+      RTTAvg: RTStats[1],
+      RTTMax: RTStats[2],
+      RTTDev: RTStats[3]
+    };
   }
-  
+
   parse(data) {
     let blocks = this.getPingBlocks(data);
-    let RTTMin = "";
-    let RTTAvg = "";
-    let RTTMax = "";
-    let RTTDev = "";
     let output = [];
     
     for (let i = 0; i < blocks.length; i++) {
@@ -54,11 +65,10 @@ class PingParser extends Parser {
         "Timestamp": timestamp,
         "Hostname": hostname,
         "Packet loss": packetLoss,
-        "RTStats": RTStats
-        //"RTTMin": RTTMin,
-        //"RTTAvg": RTTAvg,
-        //"RTTMax": RTTMax,
-        //"RTTDev": RTTDev
+        "RTTMin": RTStats.RTTMin,
+        "RTTAvg": RTStats.RTTAvg,
+        "RTTMax": RTStats.RTTMax,
+        "RTTDev": RTStats.RTTDev
       };
       output[i] = parsedBlock;
     }
