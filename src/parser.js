@@ -42,57 +42,85 @@ class PingParser extends Parser {
 
 class TracerouteParser extends Parser {
   constructor() {
-    super()
-    console.log('IAMA TracerouteParser.');
+    super();
 
-    /* Private methods */
-    this.getHops = function(data) {
-      var regex = /([\n]\d\s*([^\n\r]*))|([\n] \s*([^\n\r]*))/gi;
+    this.getLines = function(data) {
+      var regex = /.*(\n)+/gi;
       return data.match(regex);
     }
-    this.getRoundTripStats = function(data) {
-      var IPregex = /(\d+.\d+.\d+.\d+)/gi;
-      var RTTregex = /(\d+.\d+ ms)/gi;
-      var hopIPs = data.match(IPregex);
-      var RTStats = data.match(RTTregex);
-      if (hopIPs != null) {
-        if (hopIPs.length > 1) {
-          return {
-            IP: hopIPs[0],
-            RTStats: RTStats[0]
-          }
+
+    /*this.getTracerouteBlocks = function(data) {
+      var lines = this.getLines(data);
+      var blocks = [], block = [];
+      var blocksCounter = 0, blockCounter = 0;
+      for (let i = 0; i < lines.length; ++i) {
+        let regex = /\d{10}/;
+        if(!lines[i].match(regex)) {
+          block[blockCounter] = lines[i];
+          blockCounter++;
+        } else {
+          blocks[blocksCounter++] = block;
+          blockCounter = 0;
         }
-        return {
-          IP: hopIPs[0],
-          RTStats: JSON.stringify(RTStats)
-        }
+
       }
+      return blocks;
+    }*/
+
+    this.getTracerouteBlocks = function(data) {
+      let regex = /(?=\d{10})/g;
+      let blocks = data.split(regex);
+      blocks.shift();
+      return blocks;
     }
+
   }
-  getTimestamp(data) {
-    var regex = /[0-9]{10}/gi;
-    return data.match(regex);
-  }
-  getHopStats(data) {
-    var hops = this.getHops(data);
-    var hopStats = []
-    for (var i in hops) {
-      hopStats[i] = this.getRoundTripStats(hops[i]);
-    }
-    return hopStats;
-  }
-  getIPAddress(data) {
-    var regex = /\b\d{1,3}\.\d{1,3}\.\d{1,3}\.\d{1,3}\b/gi;
+
+  getTargetIP(data) {
+    let regex = /\b\d{1,3}\.\d{1,3}\.\d{1,3}\.\d{1,3}\b/gi;
     return data.match(regex)[0];
   }
+
+  getNumHops(data) {
+    let irrelevantLines = 2;
+    return data.length - irrelevantLines;
+  }
+
+  getHopIP(data) {
+    let regex = /\b\d{1,3}\.\d{1,3}\.\d{1,3}\.\d{1,3}\b/gi;
+    if (data.match(regex))
+      return data.match(regex)[0];
+  }
+
+  getTimeStamp(data) {
+    var regex = /[0-9]{10}/gi;
+    return data.match(regex)[0];
+  }
+
   parse(data) {
-    return {
-      IPAddress: this.getIPAddress(data),
-      timestamp: this.getTimestamp(data),
-      maxHops: "Traceroutes's default is 30 (change through Parser API)",
-      hopStats: this.getHopStats(data)
+    let blocks = this.getTracerouteBlocks(data);
+    for (let i = 0; i < blocks.length; i++) {
+      let timeStamp = this.getTimeStamp(blocks[i]);
+      let lines = this.getLines(blocks[i]);
+      let targetIP = this.getTargetIP(blocks[i]);
+      let numHops = this.getNumHops(lines);
+      
+      let parsedBlock = {
+        "Timestamp": timeStamp,
+        "Target IP": targetIP,
+        "# Hops": numHops,
+        hops: []
+      };
+
+      for (let i = 0; i < lines.length; i++) {
+        parsedBlock.hops[i] = this.getHopIP(lines[i]);
+      }
+      parsedBlock.hops.shift();
+      parsedBlock.hops.shift();
+      console.log(parsedBlock);
     }
   }
+
 }
 
 class WGETParser extends Parser {

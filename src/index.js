@@ -22,7 +22,7 @@ for (let i = 0; i < IPs.length; ++i) {
 }
 
 function parsePing(IP) {
-  fs.readFile('logs/PING/103.9.171.248.log', 'utf8', function(err, data) {
+  fs.readFile('logs/PING/'+ IP +'.log', 'utf8', function(err, data) {
     if (err) throw err;
     let PingParser = ParserFactory.createParser('ping');
     let output = PingParser.parse(data);
@@ -31,11 +31,11 @@ function parsePing(IP) {
 }
 
 function parseTraceroute(IP) {
-  fs.readFile('logs/TRACEROUTE/103.9.171.248.log', 'utf8', function(err, data) {
+  fs.readFile('logs/TRACEROUTE/'+ IP +'.log', 'utf8', function(err, data) {
     if (err) throw err;
     let TracerouteParser = ParserFactory.createParser('traceroute');
     let output = TracerouteParser.parse(data);
-    fs.writeFileSync("output/TRACEROUTE/"+IP+".txt", JSON.stringify(output, null, 4));
+    //fs.writeFileSync("output/TRACEROUTE/"+IP+".txt", JSON.stringify(output, null, 4));
   });
 }
 
