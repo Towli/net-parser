@@ -25,7 +25,9 @@ class PingParser extends Parser {
   }
   getPacketLoss(data) {
     var regex = /\d*.\d*% packet loss/gi;
-    return data.match(regex)[0];
+    let output = data.match(regex)[0];
+    output = output.replace("% packet loss", "");
+    return output;
   }
   getIPAddress(data) {
     var regex = /\b\d{1,3}\.\d{1,3}\.\d{1,3}\.\d{1,3}\b/gi;
@@ -148,6 +150,14 @@ class WGETParser extends Parser {
   constructor() {
     super()
     console.log('IAMA WGETParser.');
+
+    this.getWGETBlocks = function(data) {
+      let regex = /(?=\d{10})/g;
+      let blocks = data.split(regex);
+      blocks.shift();
+      return blocks;
+    }
+
   }
   getIPAddress(data) {
     var regex = /\b\d{1,3}\.\d{1,3}\.\d{1,3}\.\d{1,3}\b/gi;
@@ -155,23 +165,35 @@ class WGETParser extends Parser {
   }
   getTimestamp(data) {
     var regex = /[0-9]{10}/gi;
-    return data.match(regex);
+    return data.match(regex)[0];
   }
   getSize(data) {
-    var regex = /Length: [0-9]+/gi;
-    return data.match(regex);
+    let regex = /Length: [0-9]+/gi;
+    let output = data.match(regex)[0];
+    output = output.replace("Length: ", "");
+    return output;
   }
   getSpeed(data) {
     var regex = /\(([0-9]+\.?[0-9]*) ([^\s]+)\)/gi;
-    return data.match(regex);
+    return data.match(regex)[0];
   }
   parse(data) {
-    return {
-      IPAddress: this.getIPAddress(data),
-      timestamp: this.getTimestamp(data),
-      size: this.getSize(data),
-      speed: this.getSpeed(data)
+    let blocks = this.getWGETBlocks(data);
+    let output = [];
+    for (let i = 0; i < blocks.length; i++) {
+      let hostname = this.getIPAddress(blocks[i]);
+      let timestamp = this.getTimestamp(blocks[i]);
+      let size = this.getSize(blocks[i]);
+      let speed = this.getSpeed(blocks[i]);
+      let parsedBlock = {
+        "Timestamp": timestamp,
+        "Hostname": hostname,
+        "Size": size,
+        "Throughput": speed
+      };
+      output[i] = parsedBlock;
     }
+    return output;
   }
 }
 
